@@ -1,0 +1,51 @@
+
+############################ annie - 02/07/21 15:25:46 EST ############################
+
+ 15:25:46 up 5 min,  1 user,  load average: 0.77, 0.65, 0.31
+
+
+reboot   system boot  5.3.0-53-generic Sun Feb  7 15:20   still running
+reboot   system boot  5.3.0-53-generic Sun Feb  7 14:33 - 15:20  (00:46)
+reboot   system boot  5.3.0-53-generic Sun Feb  7 12:10 - 14:33  (02:22)
+reboot   system boot  5.3.0-53-generic Sun Feb  7 08:01 - 12:10  (04:09)
+reboot   system boot  5.3.0-53-generic Mon Feb  1 21:00 - 00:10  (03:10)
+
+
+
+
+
+
+
+
+[   15.610379] wlp1s0: associated
+[   15.844861] IPv6: ADDRCONF(NETDEV_CHANGE): wlp1s0: link becomes ready
+[   21.868212] iTCO_vendor_support: vendor-support=0
+[   21.871373] iTCO_wdt: Intel TCO WatchDog Timer Driver v1.11
+[   21.871439] iTCO_wdt: Found a Apollo Lake SoC TCO device (Version=5, TCOBASE=0x0460)
+[   21.871760] iTCO_wdt: initialized. heartbeat=30 sec (nowayout=0)
+[  112.483451] Bluetooth: RFCOMM TTY layer initialized
+[  112.483463] Bluetooth: RFCOMM socket layer initialized
+[  112.483476] Bluetooth: RFCOMM ver 1.11
+[  115.302742] rfkill: input handler disabled
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   15G   14G  52% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G   53M   56G   1% /data
+
+
+IN-USE  SSID     MODE   CHAN  RATE        SIGNAL  BARS  SECURITY 
+*       FBI VAN  Infra  149   270 Mbit/s  45      ▂▄__  WPA2     
+
+
+
+
+ipop:
+192.168.10.12/16
+
+
+enp2s0:
+10.10.1.2/24
+
+

@@ -1,0 +1,29 @@
+
+############################ annie - 02/07/21 15:15:01 EST ############################
+
+2021/02/07 15:15:01 autossh[3400]: checking for grace period, tries = 0
+2021/02/07 15:15:01 autossh[3400]: starting ssh (count 1)
+2021/02/07 15:15:01 autossh[3400]: ssh child pid is 3401
+2021/02/07 15:15:01 autossh[3400]: check on child 3401
+2021/02/07 15:15:01 autossh[3400]: set alarm for 600 secs
+2021/02/07 15:15:01 autossh[3401]: execing /usr/bin/ssh
+2021/02/07 15:20:11 autossh[3400]: check on child 3401
+2021/02/07 15:20:11 autossh[3400]: set alarm for 289 secs
+2021/02/07 15:20:11 autossh[3400]: check on child 3401
+2021/02/07 15:20:11 autossh[3400]: set alarm for 289 secs
+2021/02/07 15:20:11 autossh[3400]: check on child 3401
+2021/02/07 15:20:11 autossh[3400]: ssh exited with status 0; autossh exiting
+2021/02/07 15:20:11 autossh[3400]: expired child, returning 2
+
+############################ annie - 02/07/21 15:22:46 EST ############################
+
+2021/02/07 15:22:46 autossh[2552]: checking for grace period, tries = 0
+2021/02/07 15:22:46 autossh[2552]: starting ssh (count 1)
+2021/02/07 15:22:46 autossh[2552]: ssh child pid is 2553
+2021/02/07 15:22:46 autossh[2552]: check on child 2553
+2021/02/07 15:22:46 autossh[2552]: set alarm for 600 secs
+2021/02/07 15:22:46 autossh[2553]: execing /usr/bin/ssh
+
+############################ annie - 02/07/21 15:25:01 EST ############################
+
+2021/02/07 15:25:01 autossh[2676]: bind on 127.0.0.1:61001: Address already in use
