@@ -198,3 +198,116 @@ PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
 --- 8.8.8.8 ping statistics ---
 3 packets transmitted, 3 received, 0% packet loss, time 2003ms
 rtt min/avg/max/mdev = 30.895/48.622/72.545/17.560 ms
+
+############################ annie - 02/08/21 00:00:01 EST ############################
+
+ 00:00:01 up  8:39,  1 user,  load average: 0.08, 0.05, 0.01
+
+
+reboot   system boot  5.3.0-53-generic Sun Feb  7 15:20   still running
+reboot   system boot  5.3.0-53-generic Sun Feb  7 14:33 - 15:20  (00:46)
+reboot   system boot  5.3.0-53-generic Sun Feb  7 12:10 - 14:33  (02:22)
+reboot   system boot  5.3.0-53-generic Sun Feb  7 08:01 - 12:10  (04:09)
+reboot   system boot  5.3.0-53-generic Mon Feb  1 21:00 - 00:10  (03:10)
+
+
+
+
+
+
+
+
+[   15.610379] wlp1s0: associated
+[   15.844861] IPv6: ADDRCONF(NETDEV_CHANGE): wlp1s0: link becomes ready
+[   21.868212] iTCO_vendor_support: vendor-support=0
+[   21.871373] iTCO_wdt: Intel TCO WatchDog Timer Driver v1.11
+[   21.871439] iTCO_wdt: Found a Apollo Lake SoC TCO device (Version=5, TCOBASE=0x0460)
+[   21.871760] iTCO_wdt: initialized. heartbeat=30 sec (nowayout=0)
+[  112.483451] Bluetooth: RFCOMM TTY layer initialized
+[  112.483463] Bluetooth: RFCOMM socket layer initialized
+[  112.483476] Bluetooth: RFCOMM ver 1.11
+[  115.302742] rfkill: input handler disabled
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   15G   14G  52% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G   53M   56G   1% /data
+
+
+IN-USE  SSID     MODE   CHAN  RATE        SIGNAL  BARS  SECURITY 
+*       FBI VAN  Infra  149   270 Mbit/s  44      ▂▄__  WPA2     
+
+
+
+
+ipop:
+192.168.10.12/16
+
+
+enp2s0:
+10.10.1.2/24
+
+
+PING 192.168.10.2 (192.168.10.2) 56(84) bytes of data.
+
+--- 192.168.10.2 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2040ms
+
+
+
+PING 192.168.10.11 (192.168.10.11) 56(84) bytes of data.
+
+--- 192.168.10.11 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2055ms
+
+
+
+PING 192.168.10.12 (192.168.10.12) 56(84) bytes of data.
+64 bytes from 192.168.10.12: icmp_seq=1 ttl=64 time=0.068 ms
+64 bytes from 192.168.10.12: icmp_seq=2 ttl=64 time=0.089 ms
+64 bytes from 192.168.10.12: icmp_seq=3 ttl=64 time=0.089 ms
+
+--- 192.168.10.12 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2055ms
+rtt min/avg/max/mdev = 0.068/0.082/0.089/0.009 ms
+
+
+PING 192.168.10.13 (192.168.10.13) 56(84) bytes of data.
+
+--- 192.168.10.13 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2038ms
+
+
+
+PING github.com (140.82.113.4) 56(84) bytes of data.
+64 bytes from lb-140-82-113-4-iad.github.com (140.82.113.4): icmp_seq=1 ttl=54 time=46.2 ms
+64 bytes from lb-140-82-113-4-iad.github.com (140.82.113.4): icmp_seq=2 ttl=54 time=28.7 ms
+64 bytes from lb-140-82-113-4-iad.github.com (140.82.113.4): icmp_seq=3 ttl=54 time=34.9 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 28.784/36.665/46.213/7.212 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=117 time=33.8 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=117 time=29.5 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=117 time=28.1 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 28.114/30.525/33.879/2.450 ms
+
+############################ annie - 02/08/21 09:27:53 EST ############################
+
+ 09:27:53 up 5 min,  1 user,  load average: 0.26, 0.60, 0.31
+
+
+reboot   system boot  5.3.0-53-generic Mon Feb  8 09:22   still running
+reboot   system boot  5.3.0-53-generic Mon Feb  8 01:15 - 01:16  (00:01)
+reboot   system boot  5.3.0-53-generic Sun Feb  7 15:20 - 00:10  (08:49)
+reboot   system boot  5.3.0-53-generic Sun Feb  7 14:33 - 15:20  (00:46)
+reboot   system boot  5.3.0-53-generic Sun Feb  7 12:10 - 14:33  (02:22)
+
+
