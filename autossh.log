@@ -27,3 +27,388 @@
 ############################ annie - 02/07/21 15:25:01 EST ############################
 
 2021/02/07 15:25:01 autossh[2676]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 15:30:01 EST ############################
+
+2021/02/07 15:30:01 autossh[2891]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 15:33:01 autossh[2552]: timeout polling to accept read connection
+2021/02/07 15:33:01 autossh[2552]: port down, restarting ssh
+2021/02/07 15:33:01 autossh[2552]: checking for grace period, tries = 0
+2021/02/07 15:33:01 autossh[2552]: starting ssh (count 2)
+2021/02/07 15:33:01 autossh[2552]: ssh child pid is 2923
+2021/02/07 15:33:01 autossh[2552]: check on child 2923
+2021/02/07 15:33:01 autossh[2552]: set alarm for 600 secs
+2021/02/07 15:33:01 autossh[2923]: execing /usr/bin/ssh
+
+############################ annie - 02/07/21 15:35:01 EST ############################
+
+2021/02/07 15:35:01 autossh[2950]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 15:40:01 EST ############################
+
+2021/02/07 15:40:01 autossh[3008]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 15:43:16 autossh[2552]: timeout polling to accept read connection
+2021/02/07 15:43:16 autossh[2552]: port down, restarting ssh
+2021/02/07 15:43:16 autossh[2552]: checking for grace period, tries = 0
+2021/02/07 15:43:16 autossh[2552]: starting ssh (count 3)
+2021/02/07 15:43:16 autossh[2552]: ssh child pid is 3042
+2021/02/07 15:43:16 autossh[2552]: check on child 3042
+2021/02/07 15:43:16 autossh[2552]: set alarm for 600 secs
+2021/02/07 15:43:16 autossh[3042]: execing /usr/bin/ssh
+
+############################ annie - 02/07/21 15:45:01 EST ############################
+
+2021/02/07 15:45:01 autossh[3066]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 15:50:01 EST ############################
+
+2021/02/07 15:50:01 autossh[3123]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 15:53:31 autossh[2552]: timeout polling to accept read connection
+2021/02/07 15:53:31 autossh[2552]: port down, restarting ssh
+2021/02/07 15:53:31 autossh[2552]: checking for grace period, tries = 0
+2021/02/07 15:53:31 autossh[2552]: starting ssh (count 4)
+2021/02/07 15:53:31 autossh[2552]: ssh child pid is 3158
+2021/02/07 15:53:31 autossh[2552]: check on child 3158
+2021/02/07 15:53:31 autossh[2552]: set alarm for 600 secs
+2021/02/07 15:53:31 autossh[3158]: execing /usr/bin/ssh
+
+############################ annie - 02/07/21 15:55:01 EST ############################
+
+2021/02/07 15:55:01 autossh[3181]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 16:00:01 EST ############################
+
+2021/02/07 16:00:01 autossh[3238]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 16:03:46 autossh[2552]: timeout polling to accept read connection
+2021/02/07 16:03:46 autossh[2552]: port down, restarting ssh
+2021/02/07 16:03:46 autossh[2552]: checking for grace period, tries = 0
+2021/02/07 16:03:46 autossh[2552]: starting ssh (count 5)
+2021/02/07 16:03:46 autossh[2552]: ssh child pid is 3276
+2021/02/07 16:03:46 autossh[2552]: check on child 3276
+2021/02/07 16:03:46 autossh[2552]: set alarm for 600 secs
+2021/02/07 16:03:46 autossh[3276]: execing /usr/bin/ssh
+
+############################ annie - 02/07/21 16:05:01 EST ############################
+
+2021/02/07 16:05:01 autossh[3298]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 16:10:01 EST ############################
+
+2021/02/07 16:10:01 autossh[3355]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 16:14:01 autossh[2552]: timeout polling to accept read connection
+2021/02/07 16:14:01 autossh[2552]: port down, restarting ssh
+2021/02/07 16:14:01 autossh[2552]: checking for grace period, tries = 0
+2021/02/07 16:14:01 autossh[2552]: starting ssh (count 6)
+2021/02/07 16:14:01 autossh[2552]: ssh child pid is 3395
+2021/02/07 16:14:01 autossh[2552]: check on child 3395
+2021/02/07 16:14:01 autossh[2552]: set alarm for 600 secs
+2021/02/07 16:14:01 autossh[3395]: execing /usr/bin/ssh
+
+############################ annie - 02/07/21 16:15:01 EST ############################
+
+2021/02/07 16:15:01 autossh[3412]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 16:20:01 EST ############################
+
+2021/02/07 16:20:01 autossh[3473]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 16:24:16 autossh[2552]: timeout polling to accept read connection
+2021/02/07 16:24:16 autossh[2552]: port down, restarting ssh
+2021/02/07 16:24:16 autossh[2552]: checking for grace period, tries = 0
+2021/02/07 16:24:16 autossh[2552]: starting ssh (count 7)
+2021/02/07 16:24:16 autossh[2552]: ssh child pid is 3523
+2021/02/07 16:24:16 autossh[2552]: check on child 3523
+2021/02/07 16:24:16 autossh[2552]: set alarm for 600 secs
+2021/02/07 16:24:16 autossh[3523]: execing /usr/bin/ssh
+
+############################ annie - 02/07/21 16:25:01 EST ############################
+
+2021/02/07 16:25:01 autossh[3539]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 16:30:01 EST ############################
+
+2021/02/07 16:30:01 autossh[3597]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 16:34:31 autossh[2552]: timeout polling to accept read connection
+2021/02/07 16:34:31 autossh[2552]: port down, restarting ssh
+2021/02/07 16:34:31 autossh[2552]: checking for grace period, tries = 0
+2021/02/07 16:34:31 autossh[2552]: starting ssh (count 8)
+2021/02/07 16:34:31 autossh[2552]: ssh child pid is 3639
+2021/02/07 16:34:31 autossh[2552]: check on child 3639
+2021/02/07 16:34:31 autossh[2552]: set alarm for 600 secs
+2021/02/07 16:34:31 autossh[3639]: execing /usr/bin/ssh
+
+############################ annie - 02/07/21 16:35:01 EST ############################
+
+2021/02/07 16:35:01 autossh[3655]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 16:40:01 EST ############################
+
+2021/02/07 16:40:01 autossh[3710]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 16:44:31 autossh[2552]: not what I sent: "annie autossh 2552 1843012172 
+" : ""
+2021/02/07 16:44:32 autossh[2552]: connection ok
+2021/02/07 16:44:32 autossh[2552]: check on child 3639
+2021/02/07 16:44:32 autossh[2552]: set alarm for 600 secs
+
+############################ annie - 02/07/21 16:45:01 EST ############################
+
+2021/02/07 16:45:01 autossh[3770]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 16:50:01 EST ############################
+
+2021/02/07 16:50:01 autossh[3828]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 16:54:32 autossh[2552]: not what I sent: "annie autossh 2552 871160163 
+" : ""
+2021/02/07 16:54:32 autossh[2552]: connection ok
+2021/02/07 16:54:32 autossh[2552]: check on child 3639
+2021/02/07 16:54:32 autossh[2552]: set alarm for 600 secs
+
+############################ annie - 02/07/21 16:55:01 EST ############################
+
+2021/02/07 16:55:01 autossh[3885]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 17:00:01 EST ############################
+
+2021/02/07 17:00:01 autossh[3942]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 17:04:32 autossh[2552]: not what I sent: "annie autossh 2552 1907564976 
+" : ""
+2021/02/07 17:04:32 autossh[2552]: connection ok
+2021/02/07 17:04:32 autossh[2552]: check on child 3639
+2021/02/07 17:04:32 autossh[2552]: set alarm for 600 secs
+
+############################ annie - 02/07/21 17:05:01 EST ############################
+
+2021/02/07 17:05:01 autossh[4117]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 17:10:01 EST ############################
+
+2021/02/07 17:10:01 autossh[4176]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 17:14:32 autossh[2552]: not what I sent: "annie autossh 2552 1973445912 
+" : ""
+2021/02/07 17:14:32 autossh[2552]: connection ok
+2021/02/07 17:14:32 autossh[2552]: check on child 3639
+2021/02/07 17:14:32 autossh[2552]: set alarm for 600 secs
+
+############################ annie - 02/07/21 17:15:01 EST ############################
+
+2021/02/07 17:15:01 autossh[4236]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 17:20:01 EST ############################
+
+2021/02/07 17:20:01 autossh[4296]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 17:24:32 autossh[2552]: not what I sent: "annie autossh 2552 1242880349 
+" : ""
+2021/02/07 17:24:32 autossh[2552]: connection ok
+2021/02/07 17:24:32 autossh[2552]: check on child 3639
+2021/02/07 17:24:32 autossh[2552]: set alarm for 600 secs
+
+############################ annie - 02/07/21 17:25:01 EST ############################
+
+2021/02/07 17:25:01 autossh[4357]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 17:30:01 EST ############################
+
+2021/02/07 17:30:01 autossh[4412]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 17:34:32 autossh[2552]: not what I sent: "annie autossh 2552 890176565 
+" : ""
+2021/02/07 17:34:32 autossh[2552]: connection ok
+2021/02/07 17:34:32 autossh[2552]: check on child 3639
+2021/02/07 17:34:32 autossh[2552]: set alarm for 600 secs
+
+############################ annie - 02/07/21 17:35:01 EST ############################
+
+2021/02/07 17:35:01 autossh[4470]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 17:40:01 EST ############################
+
+2021/02/07 17:40:01 autossh[4527]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 17:44:32 autossh[2552]: not what I sent: "annie autossh 2552 108220916 
+" : ""
+2021/02/07 17:44:33 autossh[2552]: connection ok
+2021/02/07 17:44:33 autossh[2552]: check on child 3639
+2021/02/07 17:44:33 autossh[2552]: set alarm for 600 secs
+
+############################ annie - 02/07/21 17:45:01 EST ############################
+
+2021/02/07 17:45:01 autossh[4585]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 17:50:01 EST ############################
+
+2021/02/07 17:50:01 autossh[4641]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 17:54:33 autossh[2552]: not what I sent: "annie autossh 2552 2142015629 
+" : ""
+2021/02/07 17:54:33 autossh[2552]: connection ok
+2021/02/07 17:54:33 autossh[2552]: check on child 3639
+2021/02/07 17:54:33 autossh[2552]: set alarm for 600 secs
+
+############################ annie - 02/07/21 17:55:01 EST ############################
+
+2021/02/07 17:55:01 autossh[4699]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 18:00:01 EST ############################
+
+2021/02/07 18:00:01 autossh[4766]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 18:04:33 autossh[2552]: not what I sent: "annie autossh 2552 104391140 
+" : ""
+2021/02/07 18:04:33 autossh[2552]: connection ok
+2021/02/07 18:04:33 autossh[2552]: check on child 3639
+2021/02/07 18:04:33 autossh[2552]: set alarm for 600 secs
+
+############################ annie - 02/07/21 18:05:01 EST ############################
+
+2021/02/07 18:05:01 autossh[4916]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 18:10:01 EST ############################
+
+2021/02/07 18:10:01 autossh[4973]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 18:14:33 autossh[2552]: not what I sent: "annie autossh 2552 1142140670 
+" : ""
+2021/02/07 18:14:34 autossh[2552]: connection ok
+2021/02/07 18:14:34 autossh[2552]: check on child 3639
+2021/02/07 18:14:34 autossh[2552]: set alarm for 600 secs
+
+############################ annie - 02/07/21 18:15:01 EST ############################
+
+2021/02/07 18:15:01 autossh[5029]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 18:20:01 EST ############################
+
+2021/02/07 18:20:01 autossh[5088]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 18:24:34 autossh[2552]: not what I sent: "annie autossh 2552 1979115208 
+" : ""
+2021/02/07 18:24:34 autossh[2552]: connection ok
+2021/02/07 18:24:34 autossh[2552]: check on child 3639
+2021/02/07 18:24:34 autossh[2552]: set alarm for 600 secs
+
+############################ annie - 02/07/21 18:25:01 EST ############################
+
+2021/02/07 18:25:01 autossh[5145]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 18:30:01 EST ############################
+
+2021/02/07 18:30:01 autossh[5201]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 18:34:34 autossh[2552]: not what I sent: "annie autossh 2552 1043742236 
+" : ""
+2021/02/07 18:34:34 autossh[2552]: connection ok
+2021/02/07 18:34:34 autossh[2552]: check on child 3639
+2021/02/07 18:34:34 autossh[2552]: set alarm for 600 secs
+
+############################ annie - 02/07/21 18:35:02 EST ############################
+
+2021/02/07 18:35:02 autossh[5258]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 18:40:01 EST ############################
+
+2021/02/07 18:40:01 autossh[5316]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 18:44:34 autossh[2552]: not what I sent: "annie autossh 2552 811856175 
+" : ""
+2021/02/07 18:44:35 autossh[2552]: connection ok
+2021/02/07 18:44:35 autossh[2552]: check on child 3639
+2021/02/07 18:44:35 autossh[2552]: set alarm for 600 secs
+
+############################ annie - 02/07/21 18:45:01 EST ############################
+
+2021/02/07 18:45:01 autossh[5373]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 18:50:01 EST ############################
+
+2021/02/07 18:50:01 autossh[5429]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 18:54:35 autossh[2552]: not what I sent: "annie autossh 2552 1112510622 
+" : ""
+2021/02/07 18:54:35 autossh[2552]: connection ok
+2021/02/07 18:54:35 autossh[2552]: check on child 3639
+2021/02/07 18:54:35 autossh[2552]: set alarm for 600 secs
+
+############################ annie - 02/07/21 18:55:01 EST ############################
+
+2021/02/07 18:55:01 autossh[5483]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 19:00:01 EST ############################
+
+2021/02/07 19:00:01 autossh[5540]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 19:04:35 autossh[2552]: not what I sent: "annie autossh 2552 1423123497 
+" : ""
+2021/02/07 19:04:35 autossh[2552]: connection ok
+2021/02/07 19:04:35 autossh[2552]: check on child 3639
+2021/02/07 19:04:35 autossh[2552]: set alarm for 600 secs
+
+############################ annie - 02/07/21 19:05:01 EST ############################
+
+2021/02/07 19:05:01 autossh[5598]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 19:10:02 EST ############################
+
+2021/02/07 19:10:02 autossh[5653]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 19:14:35 autossh[2552]: not what I sent: "annie autossh 2552 844181482 
+" : ""
+2021/02/07 19:14:35 autossh[2552]: connection ok
+2021/02/07 19:14:35 autossh[2552]: check on child 3639
+2021/02/07 19:14:35 autossh[2552]: set alarm for 600 secs
+
+############################ annie - 02/07/21 19:15:01 EST ############################
+
+2021/02/07 19:15:01 autossh[5710]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 19:20:01 EST ############################
+
+2021/02/07 19:20:01 autossh[5771]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 19:24:35 autossh[2552]: not what I sent: "annie autossh 2552 2121982184 
+" : ""
+2021/02/07 19:24:35 autossh[2552]: connection ok
+2021/02/07 19:24:35 autossh[2552]: check on child 3639
+2021/02/07 19:24:35 autossh[2552]: set alarm for 600 secs
+
+############################ annie - 02/07/21 19:25:01 EST ############################
+
+2021/02/07 19:25:01 autossh[5828]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 19:30:01 EST ############################
+
+2021/02/07 19:30:01 autossh[5882]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 19:34:35 autossh[2552]: not what I sent: "annie autossh 2552 332127686 
+" : ""
+2021/02/07 19:34:36 autossh[2552]: connection ok
+2021/02/07 19:34:36 autossh[2552]: check on child 3639
+2021/02/07 19:34:36 autossh[2552]: set alarm for 600 secs
+
+############################ annie - 02/07/21 19:35:01 EST ############################
+
+2021/02/07 19:35:01 autossh[5935]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 19:40:02 EST ############################
+
+2021/02/07 19:40:02 autossh[5992]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 19:44:36 autossh[2552]: not what I sent: "annie autossh 2552 362561052 
+" : ""
+2021/02/07 19:44:36 autossh[2552]: connection ok
+2021/02/07 19:44:36 autossh[2552]: check on child 3639
+2021/02/07 19:44:36 autossh[2552]: set alarm for 600 secs
+
+############################ annie - 02/07/21 19:45:01 EST ############################
+
+2021/02/07 19:45:01 autossh[6042]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 19:50:01 EST ############################
+
+2021/02/07 19:50:01 autossh[6098]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 19:54:36 autossh[2552]: not what I sent: "annie autossh 2552 997400655 
+" : ""
+2021/02/07 19:54:36 autossh[2552]: connection ok
+2021/02/07 19:54:36 autossh[2552]: check on child 3639
+2021/02/07 19:54:36 autossh[2552]: set alarm for 600 secs
+
+############################ annie - 02/07/21 19:55:01 EST ############################
+
+2021/02/07 19:55:01 autossh[6157]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 02/07/21 20:00:01 EST ############################
+
+2021/02/07 20:00:01 autossh[6213]: bind on 127.0.0.1:61001: Address already in use
+2021/02/07 20:04:36 autossh[2552]: not what I sent: "annie autossh 2552 761733948 
+" : ""
+2021/02/07 20:04:36 autossh[2552]: connection ok
+2021/02/07 20:04:36 autossh[2552]: check on child 3639
+2021/02/07 20:04:36 autossh[2552]: set alarm for 600 secs
+
+############################ annie - 02/07/21 20:05:01 EST ############################
+
+2021/02/07 20:05:01 autossh[6281]: bind on 127.0.0.1:61001: Address already in use
