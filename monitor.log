@@ -355,3 +355,102 @@ enp2s0:
 10.10.1.2/24
 
 
+PING 192.168.10.2 (192.168.10.2) 56(84) bytes of data.
+
+--- 192.168.10.2 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2040ms
+
+
+
+PING 192.168.10.11 (192.168.10.11) 56(84) bytes of data.
+
+--- 192.168.10.11 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2001ms
+
+
+
+PING 192.168.10.12 (192.168.10.12) 56(84) bytes of data.
+64 bytes from 192.168.10.12: icmp_seq=1 ttl=64 time=0.060 ms
+64 bytes from 192.168.10.12: icmp_seq=2 ttl=64 time=0.072 ms
+64 bytes from 192.168.10.12: icmp_seq=3 ttl=64 time=0.085 ms
+
+--- 192.168.10.12 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2016ms
+rtt min/avg/max/mdev = 0.060/0.072/0.085/0.012 ms
+
+
+PING 192.168.10.13 (192.168.10.13) 56(84) bytes of data.
+
+--- 192.168.10.13 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2007ms
+
+
+
+PING github.com (140.82.113.3) 56(84) bytes of data.
+64 bytes from lb-140-82-113-3-iad.github.com (140.82.113.3): icmp_seq=1 ttl=49 time=35.1 ms
+64 bytes from lb-140-82-113-3-iad.github.com (140.82.113.3): icmp_seq=2 ttl=49 time=32.9 ms
+64 bytes from lb-140-82-113-3-iad.github.com (140.82.113.3): icmp_seq=3 ttl=49 time=33.0 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 32.903/33.722/35.188/1.049 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=53 time=41.3 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=53 time=39.5 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=53 time=37.1 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 37.161/39.351/41.321/1.705 ms
+
+############################ annie - 03/04/21 15:05:54 EST ############################
+
+ 15:05:54 up 5 min,  1 user,  load average: 0.35, 0.54, 0.29
+
+
+reboot   system boot  5.3.0-53-generic Thu Mar  4 15:00   still running
+reboot   system boot  5.3.0-53-generic Mon Feb  8 09:22 - 09:33  (00:10)
+reboot   system boot  5.3.0-53-generic Mon Feb  8 01:15 - 01:16  (00:01)
+reboot   system boot  5.3.0-53-generic Sun Feb  7 15:20 - 00:10  (08:49)
+reboot   system boot  5.3.0-53-generic Sun Feb  7 14:33 - 15:20  (00:46)
+
+
+
+
+
+
+
+
+[   30.619872] usb 1-3: New USB device found, idVendor=0461, idProduct=4e22, bcdDevice= 1.00
+[   30.619881] usb 1-3: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+[   30.619886] usb 1-3: Product: USB Optical Mouse
+[   30.619890] usb 1-3: Manufacturer: PixArt
+[   30.623463] input: PixArt USB Optical Mouse as /devices/pci0000:00/0000:00:15.0/usb1/1-3/1-3:1.0/0003:0461:4E22.0002/input/input17
+[   30.624009] hid-generic 0003:0461:4E22.0002: input,hidraw1: USB HID v1.11 Mouse [PixArt USB Optical Mouse] on usb-0000:00:15.0-3/input0
+[   66.189492] Bluetooth: RFCOMM TTY layer initialized
+[   66.189503] Bluetooth: RFCOMM socket layer initialized
+[   66.189515] Bluetooth: RFCOMM ver 1.11
+[   68.816558] rfkill: input handler disabled
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   15G   14G  52% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G   53M   56G   1% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+
+
+ipop:
+192.168.10.12/16
+
+
+enp2s0:
+10.10.1.2/24
+
+

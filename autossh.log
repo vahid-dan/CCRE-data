@@ -834,3 +834,131 @@
 2021/02/08 09:27:56 autossh[2791]: check on child 3375
 2021/02/08 09:27:56 autossh[2791]: set alarm for 418 secs
 2021/02/08 09:27:56 autossh[3375]: execing /usr/bin/ssh
+
+############################ annie - 02/08/21 09:30:01 EST ############################
+
+2021/02/08 09:30:01 autossh[3690]: bind on 127.0.0.1:61001: Address already in use
+2021/02/08 09:33:14 autossh[2791]: received signal to exit (15)
+
+############################ annie - 03/04/21 15:02:54 EST ############################
+
+2021/03/04 15:02:54 autossh[2556]: checking for grace period, tries = 0
+2021/03/04 15:02:54 autossh[2556]: starting ssh (count 1)
+2021/03/04 15:02:54 autossh[2556]: ssh child pid is 2557
+2021/03/04 15:02:54 autossh[2556]: check on child 2557
+2021/03/04 15:02:54 autossh[2556]: set alarm for 600 secs
+2021/03/04 15:02:54 autossh[2557]: execing /usr/bin/ssh
+2021/03/04 15:02:54 autossh[2556]: check on child 2557
+2021/03/04 15:02:54 autossh[2556]: ssh exited with error status 255; restarting ssh
+2021/03/04 15:02:54 autossh[2556]: expired child, returning 1
+2021/03/04 15:02:54 autossh[2556]: checking for grace period, tries = 1
+2021/03/04 15:02:54 autossh[2556]: starting ssh (count 2)
+2021/03/04 15:02:54 autossh[2556]: ssh child pid is 2560
+2021/03/04 15:02:54 autossh[2556]: check on child 2560
+2021/03/04 15:02:54 autossh[2556]: set alarm for 600 secs
+2021/03/04 15:02:54 autossh[2560]: execing /usr/bin/ssh
+2021/03/04 15:02:54 autossh[2556]: check on child 2560
+2021/03/04 15:02:54 autossh[2556]: ssh exited with error status 255; restarting ssh
+2021/03/04 15:02:54 autossh[2556]: expired child, returning 1
+2021/03/04 15:02:54 autossh[2556]: checking for grace period, tries = 2
+2021/03/04 15:02:54 autossh[2556]: starting ssh (count 3)
+2021/03/04 15:02:54 autossh[2556]: ssh child pid is 2561
+2021/03/04 15:02:54 autossh[2556]: check on child 2561
+2021/03/04 15:02:54 autossh[2556]: set alarm for 600 secs
+2021/03/04 15:02:54 autossh[2561]: execing /usr/bin/ssh
+2021/03/04 15:02:54 autossh[2556]: check on child 2561
+2021/03/04 15:02:54 autossh[2556]: ssh exited with error status 255; restarting ssh
+2021/03/04 15:02:54 autossh[2556]: expired child, returning 1
+2021/03/04 15:02:54 autossh[2556]: checking for grace period, tries = 3
+2021/03/04 15:02:54 autossh[2556]: starting ssh (count 4)
+2021/03/04 15:02:54 autossh[2556]: ssh child pid is 2562
+2021/03/04 15:02:54 autossh[2556]: check on child 2562
+2021/03/04 15:02:54 autossh[2556]: set alarm for 600 secs
+2021/03/04 15:02:54 autossh[2562]: execing /usr/bin/ssh
+2021/03/04 15:02:54 autossh[2556]: check on child 2562
+2021/03/04 15:02:54 autossh[2556]: ssh exited with error status 255; restarting ssh
+2021/03/04 15:02:54 autossh[2556]: expired child, returning 1
+2021/03/04 15:02:54 autossh[2556]: checking for grace period, tries = 4
+2021/03/04 15:02:54 autossh[2556]: starting ssh (count 5)
+2021/03/04 15:02:54 autossh[2556]: ssh child pid is 2563
+2021/03/04 15:02:54 autossh[2556]: check on child 2563
+2021/03/04 15:02:54 autossh[2556]: set alarm for 600 secs
+2021/03/04 15:02:54 autossh[2563]: execing /usr/bin/ssh
+2021/03/04 15:02:54 autossh[2556]: check on child 2563
+2021/03/04 15:02:54 autossh[2556]: ssh exited with error status 255; restarting ssh
+2021/03/04 15:02:54 autossh[2556]: expired child, returning 1
+2021/03/04 15:02:54 autossh[2556]: checking for grace period, tries = 5
+2021/03/04 15:02:54 autossh[2556]: starting ssh (count 6)
+2021/03/04 15:02:54 autossh[2556]: ssh child pid is 2564
+2021/03/04 15:02:54 autossh[2556]: check on child 2564
+2021/03/04 15:02:54 autossh[2556]: set alarm for 600 secs
+2021/03/04 15:02:54 autossh[2564]: execing /usr/bin/ssh
+2021/03/04 15:02:54 autossh[2556]: check on child 2564
+2021/03/04 15:02:54 autossh[2556]: ssh exited with error status 255; restarting ssh
+2021/03/04 15:02:54 autossh[2556]: expired child, returning 1
+2021/03/04 15:02:54 autossh[2556]: checking for grace period, tries = 6
+2021/03/04 15:02:54 autossh[2556]: sleeping for grace time 2 secs
+2021/03/04 15:02:56 autossh[2556]: starting ssh (count 7)
+2021/03/04 15:02:56 autossh[2556]: ssh child pid is 2572
+2021/03/04 15:02:56 autossh[2556]: check on child 2572
+2021/03/04 15:02:56 autossh[2556]: set alarm for 598 secs
+2021/03/04 15:02:56 autossh[2572]: execing /usr/bin/ssh
+2021/03/04 15:02:56 autossh[2556]: check on child 2572
+2021/03/04 15:02:56 autossh[2556]: ssh exited with error status 255; restarting ssh
+2021/03/04 15:02:56 autossh[2556]: expired child, returning 1
+2021/03/04 15:02:56 autossh[2556]: checking for grace period, tries = 7
+2021/03/04 15:02:56 autossh[2556]: sleeping for grace time 8 secs
+2021/03/04 15:03:04 autossh[2556]: starting ssh (count 8)
+2021/03/04 15:03:04 autossh[2556]: ssh child pid is 2595
+2021/03/04 15:03:04 autossh[2556]: check on child 2595
+2021/03/04 15:03:04 autossh[2556]: set alarm for 590 secs
+2021/03/04 15:03:04 autossh[2595]: execing /usr/bin/ssh
+2021/03/04 15:03:04 autossh[2556]: check on child 2595
+2021/03/04 15:03:04 autossh[2556]: ssh exited with error status 255; restarting ssh
+2021/03/04 15:03:04 autossh[2556]: expired child, returning 1
+2021/03/04 15:03:04 autossh[2556]: checking for grace period, tries = 8
+2021/03/04 15:03:04 autossh[2556]: sleeping for grace time 18 secs
+2021/03/04 15:03:22 autossh[2556]: starting ssh (count 9)
+2021/03/04 15:03:22 autossh[2556]: ssh child pid is 2603
+2021/03/04 15:03:22 autossh[2556]: check on child 2603
+2021/03/04 15:03:22 autossh[2556]: set alarm for 572 secs
+2021/03/04 15:03:22 autossh[2603]: execing /usr/bin/ssh
+2021/03/04 15:03:22 autossh[2556]: check on child 2603
+2021/03/04 15:03:22 autossh[2556]: ssh exited with error status 255; restarting ssh
+2021/03/04 15:03:22 autossh[2556]: expired child, returning 1
+2021/03/04 15:03:22 autossh[2556]: checking for grace period, tries = 9
+2021/03/04 15:03:22 autossh[2556]: sleeping for grace time 32 secs
+2021/03/04 15:03:54 autossh[2556]: starting ssh (count 10)
+2021/03/04 15:03:54 autossh[2556]: ssh child pid is 2634
+2021/03/04 15:03:54 autossh[2556]: check on child 2634
+2021/03/04 15:03:54 autossh[2556]: set alarm for 540 secs
+2021/03/04 15:03:54 autossh[2634]: execing /usr/bin/ssh
+2021/03/04 15:03:54 autossh[2556]: check on child 2634
+2021/03/04 15:03:54 autossh[2556]: ssh exited with error status 255; restarting ssh
+2021/03/04 15:03:54 autossh[2556]: expired child, returning 1
+2021/03/04 15:03:54 autossh[2556]: checking for grace period, tries = 10
+2021/03/04 15:03:54 autossh[2556]: sleeping for grace time 50 secs
+2021/03/04 15:04:44 autossh[2556]: starting ssh (count 11)
+2021/03/04 15:04:44 autossh[2556]: ssh child pid is 2644
+2021/03/04 15:04:44 autossh[2556]: check on child 2644
+2021/03/04 15:04:44 autossh[2556]: set alarm for 490 secs
+2021/03/04 15:04:44 autossh[2644]: execing /usr/bin/ssh
+2021/03/04 15:04:44 autossh[2556]: check on child 2644
+2021/03/04 15:04:44 autossh[2556]: ssh exited with error status 255; restarting ssh
+2021/03/04 15:04:44 autossh[2556]: expired child, returning 1
+2021/03/04 15:04:44 autossh[2556]: checking for grace period, tries = 11
+2021/03/04 15:04:44 autossh[2556]: sleeping for grace time 72 secs
+
+############################ annie - 03/04/21 15:05:01 EST ############################
+
+2021/03/04 15:05:01 autossh[2657]: bind on 127.0.0.1:61001: Address already in use
+2021/03/04 15:05:56 autossh[2556]: starting ssh (count 12)
+2021/03/04 15:05:56 autossh[2556]: ssh child pid is 2821
+2021/03/04 15:05:56 autossh[2556]: check on child 2821
+2021/03/04 15:05:56 autossh[2556]: set alarm for 418 secs
+2021/03/04 15:05:56 autossh[2821]: execing /usr/bin/ssh
+2021/03/04 15:05:56 autossh[2556]: check on child 2821
+2021/03/04 15:05:56 autossh[2556]: ssh exited with error status 255; restarting ssh
+2021/03/04 15:05:56 autossh[2556]: expired child, returning 1
+2021/03/04 15:05:56 autossh[2556]: checking for grace period, tries = 12
+2021/03/04 15:05:56 autossh[2556]: sleeping for grace time 98 secs
