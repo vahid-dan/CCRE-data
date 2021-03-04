@@ -1268,3 +1268,16 @@
 ############################ annie - 03/04/21 18:40:01 EST ############################
 
 2021/03/04 18:40:01 autossh[3383]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 03/04/21 18:49:38 EST ############################
+
+2021/03/04 18:49:38 autossh[2855]: checking for grace period, tries = 0
+2021/03/04 18:49:38 autossh[2855]: starting ssh (count 1)
+2021/03/04 18:49:38 autossh[2855]: ssh child pid is 2856
+2021/03/04 18:49:38 autossh[2855]: check on child 2856
+2021/03/04 18:49:38 autossh[2855]: set alarm for 600 secs
+2021/03/04 18:49:38 autossh[2856]: execing /usr/bin/ssh
+
+############################ annie - 03/04/21 18:50:01 EST ############################
+
+2021/03/04 18:50:01 autossh[2879]: bind on 127.0.0.1:61001: Address already in use
