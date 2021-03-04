@@ -605,3 +605,45 @@ reboot   system boot  5.3.0-53-generic Thu Mar  4 18:36   still running
 wtmp begins Thu Mar  4 18:36:03 2021
 
 
+
+
+Bus 001 Device 004: ID 1410:9030 Novatel Wireless 
+
+
+[    6.669593] rndis_host 1-5:1.0 enx0015ff157607: renamed from eth0
+
+
+[   13.915614] wlp1s0: associated
+[   14.148387] IPv6: ADDRCONF(NETDEV_CHANGE): wlp1s0: link becomes ready
+[   19.665044] iTCO_vendor_support: vendor-support=0
+[   19.668192] iTCO_wdt: Intel TCO WatchDog Timer Driver v1.11
+[   19.668252] iTCO_wdt: Found a Apollo Lake SoC TCO device (Version=5, TCOBASE=0x0460)
+[   19.668487] iTCO_wdt: initialized. heartbeat=30 sec (nowayout=0)
+[   52.103826] Bluetooth: RFCOMM TTY layer initialized
+[   52.103838] Bluetooth: RFCOMM socket layer initialized
+[   52.103853] Bluetooth: RFCOMM ver 1.11
+[   54.841331] rfkill: input handler disabled
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   15G   14G  52% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G   53M   56G   1% /data
+
+
+IN-USE  SSID     MODE   CHAN  RATE        SIGNAL  BARS  SECURITY 
+*       FBI VAN  Infra  36    270 Mbit/s  51      ▂▄__  WPA2     
+
+
+enx0015ff157607:
+100.112.211.165/30
+
+
+ipop:
+192.168.10.12/16
+
+
+enp2s0:
+10.10.1.2/24
+
+
