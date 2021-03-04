@@ -90,3 +90,23 @@ fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights
 and the repository exists.
+[annie-logs b3fd26f] 03/04/21 15:05:54 EST: Logs
+ 2 files changed, 15 insertions(+)
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+############################ annie - 03/04/21 18:41:08 EST ############################
+
+Data:
+
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+fatal: not a git repository (or any of the parent directories): .git
+
+Logs:
+
+Already up to date.
