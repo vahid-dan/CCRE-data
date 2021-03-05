@@ -207,3 +207,33 @@ Already up to date.
  3 files changed, 39 insertions(+)
 To github.com:FLARE-forecast/CCRE-data.git
    b7aea5e..e3e080f  annie-logs -> annie-logs
+[annie-logs c0f8f60] 03/04/21 19:15:24 EST: Logs
+ 1 file changed, 4 insertions(+)
+To github.com:FLARE-forecast/CCRE-data.git
+   e3e080f..c0f8f60  annie-logs -> annie-logs
+
+############################ annie - 03/04/21 19:16:20 EST ############################
+
+Data:
+
+From github.com:FLARE-forecast/CCRE-data
+ * [new branch]      ccre-dam-data -> origin/ccre-dam-data
+Already up to date.
+[ccre-dam aadfd31] 03/04/21 19:16:20 EST: Git Backup
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 test
+fatal: The upstream branch of your current branch does not match
+the name of your current branch.  To push to the upstream branch
+on the remote, use
+
+    git push origin HEAD:ccre-dam-data
+
+To push to the branch of the same name on the remote, use
+
+    git push origin ccre-dam
+
+To choose either option permanently, see push.default in 'git help config'.
+
+Logs:
+
+Already up to date.
