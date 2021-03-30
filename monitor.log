@@ -1014,3 +1014,219 @@ PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
 --- 8.8.8.8 ping statistics ---
 3 packets transmitted, 3 received, 0% packet loss, time 2003ms
 rtt min/avg/max/mdev = 32.630/43.911/51.285/8.103 ms
+
+############################ annie - 03/30/21 00:00:01 EST ############################
+
+ 00:00:01 up  7:46,  0 users,  load average: 0.32, 0.22, 0.13
+
+
+reboot   system boot  5.3.0-53-generic Mon Mar 29 16:13   still running
+reboot   system boot  5.3.0-53-generic Mon Mar 29 15:52   still running
+reboot   system boot  5.3.0-53-generic Mon Mar 29 15:48   still running
+reboot   system boot  5.3.0-53-generic Mon Mar 29 15:40   still running
+reboot   system boot  5.3.0-53-generic Mon Mar 29 15:37   still running
+
+
+
+
+Bus 001 Device 036: ID 1410:9030 Novatel Wireless 
+
+
+[    6.504560] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[   22.572945] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[   23.386416] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[   34.777217] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[   35.547482] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 1100.259060] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 1101.131903] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 2178.687718] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 2179.525498] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 3440.332977] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 3441.187616] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 4518.847195] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 4519.699219] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 5599.926253] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 5600.781129] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 6679.321307] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 6680.164764] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 7759.351134] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 7760.191671] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 8839.087552] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 8839.948269] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 9888.719720] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 9889.566127] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 9920.385428] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 9921.197251] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[10969.667544] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[10970.531912] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[12050.797585] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[12051.641087] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[13128.669810] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[13129.571175] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[14181.735324] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[14182.581105] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[14193.223766] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[14194.009365] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[15261.133577] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[15261.965474] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[16339.379638] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[16340.237051] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[17420.952430] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[17421.809993] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[17444.233283] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[17445.005933] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[18499.487894] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[18500.323217] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[19578.908747] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[19579.760201] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[20659.360240] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[20660.238423] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[20690.292182] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[20691.075815] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[21739.419990] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[21740.294895] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[22818.776864] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[22819.639296] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[23921.120379] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[23922.014203] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[25218.723756] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[25219.580387] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[26299.448699] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[26300.319718] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[27378.582982] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[27379.457398] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[27410.085531] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[27410.834018] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+
+
+[27410.085531] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[27410.764766] usb 1-6: new high-speed USB device number 36 using xhci_hcd
+[27410.793240] usb 1-6: New USB device found, idVendor=1410, idProduct=9030, bcdDevice= 3.10
+[27410.793247] usb 1-6: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[27410.793251] usb 1-6: Product: MiFi USB730L
+[27410.793255] usb 1-6: Manufacturer: Novatel Wireless
+[27410.793258] usb 1-6: SerialNumber: 0123456789ABCDEF
+[27410.809157] rndis_host 1-6:1.0 eth0: register 'rndis_host' at usb-0000:00:15.0-6, RNDIS device, 00:15:ff:15:76:07
+[27410.817417] hid-generic 0003:1410:9030.0021: hiddev0,hidraw0: USB HID v1.01 Device [Novatel Wireless MiFi USB730L] on usb-0000:00:15.0-6/input2
+[27410.834018] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   15G   14G  53% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G   54M   56G   1% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff157607:
+100.101.36.255/23
+
+
+
+
+enp2s0:
+10.10.1.2/24
+
+
+PING 192.168.10.2 (192.168.10.2) 56(84) bytes of data.
+
+--- 192.168.10.2 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2033ms
+
+
+
+PING 192.168.10.11 (192.168.10.11) 56(84) bytes of data.
+
+--- 192.168.10.11 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2026ms
+
+
+
+PING 192.168.10.12 (192.168.10.12) 56(84) bytes of data.
+
+--- 192.168.10.12 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2054ms
+
+
+
+PING 192.168.10.13 (192.168.10.13) 56(84) bytes of data.
+
+--- 192.168.10.13 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2054ms
+
+
+
+PING github.com (140.82.113.3) 56(84) bytes of data.
+64 bytes from lb-140-82-113-3-iad.github.com (140.82.113.3): icmp_seq=1 ttl=49 time=31.7 ms
+64 bytes from lb-140-82-113-3-iad.github.com (140.82.113.3): icmp_seq=2 ttl=49 time=39.6 ms
+64 bytes from lb-140-82-113-3-iad.github.com (140.82.113.3): icmp_seq=3 ttl=49 time=37.7 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 31.796/36.407/39.680/3.354 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=53 time=38.6 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=53 time=36.4 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=53 time=37.0 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 36.458/37.391/38.655/0.940 ms
+
+############################ annie - 03/30/21 00:20:37 EST ############################
+
+ 00:20:37 up 5 min,  0 users,  load average: 0.20, 0.41, 0.23
+
+
+reboot   system boot  5.3.0-53-generic Tue Mar 30 00:15   still running
+reboot   system boot  5.3.0-53-generic Mon Mar 29 16:13 - 00:10  (07:56)
+reboot   system boot  5.3.0-53-generic Mon Mar 29 15:52 - 00:10  (08:18)
+reboot   system boot  5.3.0-53-generic Mon Mar 29 15:48 - 00:10  (08:21)
+reboot   system boot  5.3.0-53-generic Mon Mar 29 15:40 - 00:10  (08:29)
+
+
+
+
+Bus 001 Device 005: ID 1410:9030 Novatel Wireless 
+
+
+[    6.090977] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[   50.693679] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[   51.501269] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+
+
+[   50.693679] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[   51.407071] usb 1-6: new high-speed USB device number 5 using xhci_hcd
+[   51.436032] usb 1-6: New USB device found, idVendor=1410, idProduct=9030, bcdDevice= 3.10
+[   51.436038] usb 1-6: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[   51.436042] usb 1-6: Product: MiFi USB730L
+[   51.436045] usb 1-6: Manufacturer: Novatel Wireless
+[   51.436048] usb 1-6: SerialNumber: 0123456789ABCDEF
+[   51.465428] rndis_host 1-6:1.0 eth0: register 'rndis_host' at usb-0000:00:15.0-6, RNDIS device, 00:15:ff:15:76:07
+[   51.475611] hid-generic 0003:1410:9030.0002: hiddev0,hidraw0: USB HID v1.01 Device [Novatel Wireless MiFi USB730L] on usb-0000:00:15.0-6/input2
+[   51.501269] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   15G   14G  53% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G   54M   56G   1% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff157607:
+100.76.10.125/30
+
+
+
+
+enp2s0:
+10.10.1.2/24
+
+
