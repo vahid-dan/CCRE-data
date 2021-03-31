@@ -4796,3 +4796,11 @@
 ############################ annie - 03/30/21 20:05:01 EST ############################
 
 2021/03/30 20:05:01 autossh[6601]: bind on 127.0.0.1:61001: Address already in use
+2021/03/30 20:05:09 autossh[2340]: timeout polling to accept read connection
+2021/03/30 20:05:09 autossh[2340]: port down, restarting ssh
+2021/03/30 20:05:09 autossh[2340]: checking for grace period, tries = 0
+2021/03/30 20:05:09 autossh[2340]: starting ssh (count 114)
+2021/03/30 20:05:09 autossh[2340]: ssh child pid is 6649
+2021/03/30 20:05:09 autossh[2340]: check on child 6649
+2021/03/30 20:05:09 autossh[2340]: set alarm for 600 secs
+2021/03/30 20:05:09 autossh[6649]: execing /usr/bin/ssh
