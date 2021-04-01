@@ -8266,3 +8266,720 @@
 ############################ annie - 04/01/21 02:05:01 EST ############################
 
 2021/04/01 02:05:01 autossh[6282]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 02:09:55 autossh[2330]: timeout polling to accept read connection
+2021/04/01 02:09:55 autossh[2330]: port down, restarting ssh
+2021/04/01 02:09:55 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 02:09:55 autossh[2330]: starting ssh (count 11)
+2021/04/01 02:09:55 autossh[2330]: ssh child pid is 6420
+2021/04/01 02:09:55 autossh[2330]: check on child 6420
+2021/04/01 02:09:55 autossh[2330]: set alarm for 600 secs
+2021/04/01 02:09:55 autossh[6420]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 02:10:01 EST ############################
+
+2021/04/01 02:10:01 autossh[6432]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 02:15:01 EST ############################
+
+2021/04/01 02:15:01 autossh[6545]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 02:20:01 EST ############################
+
+2021/04/01 02:20:01 autossh[6656]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 02:20:10 autossh[2330]: timeout polling to accept read connection
+2021/04/01 02:20:10 autossh[2330]: port down, restarting ssh
+2021/04/01 02:20:10 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 02:20:10 autossh[2330]: starting ssh (count 12)
+2021/04/01 02:20:10 autossh[2330]: ssh child pid is 6666
+2021/04/01 02:20:10 autossh[2330]: check on child 6666
+2021/04/01 02:20:10 autossh[2330]: set alarm for 600 secs
+2021/04/01 02:20:10 autossh[6666]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 02:25:01 EST ############################
+
+2021/04/01 02:25:02 autossh[6991]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 02:30:01 EST ############################
+
+2021/04/01 02:30:01 autossh[7097]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 02:30:25 autossh[2330]: timeout polling to accept read connection
+2021/04/01 02:30:25 autossh[2330]: port down, restarting ssh
+2021/04/01 02:30:25 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 02:30:25 autossh[2330]: starting ssh (count 13)
+2021/04/01 02:30:25 autossh[2330]: ssh child pid is 7109
+2021/04/01 02:30:25 autossh[2330]: check on child 7109
+2021/04/01 02:30:25 autossh[2330]: set alarm for 600 secs
+2021/04/01 02:30:25 autossh[7109]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 02:35:01 EST ############################
+
+2021/04/01 02:35:01 autossh[7203]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 02:40:01 EST ############################
+
+2021/04/01 02:40:01 autossh[7326]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 02:40:40 autossh[2330]: timeout polling to accept read connection
+2021/04/01 02:40:40 autossh[2330]: port down, restarting ssh
+2021/04/01 02:40:40 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 02:40:40 autossh[2330]: starting ssh (count 14)
+2021/04/01 02:40:40 autossh[2330]: ssh child pid is 7441
+2021/04/01 02:40:40 autossh[2330]: check on child 7441
+2021/04/01 02:40:40 autossh[2330]: set alarm for 600 secs
+2021/04/01 02:40:40 autossh[7441]: execing /usr/bin/ssh
+2021/04/01 02:40:40 autossh[2330]: check on child 7441
+2021/04/01 02:40:40 autossh[2330]: ssh exited with error status 255; restarting ssh
+2021/04/01 02:40:40 autossh[2330]: expired child, returning 1
+2021/04/01 02:40:40 autossh[2330]: checking for grace period, tries = 1
+2021/04/01 02:40:40 autossh[2330]: starting ssh (count 15)
+2021/04/01 02:40:40 autossh[2330]: ssh child pid is 7442
+2021/04/01 02:40:40 autossh[2330]: check on child 7442
+2021/04/01 02:40:40 autossh[2330]: set alarm for 600 secs
+2021/04/01 02:40:40 autossh[7442]: execing /usr/bin/ssh
+2021/04/01 02:40:40 autossh[2330]: check on child 7442
+2021/04/01 02:40:40 autossh[2330]: ssh exited with error status 255; restarting ssh
+2021/04/01 02:40:40 autossh[2330]: expired child, returning 1
+2021/04/01 02:40:40 autossh[2330]: checking for grace period, tries = 2
+2021/04/01 02:40:40 autossh[2330]: starting ssh (count 16)
+2021/04/01 02:40:40 autossh[2330]: ssh child pid is 7443
+2021/04/01 02:40:40 autossh[2330]: check on child 7443
+2021/04/01 02:40:40 autossh[2330]: set alarm for 600 secs
+2021/04/01 02:40:40 autossh[7443]: execing /usr/bin/ssh
+2021/04/01 02:40:40 autossh[2330]: check on child 7443
+2021/04/01 02:40:40 autossh[2330]: ssh exited with error status 255; restarting ssh
+2021/04/01 02:40:40 autossh[2330]: expired child, returning 1
+2021/04/01 02:40:40 autossh[2330]: checking for grace period, tries = 3
+2021/04/01 02:40:40 autossh[2330]: starting ssh (count 17)
+2021/04/01 02:40:40 autossh[2330]: ssh child pid is 7444
+2021/04/01 02:40:40 autossh[2330]: check on child 7444
+2021/04/01 02:40:40 autossh[2330]: set alarm for 600 secs
+2021/04/01 02:40:40 autossh[7444]: execing /usr/bin/ssh
+2021/04/01 02:40:40 autossh[2330]: check on child 7444
+2021/04/01 02:40:40 autossh[2330]: ssh exited with error status 255; restarting ssh
+2021/04/01 02:40:40 autossh[2330]: expired child, returning 1
+2021/04/01 02:40:40 autossh[2330]: checking for grace period, tries = 4
+2021/04/01 02:40:40 autossh[2330]: starting ssh (count 18)
+2021/04/01 02:40:40 autossh[2330]: ssh child pid is 7445
+2021/04/01 02:40:40 autossh[2330]: check on child 7445
+2021/04/01 02:40:40 autossh[2330]: set alarm for 600 secs
+2021/04/01 02:40:40 autossh[7445]: execing /usr/bin/ssh
+2021/04/01 02:40:40 autossh[2330]: check on child 7445
+2021/04/01 02:40:40 autossh[2330]: ssh exited with error status 255; restarting ssh
+2021/04/01 02:40:40 autossh[2330]: expired child, returning 1
+2021/04/01 02:40:40 autossh[2330]: checking for grace period, tries = 5
+2021/04/01 02:40:40 autossh[2330]: starting ssh (count 19)
+2021/04/01 02:40:40 autossh[2330]: ssh child pid is 7446
+2021/04/01 02:40:40 autossh[2330]: check on child 7446
+2021/04/01 02:40:40 autossh[2330]: set alarm for 600 secs
+2021/04/01 02:40:40 autossh[7446]: execing /usr/bin/ssh
+2021/04/01 02:40:40 autossh[2330]: check on child 7446
+2021/04/01 02:40:40 autossh[2330]: ssh exited with error status 255; restarting ssh
+2021/04/01 02:40:40 autossh[2330]: expired child, returning 1
+2021/04/01 02:40:40 autossh[2330]: checking for grace period, tries = 6
+2021/04/01 02:40:40 autossh[2330]: sleeping for grace time 2 secs
+2021/04/01 02:40:42 autossh[2330]: starting ssh (count 20)
+2021/04/01 02:40:42 autossh[2330]: ssh child pid is 7447
+2021/04/01 02:40:42 autossh[2330]: check on child 7447
+2021/04/01 02:40:42 autossh[2330]: set alarm for 598 secs
+2021/04/01 02:40:42 autossh[7447]: execing /usr/bin/ssh
+2021/04/01 02:40:42 autossh[2330]: check on child 7447
+2021/04/01 02:40:42 autossh[2330]: ssh exited with error status 255; restarting ssh
+2021/04/01 02:40:42 autossh[2330]: expired child, returning 1
+2021/04/01 02:40:42 autossh[2330]: checking for grace period, tries = 7
+2021/04/01 02:40:42 autossh[2330]: sleeping for grace time 8 secs
+2021/04/01 02:40:50 autossh[2330]: starting ssh (count 21)
+2021/04/01 02:40:50 autossh[2330]: ssh child pid is 7449
+2021/04/01 02:40:50 autossh[2330]: check on child 7449
+2021/04/01 02:40:50 autossh[2330]: set alarm for 590 secs
+2021/04/01 02:40:50 autossh[7449]: execing /usr/bin/ssh
+2021/04/01 02:40:50 autossh[2330]: check on child 7449
+2021/04/01 02:40:50 autossh[2330]: ssh exited with error status 255; restarting ssh
+2021/04/01 02:40:50 autossh[2330]: expired child, returning 1
+2021/04/01 02:40:50 autossh[2330]: checking for grace period, tries = 8
+2021/04/01 02:40:50 autossh[2330]: sleeping for grace time 18 secs
+2021/04/01 02:41:08 autossh[2330]: starting ssh (count 22)
+2021/04/01 02:41:08 autossh[2330]: ssh child pid is 7586
+2021/04/01 02:41:08 autossh[2330]: check on child 7586
+2021/04/01 02:41:08 autossh[2330]: set alarm for 572 secs
+2021/04/01 02:41:08 autossh[7586]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 02:45:01 EST ############################
+
+2021/04/01 02:45:01 autossh[7664]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 02:50:01 EST ############################
+
+2021/04/01 02:50:01 autossh[7770]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 02:50:55 autossh[2330]: timeout polling to accept read connection
+2021/04/01 02:50:55 autossh[2330]: port down, restarting ssh
+2021/04/01 02:50:55 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 02:50:55 autossh[2330]: starting ssh (count 23)
+2021/04/01 02:50:55 autossh[2330]: ssh child pid is 7784
+2021/04/01 02:50:55 autossh[2330]: check on child 7784
+2021/04/01 02:50:55 autossh[2330]: set alarm for 600 secs
+2021/04/01 02:50:55 autossh[7784]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 02:55:01 EST ############################
+
+2021/04/01 02:55:01 autossh[7881]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 03:00:01 EST ############################
+
+2021/04/01 03:00:01 autossh[8220]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 03:01:10 autossh[2330]: timeout polling to accept read connection
+2021/04/01 03:01:10 autossh[2330]: port down, restarting ssh
+2021/04/01 03:01:10 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 03:01:10 autossh[2330]: starting ssh (count 24)
+2021/04/01 03:01:10 autossh[2330]: ssh child pid is 8260
+2021/04/01 03:01:10 autossh[2330]: check on child 8260
+2021/04/01 03:01:10 autossh[2330]: set alarm for 600 secs
+2021/04/01 03:01:10 autossh[8260]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 03:05:01 EST ############################
+
+2021/04/01 03:05:01 autossh[8336]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 03:10:01 EST ############################
+
+2021/04/01 03:10:01 autossh[8450]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 03:11:25 autossh[2330]: timeout polling to accept read connection
+2021/04/01 03:11:25 autossh[2330]: port down, restarting ssh
+2021/04/01 03:11:25 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 03:11:25 autossh[2330]: starting ssh (count 25)
+2021/04/01 03:11:25 autossh[2330]: ssh child pid is 8484
+2021/04/01 03:11:25 autossh[2330]: check on child 8484
+2021/04/01 03:11:25 autossh[2330]: set alarm for 600 secs
+2021/04/01 03:11:25 autossh[8484]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 03:15:01 EST ############################
+
+2021/04/01 03:15:01 autossh[8556]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 03:20:01 EST ############################
+
+2021/04/01 03:20:01 autossh[9110]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 03:21:40 autossh[2330]: timeout polling to accept read connection
+2021/04/01 03:21:40 autossh[2330]: port down, restarting ssh
+2021/04/01 03:21:40 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 03:21:40 autossh[2330]: starting ssh (count 26)
+2021/04/01 03:21:40 autossh[2330]: ssh child pid is 9144
+2021/04/01 03:21:40 autossh[2330]: check on child 9144
+2021/04/01 03:21:40 autossh[2330]: set alarm for 600 secs
+2021/04/01 03:21:40 autossh[9144]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 03:25:01 EST ############################
+
+2021/04/01 03:25:01 autossh[9214]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 03:30:01 EST ############################
+
+2021/04/01 03:30:01 autossh[9323]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 03:31:55 autossh[2330]: timeout polling to accept read connection
+2021/04/01 03:31:55 autossh[2330]: port down, restarting ssh
+2021/04/01 03:31:55 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 03:31:55 autossh[2330]: starting ssh (count 27)
+2021/04/01 03:31:55 autossh[2330]: ssh child pid is 9356
+2021/04/01 03:31:55 autossh[2330]: check on child 9356
+2021/04/01 03:31:55 autossh[2330]: set alarm for 600 secs
+2021/04/01 03:31:55 autossh[9356]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 03:35:01 EST ############################
+
+2021/04/01 03:35:01 autossh[9748]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 03:40:01 EST ############################
+
+2021/04/01 03:40:01 autossh[9987]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 03:42:10 autossh[2330]: timeout polling to accept read connection
+2021/04/01 03:42:10 autossh[2330]: port down, restarting ssh
+2021/04/01 03:42:10 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 03:42:10 autossh[2330]: starting ssh (count 28)
+2021/04/01 03:42:10 autossh[2330]: ssh child pid is 10037
+2021/04/01 03:42:10 autossh[2330]: check on child 10037
+2021/04/01 03:42:10 autossh[2330]: set alarm for 600 secs
+2021/04/01 03:42:10 autossh[10037]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 03:45:01 EST ############################
+
+2021/04/01 03:45:01 autossh[10090]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 03:50:02 EST ############################
+
+2021/04/01 03:50:02 autossh[10194]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 03:52:25 autossh[2330]: timeout polling to accept read connection
+2021/04/01 03:52:25 autossh[2330]: port down, restarting ssh
+2021/04/01 03:52:25 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 03:52:25 autossh[2330]: starting ssh (count 29)
+2021/04/01 03:52:25 autossh[2330]: ssh child pid is 10279
+2021/04/01 03:52:25 autossh[2330]: check on child 10279
+2021/04/01 03:52:25 autossh[2330]: set alarm for 600 secs
+2021/04/01 03:52:25 autossh[10279]: execing /usr/bin/ssh
+2021/04/01 03:54:36 autossh[2330]: check on child 10279
+2021/04/01 03:54:36 autossh[2330]: ssh exited with error status 255; restarting ssh
+2021/04/01 03:54:36 autossh[2330]: expired child, returning 1
+2021/04/01 03:54:36 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 03:54:36 autossh[2330]: starting ssh (count 30)
+2021/04/01 03:54:36 autossh[2330]: ssh child pid is 10500
+2021/04/01 03:54:36 autossh[2330]: check on child 10500
+2021/04/01 03:54:36 autossh[2330]: set alarm for 469 secs
+2021/04/01 03:54:36 autossh[10500]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 03:55:01 EST ############################
+
+2021/04/01 03:55:01 autossh[10527]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 04:00:01 EST ############################
+
+2021/04/01 04:00:01 autossh[10634]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 04:02:40 autossh[2330]: timeout polling to accept read connection
+2021/04/01 04:02:40 autossh[2330]: port down, restarting ssh
+2021/04/01 04:02:40 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 04:02:40 autossh[2330]: starting ssh (count 31)
+2021/04/01 04:02:40 autossh[2330]: ssh child pid is 10695
+2021/04/01 04:02:40 autossh[2330]: check on child 10695
+2021/04/01 04:02:40 autossh[2330]: set alarm for 600 secs
+2021/04/01 04:02:40 autossh[10695]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 04:05:01 EST ############################
+
+2021/04/01 04:05:01 autossh[10746]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 04:10:01 EST ############################
+
+2021/04/01 04:10:01 autossh[10852]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 04:12:55 autossh[2330]: timeout polling to accept read connection
+2021/04/01 04:12:55 autossh[2330]: port down, restarting ssh
+2021/04/01 04:12:55 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 04:12:55 autossh[2330]: starting ssh (count 32)
+2021/04/01 04:12:55 autossh[2330]: ssh child pid is 11167
+2021/04/01 04:12:55 autossh[2330]: check on child 11167
+2021/04/01 04:12:55 autossh[2330]: set alarm for 600 secs
+2021/04/01 04:12:55 autossh[11167]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 04:15:01 EST ############################
+
+2021/04/01 04:15:01 autossh[11220]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 04:20:01 EST ############################
+
+2021/04/01 04:20:01 autossh[11327]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 04:23:10 autossh[2330]: timeout polling to accept read connection
+2021/04/01 04:23:10 autossh[2330]: port down, restarting ssh
+2021/04/01 04:23:10 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 04:23:10 autossh[2330]: starting ssh (count 33)
+2021/04/01 04:23:10 autossh[2330]: ssh child pid is 11396
+2021/04/01 04:23:10 autossh[2330]: check on child 11396
+2021/04/01 04:23:10 autossh[2330]: set alarm for 600 secs
+2021/04/01 04:23:10 autossh[11396]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 04:25:01 EST ############################
+
+2021/04/01 04:25:01 autossh[11435]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 04:30:01 EST ############################
+
+2021/04/01 04:30:01 autossh[11944]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 04:33:25 autossh[2330]: timeout polling to accept read connection
+2021/04/01 04:33:25 autossh[2330]: port down, restarting ssh
+2021/04/01 04:33:25 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 04:33:25 autossh[2330]: starting ssh (count 34)
+2021/04/01 04:33:25 autossh[2330]: ssh child pid is 12018
+2021/04/01 04:33:25 autossh[2330]: check on child 12018
+2021/04/01 04:33:25 autossh[2330]: set alarm for 600 secs
+2021/04/01 04:33:25 autossh[12018]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 04:35:01 EST ############################
+
+2021/04/01 04:35:01 autossh[12055]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 04:40:01 EST ############################
+
+2021/04/01 04:40:01 autossh[12161]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 04:43:40 autossh[2330]: timeout polling to accept read connection
+2021/04/01 04:43:40 autossh[2330]: port down, restarting ssh
+2021/04/01 04:43:40 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 04:43:40 autossh[2330]: starting ssh (count 35)
+2021/04/01 04:43:40 autossh[2330]: ssh child pid is 12228
+2021/04/01 04:43:40 autossh[2330]: check on child 12228
+2021/04/01 04:43:40 autossh[2330]: set alarm for 600 secs
+2021/04/01 04:43:40 autossh[12228]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 04:45:01 EST ############################
+
+2021/04/01 04:45:01 autossh[12266]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 04:50:01 EST ############################
+
+2021/04/01 04:50:01 autossh[12615]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 04:53:55 autossh[2330]: timeout polling to accept read connection
+2021/04/01 04:53:55 autossh[2330]: port down, restarting ssh
+2021/04/01 04:53:55 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 04:53:55 autossh[2330]: starting ssh (count 36)
+2021/04/01 04:53:55 autossh[2330]: ssh child pid is 12682
+2021/04/01 04:53:55 autossh[2330]: check on child 12682
+2021/04/01 04:53:55 autossh[2330]: set alarm for 600 secs
+2021/04/01 04:53:55 autossh[12682]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 04:55:01 EST ############################
+
+2021/04/01 04:55:01 autossh[12723]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 05:00:01 EST ############################
+
+2021/04/01 05:00:01 autossh[12830]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 05:04:10 autossh[2330]: timeout polling to accept read connection
+2021/04/01 05:04:10 autossh[2330]: port down, restarting ssh
+2021/04/01 05:04:10 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 05:04:10 autossh[2330]: starting ssh (count 37)
+2021/04/01 05:04:10 autossh[2330]: ssh child pid is 13025
+2021/04/01 05:04:10 autossh[2330]: check on child 13025
+2021/04/01 05:04:10 autossh[2330]: set alarm for 600 secs
+2021/04/01 05:04:10 autossh[13025]: execing /usr/bin/ssh
+2021/04/01 05:04:10 autossh[2330]: check on child 13025
+2021/04/01 05:04:10 autossh[2330]: ssh exited with error status 255; restarting ssh
+2021/04/01 05:04:10 autossh[2330]: expired child, returning 1
+2021/04/01 05:04:10 autossh[2330]: checking for grace period, tries = 1
+2021/04/01 05:04:10 autossh[2330]: starting ssh (count 38)
+2021/04/01 05:04:10 autossh[2330]: ssh child pid is 13026
+2021/04/01 05:04:10 autossh[2330]: check on child 13026
+2021/04/01 05:04:10 autossh[2330]: set alarm for 600 secs
+2021/04/01 05:04:10 autossh[13026]: execing /usr/bin/ssh
+2021/04/01 05:04:10 autossh[2330]: check on child 13026
+2021/04/01 05:04:10 autossh[2330]: ssh exited with error status 255; restarting ssh
+2021/04/01 05:04:10 autossh[2330]: expired child, returning 1
+2021/04/01 05:04:10 autossh[2330]: checking for grace period, tries = 2
+2021/04/01 05:04:10 autossh[2330]: starting ssh (count 39)
+2021/04/01 05:04:10 autossh[2330]: ssh child pid is 13027
+2021/04/01 05:04:10 autossh[2330]: check on child 13027
+2021/04/01 05:04:10 autossh[2330]: set alarm for 600 secs
+2021/04/01 05:04:10 autossh[13027]: execing /usr/bin/ssh
+2021/04/01 05:04:10 autossh[2330]: check on child 13027
+2021/04/01 05:04:10 autossh[2330]: ssh exited with error status 255; restarting ssh
+2021/04/01 05:04:10 autossh[2330]: expired child, returning 1
+2021/04/01 05:04:10 autossh[2330]: checking for grace period, tries = 3
+2021/04/01 05:04:10 autossh[2330]: starting ssh (count 40)
+2021/04/01 05:04:10 autossh[2330]: ssh child pid is 13028
+2021/04/01 05:04:10 autossh[2330]: check on child 13028
+2021/04/01 05:04:10 autossh[2330]: set alarm for 600 secs
+2021/04/01 05:04:10 autossh[13028]: execing /usr/bin/ssh
+2021/04/01 05:04:10 autossh[2330]: check on child 13028
+2021/04/01 05:04:10 autossh[2330]: ssh exited with error status 255; restarting ssh
+2021/04/01 05:04:10 autossh[2330]: expired child, returning 1
+2021/04/01 05:04:10 autossh[2330]: checking for grace period, tries = 4
+2021/04/01 05:04:10 autossh[2330]: starting ssh (count 41)
+2021/04/01 05:04:10 autossh[2330]: ssh child pid is 13029
+2021/04/01 05:04:10 autossh[2330]: check on child 13029
+2021/04/01 05:04:10 autossh[2330]: set alarm for 600 secs
+2021/04/01 05:04:10 autossh[13029]: execing /usr/bin/ssh
+2021/04/01 05:04:10 autossh[2330]: check on child 13029
+2021/04/01 05:04:10 autossh[2330]: ssh exited with error status 255; restarting ssh
+2021/04/01 05:04:10 autossh[2330]: expired child, returning 1
+2021/04/01 05:04:10 autossh[2330]: checking for grace period, tries = 5
+2021/04/01 05:04:10 autossh[2330]: starting ssh (count 42)
+2021/04/01 05:04:10 autossh[2330]: ssh child pid is 13030
+2021/04/01 05:04:10 autossh[2330]: check on child 13030
+2021/04/01 05:04:10 autossh[2330]: set alarm for 600 secs
+2021/04/01 05:04:10 autossh[13030]: execing /usr/bin/ssh
+2021/04/01 05:04:10 autossh[2330]: check on child 13030
+2021/04/01 05:04:10 autossh[2330]: ssh exited with error status 255; restarting ssh
+2021/04/01 05:04:10 autossh[2330]: expired child, returning 1
+2021/04/01 05:04:10 autossh[2330]: checking for grace period, tries = 6
+2021/04/01 05:04:10 autossh[2330]: sleeping for grace time 2 secs
+2021/04/01 05:04:12 autossh[2330]: starting ssh (count 43)
+2021/04/01 05:04:12 autossh[2330]: ssh child pid is 13031
+2021/04/01 05:04:12 autossh[2330]: check on child 13031
+2021/04/01 05:04:12 autossh[2330]: set alarm for 598 secs
+2021/04/01 05:04:12 autossh[13031]: execing /usr/bin/ssh
+2021/04/01 05:04:12 autossh[2330]: check on child 13031
+2021/04/01 05:04:12 autossh[2330]: ssh exited with error status 255; restarting ssh
+2021/04/01 05:04:12 autossh[2330]: expired child, returning 1
+2021/04/01 05:04:12 autossh[2330]: checking for grace period, tries = 7
+2021/04/01 05:04:12 autossh[2330]: sleeping for grace time 8 secs
+2021/04/01 05:04:20 autossh[2330]: starting ssh (count 44)
+2021/04/01 05:04:20 autossh[2330]: ssh child pid is 13145
+2021/04/01 05:04:20 autossh[2330]: check on child 13145
+2021/04/01 05:04:20 autossh[2330]: set alarm for 590 secs
+2021/04/01 05:04:20 autossh[13145]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 05:05:01 EST ############################
+
+2021/04/01 05:05:01 autossh[13169]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 05:10:01 EST ############################
+
+2021/04/01 05:10:01 autossh[13280]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 05:14:26 autossh[2330]: timeout polling to accept read connection
+2021/04/01 05:14:26 autossh[2330]: port down, restarting ssh
+2021/04/01 05:14:26 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 05:14:26 autossh[2330]: starting ssh (count 45)
+2021/04/01 05:14:26 autossh[2330]: ssh child pid is 13366
+2021/04/01 05:14:26 autossh[2330]: check on child 13366
+2021/04/01 05:14:26 autossh[2330]: set alarm for 600 secs
+2021/04/01 05:14:26 autossh[13366]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 05:15:01 EST ############################
+
+2021/04/01 05:15:01 autossh[13385]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 05:20:01 EST ############################
+
+2021/04/01 05:20:01 autossh[13495]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 05:24:41 autossh[2330]: timeout polling to accept read connection
+2021/04/01 05:24:41 autossh[2330]: port down, restarting ssh
+2021/04/01 05:24:41 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 05:24:41 autossh[2330]: starting ssh (count 46)
+2021/04/01 05:24:41 autossh[2330]: ssh child pid is 13806
+2021/04/01 05:24:41 autossh[2330]: check on child 13806
+2021/04/01 05:24:41 autossh[2330]: set alarm for 600 secs
+2021/04/01 05:24:41 autossh[13806]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 05:25:01 EST ############################
+
+2021/04/01 05:25:01 autossh[13827]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 05:30:01 EST ############################
+
+2021/04/01 05:30:01 autossh[13990]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 05:34:56 autossh[2330]: timeout polling to accept read connection
+2021/04/01 05:34:56 autossh[2330]: port down, restarting ssh
+2021/04/01 05:34:56 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 05:34:56 autossh[2330]: starting ssh (count 47)
+2021/04/01 05:34:56 autossh[2330]: ssh child pid is 14076
+2021/04/01 05:34:56 autossh[2330]: check on child 14076
+2021/04/01 05:34:56 autossh[2330]: set alarm for 600 secs
+2021/04/01 05:34:56 autossh[14076]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 05:35:01 EST ############################
+
+2021/04/01 05:35:01 autossh[14089]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 05:40:01 EST ############################
+
+2021/04/01 05:40:01 autossh[14301]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 05:45:01 EST ############################
+
+2021/04/01 05:45:01 autossh[14716]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 05:45:11 autossh[2330]: timeout polling to accept read connection
+2021/04/01 05:45:11 autossh[2330]: port down, restarting ssh
+2021/04/01 05:45:11 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 05:45:11 autossh[2330]: starting ssh (count 48)
+2021/04/01 05:45:11 autossh[2330]: ssh child pid is 14728
+2021/04/01 05:45:11 autossh[2330]: check on child 14728
+2021/04/01 05:45:11 autossh[2330]: set alarm for 600 secs
+2021/04/01 05:45:11 autossh[14728]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 05:50:01 EST ############################
+
+2021/04/01 05:50:01 autossh[14826]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 05:55:01 EST ############################
+
+2021/04/01 05:55:01 autossh[14928]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 05:55:26 autossh[2330]: timeout polling to accept read connection
+2021/04/01 05:55:26 autossh[2330]: port down, restarting ssh
+2021/04/01 05:55:26 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 05:55:26 autossh[2330]: starting ssh (count 49)
+2021/04/01 05:55:26 autossh[2330]: ssh child pid is 14942
+2021/04/01 05:55:26 autossh[2330]: check on child 14942
+2021/04/01 05:55:26 autossh[2330]: set alarm for 600 secs
+2021/04/01 05:55:26 autossh[14942]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 06:00:01 EST ############################
+
+2021/04/01 06:00:01 autossh[15302]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 06:05:02 EST ############################
+
+2021/04/01 06:05:02 autossh[15510]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 06:05:41 autossh[2330]: timeout polling to accept read connection
+2021/04/01 06:05:41 autossh[2330]: port down, restarting ssh
+2021/04/01 06:05:41 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 06:05:41 autossh[2330]: starting ssh (count 50)
+2021/04/01 06:05:41 autossh[2330]: ssh child pid is 15525
+2021/04/01 06:05:41 autossh[2330]: check on child 15525
+2021/04/01 06:05:41 autossh[2330]: set alarm for 600 secs
+2021/04/01 06:05:41 autossh[15525]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 06:10:01 EST ############################
+
+2021/04/01 06:10:01 autossh[15616]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 06:15:01 EST ############################
+
+2021/04/01 06:15:01 autossh[15719]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 06:15:56 autossh[2330]: timeout polling to accept read connection
+2021/04/01 06:15:56 autossh[2330]: port down, restarting ssh
+2021/04/01 06:15:56 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 06:15:56 autossh[2330]: starting ssh (count 51)
+2021/04/01 06:15:56 autossh[2330]: ssh child pid is 15738
+2021/04/01 06:15:56 autossh[2330]: check on child 15738
+2021/04/01 06:15:56 autossh[2330]: set alarm for 600 secs
+2021/04/01 06:15:56 autossh[15738]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 06:20:01 EST ############################
+
+2021/04/01 06:20:01 autossh[16047]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 06:25:01 EST ############################
+
+2021/04/01 06:25:01 autossh[16157]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 06:26:11 autossh[2330]: timeout polling to accept read connection
+2021/04/01 06:26:11 autossh[2330]: port down, restarting ssh
+2021/04/01 06:26:11 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 06:26:11 autossh[2330]: starting ssh (count 52)
+2021/04/01 06:26:11 autossh[2330]: ssh child pid is 16189
+2021/04/01 06:26:11 autossh[2330]: check on child 16189
+2021/04/01 06:26:11 autossh[2330]: set alarm for 600 secs
+2021/04/01 06:26:11 autossh[16189]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 06:30:01 EST ############################
+
+2021/04/01 06:30:01 autossh[16262]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 06:35:01 EST ############################
+
+2021/04/01 06:35:01 autossh[16371]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 06:36:26 autossh[2330]: timeout polling to accept read connection
+2021/04/01 06:36:26 autossh[2330]: port down, restarting ssh
+2021/04/01 06:36:26 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 06:36:26 autossh[2330]: starting ssh (count 53)
+2021/04/01 06:36:26 autossh[2330]: ssh child pid is 16417
+2021/04/01 06:36:26 autossh[2330]: check on child 16417
+2021/04/01 06:36:26 autossh[2330]: set alarm for 600 secs
+2021/04/01 06:36:26 autossh[16417]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 06:40:01 EST ############################
+
+2021/04/01 06:40:01 autossh[16895]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 06:45:01 EST ############################
+
+2021/04/01 06:45:01 autossh[17009]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 06:46:41 autossh[2330]: timeout polling to accept read connection
+2021/04/01 06:46:41 autossh[2330]: port down, restarting ssh
+2021/04/01 06:46:41 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 06:46:41 autossh[2330]: starting ssh (count 54)
+2021/04/01 06:46:41 autossh[2330]: ssh child pid is 17050
+2021/04/01 06:46:41 autossh[2330]: check on child 17050
+2021/04/01 06:46:41 autossh[2330]: set alarm for 600 secs
+2021/04/01 06:46:41 autossh[17050]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 06:50:01 EST ############################
+
+2021/04/01 06:50:01 autossh[17121]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 06:55:01 EST ############################
+
+2021/04/01 06:55:01 autossh[17228]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 06:56:56 autossh[2330]: timeout polling to accept read connection
+2021/04/01 06:56:56 autossh[2330]: port down, restarting ssh
+2021/04/01 06:56:56 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 06:56:56 autossh[2330]: starting ssh (count 55)
+2021/04/01 06:56:56 autossh[2330]: ssh child pid is 17265
+2021/04/01 06:56:56 autossh[2330]: check on child 17265
+2021/04/01 06:56:56 autossh[2330]: set alarm for 600 secs
+2021/04/01 06:56:56 autossh[17265]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 07:00:01 EST ############################
+
+2021/04/01 07:00:01 autossh[17508]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 07:05:01 EST ############################
+
+2021/04/01 07:05:01 autossh[17750]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 07:07:11 autossh[2330]: timeout polling to accept read connection
+2021/04/01 07:07:11 autossh[2330]: port down, restarting ssh
+2021/04/01 07:07:11 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 07:07:11 autossh[2330]: starting ssh (count 56)
+2021/04/01 07:07:11 autossh[2330]: ssh child pid is 17799
+2021/04/01 07:07:11 autossh[2330]: check on child 17799
+2021/04/01 07:07:11 autossh[2330]: set alarm for 600 secs
+2021/04/01 07:07:11 autossh[17799]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 07:10:02 EST ############################
+
+2021/04/01 07:10:02 autossh[17855]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 07:15:01 EST ############################
+
+2021/04/01 07:15:01 autossh[17961]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 07:17:26 autossh[2330]: timeout polling to accept read connection
+2021/04/01 07:17:26 autossh[2330]: port down, restarting ssh
+2021/04/01 07:17:26 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 07:17:26 autossh[2330]: starting ssh (count 57)
+2021/04/01 07:17:26 autossh[2330]: ssh child pid is 18015
+2021/04/01 07:17:26 autossh[2330]: check on child 18015
+2021/04/01 07:17:26 autossh[2330]: set alarm for 600 secs
+2021/04/01 07:17:26 autossh[18015]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 07:20:01 EST ############################
+
+2021/04/01 07:20:01 autossh[18309]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 07:25:01 EST ############################
+
+2021/04/01 07:25:01 autossh[18419]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 07:27:41 autossh[2330]: timeout polling to accept read connection
+2021/04/01 07:27:41 autossh[2330]: port down, restarting ssh
+2021/04/01 07:27:41 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 07:27:41 autossh[2330]: starting ssh (count 58)
+2021/04/01 07:27:41 autossh[2330]: ssh child pid is 18480
+2021/04/01 07:27:41 autossh[2330]: check on child 18480
+2021/04/01 07:27:41 autossh[2330]: set alarm for 600 secs
+2021/04/01 07:27:41 autossh[18480]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 07:30:01 EST ############################
+
+2021/04/01 07:30:01 autossh[18534]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 07:35:01 EST ############################
+
+2021/04/01 07:35:01 autossh[18646]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 07:37:56 autossh[2330]: timeout polling to accept read connection
+2021/04/01 07:37:56 autossh[2330]: port down, restarting ssh
+2021/04/01 07:37:56 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 07:37:56 autossh[2330]: starting ssh (count 59)
+2021/04/01 07:37:56 autossh[2330]: ssh child pid is 18940
+2021/04/01 07:37:56 autossh[2330]: check on child 18940
+2021/04/01 07:37:56 autossh[2330]: set alarm for 600 secs
+2021/04/01 07:37:56 autossh[18940]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 07:40:01 EST ############################
+
+2021/04/01 07:40:01 autossh[19001]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 07:45:01 EST ############################
+
+2021/04/01 07:45:01 autossh[19114]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 07:48:11 autossh[2330]: timeout polling to accept read connection
+2021/04/01 07:48:11 autossh[2330]: port down, restarting ssh
+2021/04/01 07:48:11 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 07:48:11 autossh[2330]: starting ssh (count 60)
+2021/04/01 07:48:11 autossh[2330]: ssh child pid is 19188
+2021/04/01 07:48:11 autossh[2330]: check on child 19188
+2021/04/01 07:48:11 autossh[2330]: set alarm for 600 secs
+2021/04/01 07:48:11 autossh[19188]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 07:50:01 EST ############################
+
+2021/04/01 07:50:01 autossh[19228]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 07:55:01 EST ############################
+
+2021/04/01 07:55:01 autossh[19786]: bind on 127.0.0.1:61001: Address already in use
+2021/04/01 07:58:26 autossh[2330]: timeout polling to accept read connection
+2021/04/01 07:58:26 autossh[2330]: port down, restarting ssh
+2021/04/01 07:58:26 autossh[2330]: checking for grace period, tries = 0
+2021/04/01 07:58:26 autossh[2330]: starting ssh (count 61)
+2021/04/01 07:58:26 autossh[2330]: ssh child pid is 19866
+2021/04/01 07:58:26 autossh[2330]: check on child 19866
+2021/04/01 07:58:26 autossh[2330]: set alarm for 600 secs
+2021/04/01 07:58:26 autossh[19866]: execing /usr/bin/ssh
+
+############################ annie - 04/01/21 08:00:01 EST ############################
+
+2021/04/01 08:00:01 autossh[19903]: bind on 127.0.0.1:61001: Address already in use
+
+############################ annie - 04/01/21 08:05:01 EST ############################
+
+2021/04/01 08:05:01 autossh[20030]: bind on 127.0.0.1:61001: Address already in use
