@@ -5220,3 +5220,46 @@ reboot   system boot  5.3.0-53-generic Thu Apr  1 00:15 - 00:10  (23:54)
 
 
 
+
+
+Bus 001 Device 006: ID 1410:9030 Novatel Wireless 
+
+
+[    6.258932] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[   35.565103] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[   36.361868] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[   43.780369] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[   44.536219] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+
+
+[   43.780369] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[   44.463599] usb 1-6: new high-speed USB device number 6 using xhci_hcd
+[   44.492059] usb 1-6: New USB device found, idVendor=1410, idProduct=9030, bcdDevice= 3.10
+[   44.492067] usb 1-6: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[   44.492071] usb 1-6: Product: MiFi USB730L
+[   44.492076] usb 1-6: Manufacturer: Novatel Wireless
+[   44.492079] usb 1-6: SerialNumber: 0123456789ABCDEF
+[   44.509146] rndis_host 1-6:1.0 eth0: register 'rndis_host' at usb-0000:00:15.0-6, RNDIS device, 00:15:ff:15:76:07
+[   44.518860] hid-generic 0003:1410:9030.0003: hiddev0,hidraw0: USB HID v1.01 Device [Novatel Wireless MiFi USB730L] on usb-0000:00:15.0-6/input2
+[   44.536219] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   15G   14G  53% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G   64M   56G   1% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff157607:
+100.97.187.251/29
+
+
+
+
+enp2s0:
+10.10.1.2/24
+
+
