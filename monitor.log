@@ -7183,3 +7183,106 @@ ping: github.com: Name or service not known
 
 
 connect: Network is unreachable
+
+############################ annie - 04/06/21 18:00:01 EST ############################
+
+ 18:00:01 up 17:44,  0 users,  load average: 0.18, 0.14, 0.08
+
+
+reboot   system boot  5.3.0-53-generic Tue Apr  6 00:15   still running
+reboot   system boot  5.3.0-53-generic Mon Apr  5 00:15 - 00:10  (23:54)
+reboot   system boot  5.3.0-53-generic Sun Apr  4 00:15 - 00:10  (23:54)
+reboot   system boot  5.3.0-53-generic Sat Apr  3 00:15 - 00:10  (23:54)
+reboot   system boot  5.3.0-53-generic Fri Apr  2 00:15 - 00:10  (23:54)
+
+
+
+
+Bus 001 Device 022: ID 1410:9030 Novatel Wireless 
+
+
+[    6.436808] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[   62.032499] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[   62.814691] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 1139.198313] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 1140.063466] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 2247.984323] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 2248.846391] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 3331.124696] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 3331.982896] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 4409.100380] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 4409.938779] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 5491.199560] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 5492.042084] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 6569.712311] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 6570.552199] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 7651.782684] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 7652.645967] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 8729.114247] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 8729.969395] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 9779.062378] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 9779.916161] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 9810.627389] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 9811.385859] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[10883.299162] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[10884.152711] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[10913.990662] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[10914.811946] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[11910.169562] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[11911.011099] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[12988.725446] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[12989.588794] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[14099.683761] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[14100.547137] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[14115.100073] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[14115.903217] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[15389.659810] rndis_host 1-6:1.0 enx0015ff157607: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[15390.504563] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+
+
+[15390.440930] usb 1-6: New USB device found, idVendor=1410, idProduct=9030, bcdDevice= 3.10
+[15390.440937] usb 1-6: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[15390.440941] usb 1-6: Product: MiFi USB730L
+[15390.440944] usb 1-6: Manufacturer: Novatel Wireless
+[15390.440948] usb 1-6: SerialNumber: 0123456789ABCDEF
+[15390.466780] rndis_host 1-6:1.0 eth0: register 'rndis_host' at usb-0000:00:15.0-6, RNDIS device, 00:15:ff:15:76:07
+[15390.480618] hid-generic 0003:1410:9030.0013: hiddev0,hidraw0: USB HID v1.01 Device [Novatel Wireless MiFi USB730L] on usb-0000:00:15.0-6/input2
+[15390.504563] rndis_host 1-6:1.0 enx0015ff157607: renamed from eth0
+[43223.802027] perf: interrupt took too long (2513 > 2500), lowering kernel.perf_event_max_sample_rate to 79500
+[56553.513277] perf: interrupt took too long (3169 > 3141), lowering kernel.perf_event_max_sample_rate to 63000
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   15G   13G  53% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G   75M   56G   1% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff157607:
+
+
+
+
+enp2s0:
+10.10.1.2/24
+
+
+connect: Network is unreachable
+
+
+connect: Network is unreachable
+
+
+connect: Network is unreachable
+
+
+connect: Network is unreachable
+
+
+ping: github.com: Name or service not known
+
+
+connect: Network is unreachable
