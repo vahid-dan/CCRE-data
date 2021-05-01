@@ -4383,3 +4383,24 @@ fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights
 and the repository exists.
+[annie-logs 7a5cf6d] 04/30/21 20:05:01 EST: Logs
+ 1 file changed, 7 insertions(+)
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+############################ annie - 05/01/21 00:20:57 EST ############################
+
+Data:
+
+Already up to date.
+[ccre-dam-data b576226] 05/01/21 00:20:57 EST: Git Backup
+ 2 files changed, 264 insertions(+)
+To github.com:FLARE-forecast/CCRE-data.git
+   cc62c59..b576226  ccre-dam-data -> ccre-dam-data
+
+Logs:
+
+Already up to date.
