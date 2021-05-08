@@ -32903,3 +32903,130 @@ PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
 --- 8.8.8.8 ping statistics ---
 3 packets transmitted, 3 received, 0% packet loss, time 2003ms
 rtt min/avg/max/mdev = 37.358/40.306/43.211/2.400 ms
+
+############################ annie - 05/08/21 06:00:01 EST ############################
+
+ 06:00:01 up  5:44,  0 users,  load average: 0.08, 0.10, 0.09
+
+
+reboot   system boot  5.3.0-53-generic Sat May  8 00:15   still running
+reboot   system boot  5.3.0-53-generic Fri May  7 00:15 - 00:10  (23:54)
+reboot   system boot  5.3.0-53-generic Thu May  6 00:15 - 00:10  (23:54)
+reboot   system boot  5.3.0-53-generic Wed May  5 00:15 - 00:10  (23:54)
+reboot   system boot  5.3.0-53-generic Tue May  4 13:38 - 00:10  (10:31)
+
+
+
+
+Bus 001 Device 018: ID 1410:9030 Novatel Wireless 
+
+
+[    6.040137] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[  257.575470] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[  258.394344] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 1380.980306] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 1381.827350] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 1393.158743] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 1393.927188] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 2882.348415] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 2898.483009] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 2995.981032] NETDEV WATCHDOG: enx0015ff157607 (cdc_ether): transmit queue 0 timed out
+[10917.965759] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[10918.807841] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[10951.590864] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[10952.359649] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[12046.107334] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[12046.944574] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[12069.344537] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[12070.163533] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[13351.955100] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[13352.793663] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[15049.705137] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[15050.560915] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[16350.951641] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[16351.786949] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[17746.438600] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[17747.271172] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[17776.966858] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[17777.734014] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[19551.625412] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[19552.457064] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+
+
+[19551.625800] xhci_hcd 0000:00:15.0: A Set TR Deq Ptr command is pending.
+[19552.377864] usb 1-6: new high-speed USB device number 18 using xhci_hcd
+[19552.406396] usb 1-6: New USB device found, idVendor=1410, idProduct=9030, bcdDevice= 3.10
+[19552.406404] usb 1-6: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[19552.406409] usb 1-6: Product: MiFi USB730L
+[19552.406414] usb 1-6: Manufacturer: Novatel Wireless
+[19552.406418] usb 1-6: SerialNumber: 0123456789ABCDEF
+[19552.433829] cdc_ether 1-6:1.0 eth0: register 'cdc_ether' at usb-0000:00:15.0-6, CDC Ethernet Device, 00:15:ff:15:76:07
+[19552.436905] hid-generic 0003:1410:9030.000E: hiddev0,hidraw0: USB HID v1.01 Device [Novatel Wireless MiFi USB730L] on usb-0000:00:15.0-6/input2
+[19552.457064] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   15G   14G  53% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G  211M   56G   1% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff157607:
+100.117.45.35/29
+
+
+
+
+enp2s0:
+10.10.1.2/24
+
+
+PING 192.168.10.2 (192.168.10.2) 56(84) bytes of data.
+
+--- 192.168.10.2 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2053ms
+
+
+
+PING 192.168.10.11 (192.168.10.11) 56(84) bytes of data.
+
+--- 192.168.10.11 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2054ms
+
+
+
+PING 192.168.10.12 (192.168.10.12) 56(84) bytes of data.
+
+--- 192.168.10.12 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2054ms
+
+
+
+PING 192.168.10.13 (192.168.10.13) 56(84) bytes of data.
+
+--- 192.168.10.13 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2027ms
+
+
+
+PING github.com (140.82.113.4) 56(84) bytes of data.
+64 bytes from lb-140-82-113-4-iad.github.com (140.82.113.4): icmp_seq=1 ttl=47 time=28.1 ms
+64 bytes from lb-140-82-113-4-iad.github.com (140.82.113.4): icmp_seq=2 ttl=47 time=37.3 ms
+64 bytes from lb-140-82-113-4-iad.github.com (140.82.113.4): icmp_seq=3 ttl=47 time=35.5 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2001ms
+rtt min/avg/max/mdev = 28.174/33.664/37.306/3.950 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=53 time=39.9 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=53 time=39.4 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=53 time=37.7 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 37.741/39.034/39.915/0.948 ms
