@@ -39804,3 +39804,249 @@ ping: github.com: Name or service not known
 
 
 connect: Network is unreachable
+
+############################ annie - 05/17/21 00:00:01 EST ############################
+
+ 00:00:01 up 23:44,  0 users,  load average: 0.03, 0.13, 0.10
+
+
+reboot   system boot  5.3.0-53-generic Sun May 16 00:15   still running
+reboot   system boot  5.3.0-53-generic Sat May 15 00:15 - 00:10  (23:54)
+reboot   system boot  5.3.0-53-generic Fri May 14 00:15 - 00:10  (23:54)
+reboot   system boot  5.3.0-53-generic Thu May 13 00:15 - 00:10  (23:54)
+reboot   system boot  5.3.0-53-generic Wed May 12 00:15 - 00:10  (23:54)
+
+
+
+
+
+
+[    6.313877] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[   62.163304] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[   62.929937] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[   73.508345] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[   74.267927] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 1137.260707] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 1138.103747] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 1160.767112] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 1161.514668] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 2220.238906] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 2221.085082] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 3297.186694] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 3298.020132] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 4317.437008] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 4318.261728] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 4349.067601] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 4349.885054] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 5400.597226] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 5401.418909] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 6477.331460] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 6478.165163] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 7560.346455] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 7561.213767] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 7571.376836] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 7572.130603] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 8637.502087] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 8638.354165] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 9717.211871] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 9718.050234] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[10797.737742] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[10798.567774] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[11877.834210] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[11878.680778] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[12957.976241] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[12958.828457] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[14037.341425] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[14038.162593] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[15090.460196] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[15091.336329] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[16167.320210] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[16168.135710] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[16168.277616] IPv6: ADDRCONF(NETDEV_CHANGE): enx0015ff157607: link becomes ready
+[17217.147436] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[17217.971438] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[18297.444820] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[18298.291005] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[19377.486471] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[19378.393337] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[19408.805624] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[19409.572591] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[20427.926021] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[20428.780811] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[21507.418742] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[21508.251849] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[22587.106569] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[22587.951303] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[22610.775954] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[22611.572218] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[23638.117032] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[23638.965002] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[24718.037965] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[24718.919135] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[25767.465953] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[25768.282761] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[25790.978969] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[25791.778201] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[26902.665449] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[26903.515084] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[28167.774677] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[28168.612749] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[29310.714046] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[29311.553419] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[30387.979522] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[30388.837608] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[31467.124493] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[31467.992485] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[31468.149625] IPv6: ADDRCONF(NETDEV_CHANGE): enx0015ff157607: link becomes ready
+[31498.842172] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[31499.652778] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[32550.467041] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[32551.302829] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[33627.251125] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[33628.078001] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[34707.449941] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[34708.281562] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[35972.152055] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[35972.993648] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[37048.231132] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[37049.069491] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[38158.121919] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[38158.958322] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[39237.212788] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[39238.079002] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[40317.314646] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[40318.170047] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[41459.026210] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[41459.884958] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[41490.625460] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[41491.389936] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[41491.541586] IPv6: ADDRCONF(NETDEV_CHANGE): enx0015ff157607: link becomes ready
+[42537.162005] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[42538.013840] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[42568.629389] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[42569.389289] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[43590.103523] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[43590.947528] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[43601.895773] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[43602.664126] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[43610.524417] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[43611.306291] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[44667.410211] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[44668.254682] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[45748.010993] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[45748.849950] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[46854.958783] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[46855.795362] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[48147.698930] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[48148.530985] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[48170.493565] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[48171.248830] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[49467.809995] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[49468.646539] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[50547.197652] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[50548.053673] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[50578.623078] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+
+
+[50547.983894] usb 1-6: Product: MiFi USB730L
+[50547.983899] usb 1-6: Manufacturer: Novatel Wireless
+[50547.983903] usb 1-6: SerialNumber: 0123456789ABCDEF
+[50548.019268] cdc_ether 1-6:1.0 eth0: register 'cdc_ether' at usb-0000:00:15.0-6, CDC Ethernet Device, 00:15:ff:15:76:07
+[50548.029957] hid-generic 0003:1410:9030.003D: hiddev0,hidraw0: USB HID v1.01 Device [Novatel Wireless MiFi USB730L] on usb-0000:00:15.0-6/input2
+[50548.053673] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[50578.622822] usb 1-6: USB disconnect, device number 64
+[50578.623078] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[55288.964329] perf: interrupt took too long (3199 > 3161), lowering kernel.perf_event_max_sample_rate to 62500
+[78938.797509] perf: interrupt took too long (4000 > 3998), lowering kernel.perf_event_max_sample_rate to 50000
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   15G   14G  53% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G  394M   56G   1% /data
+
+
+
+(process:26600): libnm-WARNING **: 00:00:01.769: no object known for /org/freedesktop/NetworkManager/ActiveConnection/61
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+
+
+
+
+enp2s0:
+10.10.1.2/24
+
+
+connect: Network is unreachable
+
+
+connect: Network is unreachable
+
+
+connect: Network is unreachable
+
+
+connect: Network is unreachable
+
+
+ping: github.com: Name or service not known
+
+
+connect: Network is unreachable
+
+############################ annie - 05/17/21 00:21:10 EST ############################
+
+ 00:21:10 up 5 min,  0 users,  load average: 0.19, 0.49, 0.29
+
+
+reboot   system boot  5.3.0-53-generic Mon May 17 00:15   still running
+reboot   system boot  5.3.0-53-generic Sun May 16 00:15 - 00:10  (23:54)
+reboot   system boot  5.3.0-53-generic Sat May 15 00:15 - 00:10  (23:54)
+reboot   system boot  5.3.0-53-generic Fri May 14 00:15 - 00:10  (23:54)
+reboot   system boot  5.3.0-53-generic Thu May 13 00:15 - 00:10  (23:54)
+
+
+
+
+Bus 001 Device 005: ID 1410:9030 Novatel Wireless 
+
+
+[    6.156528] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[   65.558766] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[   66.349930] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+
+
+[   65.558766] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[   66.268377] usb 1-6: new high-speed USB device number 5 using xhci_hcd
+[   66.293406] usb 1-6: New USB device found, idVendor=1410, idProduct=9030, bcdDevice= 3.10
+[   66.293414] usb 1-6: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[   66.293419] usb 1-6: Product: MiFi USB730L
+[   66.293423] usb 1-6: Manufacturer: Novatel Wireless
+[   66.293427] usb 1-6: SerialNumber: 0123456789ABCDEF
+[   66.315453] cdc_ether 1-6:1.0 eth0: register 'cdc_ether' at usb-0000:00:15.0-6, CDC Ethernet Device, 00:15:ff:15:76:07
+[   66.325426] hid-generic 0003:1410:9030.0002: hiddev0,hidraw0: USB HID v1.01 Device [Novatel Wireless MiFi USB730L] on usb-0000:00:15.0-6/input2
+[   66.349930] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   15G   14G  53% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G  397M   56G   1% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff157607:
+100.108.74.119/28
+
+
+
+
+enp2s0:
+10.10.1.2/24
+
+
