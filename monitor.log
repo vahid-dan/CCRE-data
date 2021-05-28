@@ -49287,3 +49287,188 @@ reboot   system boot  5.3.0-53-generic Thu May 27 00:15 - 00:10  (23:54)
 reboot   system boot  5.3.0-53-generic Wed May 26 00:15 - 00:10  (23:54)
 
 
+
+
+Bus 001 Device 005: ID 1410:9030 Novatel Wireless 
+
+
+[    6.672160] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[   33.336928] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[   34.123035] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+
+
+[   33.336928] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[   34.034467] usb 1-6: new high-speed USB device number 5 using xhci_hcd
+[   34.059562] usb 1-6: New USB device found, idVendor=1410, idProduct=9030, bcdDevice= 3.10
+[   34.059570] usb 1-6: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[   34.059574] usb 1-6: Product: MiFi USB730L
+[   34.059579] usb 1-6: Manufacturer: Novatel Wireless
+[   34.059583] usb 1-6: SerialNumber: 0123456789ABCDEF
+[   34.089579] cdc_ether 1-6:1.0 eth0: register 'cdc_ether' at usb-0000:00:15.0-6, CDC Ethernet Device, 00:15:ff:15:76:07
+[   34.099257] hid-generic 0003:1410:9030.0002: hiddev0,hidraw0: USB HID v1.01 Device [Novatel Wireless MiFi USB730L] on usb-0000:00:15.0-6/input2
+[   34.123035] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   15G   14G  53% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G  711M   55G   2% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff157607:
+100.80.196.238/30
+
+
+
+
+enp2s0:
+10.10.1.2/24
+
+
+PING 192.168.10.2 (192.168.10.2) 56(84) bytes of data.
+
+--- 192.168.10.2 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2033ms
+
+
+
+PING 192.168.10.11 (192.168.10.11) 56(84) bytes of data.
+
+--- 192.168.10.11 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2055ms
+
+
+
+PING 192.168.10.12 (192.168.10.12) 56(84) bytes of data.
+
+--- 192.168.10.12 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2054ms
+
+
+
+PING 192.168.10.13 (192.168.10.13) 56(84) bytes of data.
+
+--- 192.168.10.13 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2031ms
+
+
+
+PING github.com (140.82.114.3) 56(84) bytes of data.
+64 bytes from lb-140-82-114-3-iad.github.com (140.82.114.3): icmp_seq=1 ttl=49 time=29.6 ms
+64 bytes from lb-140-82-114-3-iad.github.com (140.82.114.3): icmp_seq=2 ttl=49 time=37.4 ms
+64 bytes from lb-140-82-114-3-iad.github.com (140.82.114.3): icmp_seq=3 ttl=49 time=35.3 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 29.619/34.127/37.409/3.303 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=53 time=49.7 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=53 time=38.6 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=53 time=36.1 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 36.179/41.527/49.750/5.903 ms
+
+############################ annie - 05/28/21 12:00:01 EST ############################
+
+ 12:00:01 up  2:09,  0 users,  load average: 0.12, 0.08, 0.03
+
+
+reboot   system boot  5.3.0-53-generic Fri May 28 09:50   still running
+reboot   system boot  5.3.0-53-generic Fri May 28 06:43   still running
+reboot   system boot  5.3.0-53-generic Fri May 28 00:15   still running
+reboot   system boot  5.3.0-53-generic Thu May 27 00:15 - 00:10  (23:54)
+reboot   system boot  5.3.0-53-generic Wed May 26 00:15 - 00:10  (23:54)
+
+
+
+
+Bus 001 Device 013: ID 1410:9030 Novatel Wireless 
+
+
+[    6.672160] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[   33.336928] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[   34.123035] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 1104.671918] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 1105.530729] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 1128.203592] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 1128.991606] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 2186.722525] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 2187.524151] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 3264.728922] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 3265.590709] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 3277.337870] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 3278.103254] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 4586.133314] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 4586.974823] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 5665.033653] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 5665.885065] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 6746.424496] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 6747.280937] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+
+
+[ 6746.424496] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 6747.200127] usb 1-6: new high-speed USB device number 13 using xhci_hcd
+[ 6747.229088] usb 1-6: New USB device found, idVendor=1410, idProduct=9030, bcdDevice= 3.10
+[ 6747.229095] usb 1-6: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[ 6747.229099] usb 1-6: Product: MiFi USB730L
+[ 6747.229103] usb 1-6: Manufacturer: Novatel Wireless
+[ 6747.229106] usb 1-6: SerialNumber: 0123456789ABCDEF
+[ 6747.248800] cdc_ether 1-6:1.0 eth0: register 'cdc_ether' at usb-0000:00:15.0-6, CDC Ethernet Device, 00:15:ff:15:76:07
+[ 6747.258527] hid-generic 0003:1410:9030.000A: hiddev0,hidraw0: USB HID v1.01 Device [Novatel Wireless MiFi USB730L] on usb-0000:00:15.0-6/input2
+[ 6747.280937] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   15G   14G  53% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G  711M   55G   2% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff157607:
+100.116.220.31/26
+
+
+
+
+enp2s0:
+10.10.1.2/24
+
+
+PING 192.168.10.2 (192.168.10.2) 56(84) bytes of data.
+
+--- 192.168.10.2 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2055ms
+
+
+
+PING 192.168.10.11 (192.168.10.11) 56(84) bytes of data.
+
+--- 192.168.10.11 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2025ms
+
+
+
+PING 192.168.10.12 (192.168.10.12) 56(84) bytes of data.
+
+--- 192.168.10.12 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2022ms
+
+
+
+connect: Network is unreachable
+
+
+ping: github.com: Name or service not known
+
+
+connect: Network is unreachable
