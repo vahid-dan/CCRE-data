@@ -13731,3 +13731,54 @@
 2021-05-28 19:50:22 64 bytes from 8.8.8.8: icmp_seq=120 ttl=53 time=41.7 ms
 2021-05-28 19:55:22 64 bytes from 8.8.8.8: icmp_seq=121 ttl=53 time=56.3 ms
 2021-05-28 20:00:22 64 bytes from 8.8.8.8: icmp_seq=122 ttl=112 time=42.5 ms
+2021-05-28 20:05:22 64 bytes from 8.8.8.8: icmp_seq=123 ttl=112 time=45.6 ms
+2021-05-28 20:10:22 64 bytes from 8.8.8.8: icmp_seq=124 ttl=112 time=49.2 ms
+2021-05-28 20:15:22 64 bytes from 8.8.8.8: icmp_seq=125 ttl=112 time=43.9 ms
+2021-05-28 20:20:22 64 bytes from 8.8.8.8: icmp_seq=126 ttl=112 time=42.3 ms
+2021-05-28 20:25:22 64 bytes from 8.8.8.8: icmp_seq=127 ttl=53 time=35.9 ms
+2021-05-28 20:30:22 64 bytes from 8.8.8.8: icmp_seq=128 ttl=53 time=40.6 ms
+2021-05-28 20:35:22 64 bytes from 8.8.8.8: icmp_seq=129 ttl=53 time=47.4 ms
+2021-05-28 20:40:22 64 bytes from 8.8.8.8: icmp_seq=130 ttl=53 time=38.9 ms
+2021-05-28 20:45:23 64 bytes from 8.8.8.8: icmp_seq=131 ttl=112 time=48.6 ms
+2021-05-28 20:50:23 64 bytes from 8.8.8.8: icmp_seq=132 ttl=112 time=38.8 ms
+2021-05-28 20:55:23 64 bytes from 8.8.8.8: icmp_seq=133 ttl=112 time=47.9 ms
+2021-05-28 21:00:23 64 bytes from 8.8.8.8: icmp_seq=134 ttl=112 time=41.9 ms
+2021-05-28 21:05:23 64 bytes from 8.8.8.8: icmp_seq=135 ttl=112 time=49.9 ms
+2021-05-28 21:10:23 64 bytes from 8.8.8.8: icmp_seq=136 ttl=53 time=45.7 ms
+2021-05-28 21:15:23 64 bytes from 8.8.8.8: icmp_seq=137 ttl=53 time=42.5 ms
+2021-05-28 21:20:23 64 bytes from 8.8.8.8: icmp_seq=138 ttl=53 time=46.3 ms
+2021-05-28 21:25:23 64 bytes from 8.8.8.8: icmp_seq=139 ttl=53 time=47.4 ms
+2021-05-28 21:35:23 64 bytes from 8.8.8.8: icmp_seq=141 ttl=53 time=45.4 ms
+2021-05-28 21:40:23 64 bytes from 8.8.8.8: icmp_seq=142 ttl=53 time=50.7 ms
+2021-05-28 21:45:23 64 bytes from 8.8.8.8: icmp_seq=143 ttl=53 time=37.9 ms
+2021-05-28 21:50:23 64 bytes from 8.8.8.8: icmp_seq=144 ttl=53 time=43.8 ms
+2021-05-28 21:55:23 64 bytes from 8.8.8.8: icmp_seq=145 ttl=53 time=42.1 ms
+2021-05-28 22:00:23 64 bytes from 8.8.8.8: icmp_seq=146 ttl=53 time=42.1 ms
+2021-05-28 22:05:23 64 bytes from 8.8.8.8: icmp_seq=147 ttl=53 time=39.1 ms
+2021-05-28 22:10:23 64 bytes from 8.8.8.8: icmp_seq=148 ttl=53 time=44.5 ms
+2021-05-28 22:15:23 64 bytes from 8.8.8.8: icmp_seq=149 ttl=112 time=39.3 ms
+2021-05-28 22:20:24 64 bytes from 8.8.8.8: icmp_seq=150 ttl=112 time=41.1 ms
+2021-05-28 22:25:24 64 bytes from 8.8.8.8: icmp_seq=151 ttl=112 time=47.3 ms
+2021-05-28 22:35:24 64 bytes from 8.8.8.8: icmp_seq=153 ttl=112 time=46.8 ms
+2021-05-28 22:40:24 64 bytes from 8.8.8.8: icmp_seq=154 ttl=112 time=34.0 ms
+2021-05-28 22:45:24 64 bytes from 8.8.8.8: icmp_seq=155 ttl=112 time=48.6 ms
+2021-05-28 22:50:24 64 bytes from 8.8.8.8: icmp_seq=156 ttl=112 time=49.7 ms
+2021-05-28 22:55:24 64 bytes from 8.8.8.8: icmp_seq=157 ttl=112 time=38.0 ms
+2021-05-28 23:00:24 64 bytes from 8.8.8.8: icmp_seq=158 ttl=112 time=44.2 ms
+2021-05-28 23:05:24 64 bytes from 8.8.8.8: icmp_seq=159 ttl=112 time=49.7 ms
+2021-05-28 23:10:24 64 bytes from 8.8.8.8: icmp_seq=160 ttl=112 time=35.1 ms
+2021-05-28 23:15:24 64 bytes from 8.8.8.8: icmp_seq=161 ttl=112 time=39.6 ms
+2021-05-28 23:25:31 64 bytes from 8.8.8.8: icmp_seq=163 ttl=112 time=46.1 ms
+2021-05-28 23:30:31 64 bytes from 8.8.8.8: icmp_seq=164 ttl=112 time=42.2 ms
+2021-05-28 23:35:32 64 bytes from 8.8.8.8: icmp_seq=165 ttl=112 time=915 ms
+2021-05-28 23:40:31 64 bytes from 8.8.8.8: icmp_seq=166 ttl=112 time=39.8 ms
+2021-05-28 23:45:32 64 bytes from 8.8.8.8: icmp_seq=167 ttl=112 time=139 ms
+2021-05-28 23:50:32 64 bytes from 8.8.8.8: icmp_seq=168 ttl=112 time=48.8 ms
+2021-05-28 23:55:32 64 bytes from 8.8.8.8: icmp_seq=169 ttl=53 time=159 ms
+2021-05-29 00:00:32 64 bytes from 8.8.8.8: icmp_seq=170 ttl=53 time=43.2 ms
+2021-05-29 00:05:32 64 bytes from 8.8.8.8: icmp_seq=171 ttl=53 time=158 ms
+
+############## annie - 05/29/21 00:21:05 EST -0500 ##############
+
+2021-05-29 00:21:05 PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+2021-05-29 00:21:05 64 bytes from 8.8.8.8: icmp_seq=1 ttl=53 time=40.7 ms
