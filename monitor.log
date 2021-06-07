@@ -57227,3 +57227,143 @@ ping: github.com: Name or service not known
 
 
 connect: Network is unreachable
+
+############################ annie - 06/07/21 06:00:01 EST ############################
+
+ 06:00:01 up  5:44,  0 users,  load average: 0.00, 0.03, 0.05
+
+
+reboot   system boot  5.3.0-53-generic Mon Jun  7 00:16   still running
+reboot   system boot  5.3.0-53-generic Sun Jun  6 00:16 - 00:10  (23:54)
+reboot   system boot  5.3.0-53-generic Sat Jun  5 00:16 - 00:10  (23:54)
+reboot   system boot  5.3.0-53-generic Fri Jun  4 00:16 - 00:10  (23:54)
+reboot   system boot  5.3.0-53-generic Thu Jun  3 00:16 - 00:10  (23:54)
+
+
+
+
+Bus 001 Device 025: ID 1410:9030 Novatel Wireless 
+
+
+[    6.416967] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[  369.390350] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[  370.247161] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 1578.045515] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 1578.891446] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 2758.471400] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 2759.351207] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 3989.368791] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 3990.197184] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 5069.108894] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 5070.000648] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 6280.335941] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 6281.150785] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 6303.713708] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 6304.477735] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 7349.266092] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 7350.113516] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 8442.259919] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 8443.099144] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 9509.605039] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 9510.470234] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 9521.236615] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 9522.007143] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[10941.611289] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[10942.458867] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[12148.900315] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[12149.774787] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[13229.982892] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[13230.845098] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[14309.570410] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[14310.427923] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[15387.945930] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[15388.767899] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[16468.807414] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[16469.646466] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[16482.436321] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[16483.246028] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[17682.385250] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[17683.204852] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[18882.065450] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[18882.912402] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[19947.986149] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[19948.839746] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+
+
+[19947.986913] xhci_hcd 0000:00:15.0: A Set TR Deq Ptr command is pending.
+[19948.749940] usb 1-6: new high-speed USB device number 25 using xhci_hcd
+[19948.782191] usb 1-6: New USB device found, idVendor=1410, idProduct=9030, bcdDevice= 3.10
+[19948.782198] usb 1-6: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[19948.782202] usb 1-6: Product: MiFi USB730L
+[19948.782205] usb 1-6: Manufacturer: Novatel Wireless
+[19948.782208] usb 1-6: SerialNumber: 0123456789ABCDEF
+[19948.803608] cdc_ether 1-6:1.0 eth0: register 'cdc_ether' at usb-0000:00:15.0-6, CDC Ethernet Device, 00:15:ff:15:76:07
+[19948.811629] hid-generic 0003:1410:9030.0016: hiddev0,hidraw0: USB HID v1.01 Device [Novatel Wireless MiFi USB730L] on usb-0000:00:15.0-6/input2
+[19948.839746] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   15G   14G  53% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G  316M   56G   1% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff157607:
+100.94.36.123/29
+
+
+
+
+enp2s0:
+10.10.1.2/24
+
+
+PING 192.168.10.2 (192.168.10.2) 56(84) bytes of data.
+
+--- 192.168.10.2 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2052ms
+
+
+
+PING 192.168.10.11 (192.168.10.11) 56(84) bytes of data.
+
+--- 192.168.10.11 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2054ms
+
+
+
+PING 192.168.10.12 (192.168.10.12) 56(84) bytes of data.
+
+--- 192.168.10.12 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2054ms
+
+
+
+PING 192.168.10.13 (192.168.10.13) 56(84) bytes of data.
+
+--- 192.168.10.13 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2054ms
+
+
+
+PING github.com (140.82.113.4) 56(84) bytes of data.
+64 bytes from lb-140-82-113-4-iad.github.com (140.82.113.4): icmp_seq=1 ttl=49 time=29.5 ms
+64 bytes from lb-140-82-113-4-iad.github.com (140.82.113.4): icmp_seq=2 ttl=49 time=37.6 ms
+64 bytes from lb-140-82-113-4-iad.github.com (140.82.113.4): icmp_seq=3 ttl=49 time=57.2 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 29.503/41.476/57.246/11.639 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=112 time=43.7 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=112 time=37.9 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=112 time=36.5 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 36.576/39.399/43.712/3.097 ms
