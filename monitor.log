@@ -59807,3 +59807,148 @@ ping: github.com: Name or service not known
 
 
 connect: Network is unreachable
+
+############################ annie - 06/11/21 00:00:01 EST ############################
+
+ 00:00:01 up 23:44,  0 users,  load average: 0.06, 0.14, 0.11
+
+
+reboot   system boot  5.3.0-53-generic Thu Jun 10 00:16   still running
+reboot   system boot  5.3.0-53-generic Wed Jun  9 00:16 - 00:10  (23:54)
+reboot   system boot  5.3.0-53-generic Tue Jun  8 00:16 - 00:10  (23:53)
+reboot   system boot  5.3.0-53-generic Mon Jun  7 00:16 - 00:10  (23:54)
+reboot   system boot  5.3.0-53-generic Sun Jun  6 00:16 - 00:10  (23:54)
+
+
+
+
+Bus 001 Device 017: ID 1410:9030 Novatel Wireless 
+
+
+[    6.220522] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 1209.354790] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 1210.229450] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 2762.622549] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 2763.454067] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 2776.912366] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 2777.706433] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 3910.161199] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 3911.021765] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 3923.838523] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 3924.703782] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 5168.721822] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 5169.567813] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 7322.990204] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 7323.830495] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 7332.893590] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 7333.664171] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[ 9583.053565] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[ 9583.898071] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[11101.982731] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[11102.812359] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[12365.547168] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[12366.372546] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[12374.940745] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[12375.708366] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[13598.462563] cdc_ether 1-6:1.0 enx0015ff157607: unregister 'cdc_ether' usb-0000:00:15.0-6, CDC Ethernet Device
+[13599.281232] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+
+
+[13599.235587] usb 1-6: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[13599.235591] usb 1-6: Product: MiFi USB730L
+[13599.235594] usb 1-6: Manufacturer: Novatel Wireless
+[13599.235597] usb 1-6: SerialNumber: 0123456789ABCDEF
+[13599.255773] cdc_ether 1-6:1.0 eth0: register 'cdc_ether' at usb-0000:00:15.0-6, CDC Ethernet Device, 00:15:ff:15:76:07
+[13599.260815] hid-generic 0003:1410:9030.000E: hiddev0,hidraw0: USB HID v1.01 Device [Novatel Wireless MiFi USB730L] on usb-0000:00:15.0-6/input2
+[13599.281232] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+[40971.751022] perf: interrupt took too long (2539 > 2500), lowering kernel.perf_event_max_sample_rate to 78750
+[54410.600688] perf: interrupt took too long (3210 > 3173), lowering kernel.perf_event_max_sample_rate to 62250
+[74917.568140] perf: interrupt took too long (4022 > 4012), lowering kernel.perf_event_max_sample_rate to 49500
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   15G   14G  53% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G  444M   56G   1% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff157607:
+
+
+
+
+enp2s0:
+10.10.1.2/24
+
+
+connect: Network is unreachable
+
+
+connect: Network is unreachable
+
+
+connect: Network is unreachable
+
+
+connect: Network is unreachable
+
+
+ping: github.com: Name or service not known
+
+
+connect: Network is unreachable
+
+############################ annie - 06/11/21 00:21:10 EST ############################
+
+ 00:21:10 up 5 min,  0 users,  load average: 0.05, 0.37, 0.23
+
+
+reboot   system boot  5.3.0-53-generic Fri Jun 11 00:16   still running
+reboot   system boot  5.3.0-53-generic Thu Jun 10 00:16 - 00:10  (23:54)
+reboot   system boot  5.3.0-53-generic Wed Jun  9 00:16 - 00:10  (23:54)
+reboot   system boot  5.3.0-53-generic Tue Jun  8 00:16 - 00:10  (23:53)
+reboot   system boot  5.3.0-53-generic Mon Jun  7 00:16 - 00:10  (23:54)
+
+
+
+
+Bus 001 Device 004: ID 1410:9030 Novatel Wireless 
+
+
+[    6.260084] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+
+
+[    8.699817] audit: type=1400 audit(1623388568.531:11): apparmor="STATUS" operation="profile_load" profile="unconfined" name="libreoffice-senddoc" pid=794 comm="apparmor_parser"
+[   10.646904] igb 0000:02:00.0 enp2s0: igb: enp2s0 NIC Link is Up 100 Mbps Full Duplex, Flow Control: RX/TX
+[   10.647151] IPv6: ADDRCONF(NETDEV_CHANGE): enp2s0: link becomes ready
+[   10.984131] Bluetooth: BNEP (Ethernet Emulation) ver 1.3
+[   10.984133] Bluetooth: BNEP filters: protocol multicast
+[   10.984140] Bluetooth: BNEP socket layer initialized
+[   12.068401] openvswitch: Open vSwitch switching datapath
+[   17.736754] device ovs-system entered promiscuous mode
+[   17.766165] device evioCIBR2 entered promiscuous mode
+[   17.834345] device appbrCIBR2 entered promiscuous mode
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   15G   14G  53% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G  449M   56G   1% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff157607:
+100.108.186.6/30
+
+
+
+
+enp2s0:
+10.10.1.2/24
+
+
