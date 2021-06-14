@@ -16754,3 +16754,56 @@
 2021-06-13 19:51:57 64 bytes from 8.8.8.8: icmp_seq=15 ttl=53 time=170 ms
 2021-06-13 19:56:57 64 bytes from 8.8.8.8: icmp_seq=16 ttl=53 time=100 ms
 2021-06-13 20:01:57 64 bytes from 8.8.8.8: icmp_seq=17 ttl=112 time=36.5 ms
+2021-06-13 20:06:57 64 bytes from 8.8.8.8: icmp_seq=18 ttl=112 time=42.3 ms
+2021-06-13 20:11:57 64 bytes from 8.8.8.8: icmp_seq=19 ttl=112 time=43.5 ms
+2021-06-13 20:16:57 64 bytes from 8.8.8.8: icmp_seq=20 ttl=53 time=44.6 ms
+2021-06-13 20:21:57 64 bytes from 8.8.8.8: icmp_seq=21 ttl=53 time=41.2 ms
+2021-06-13 20:26:57 64 bytes from 8.8.8.8: icmp_seq=22 ttl=53 time=36.5 ms
+2021-06-13 20:31:57 64 bytes from 8.8.8.8: icmp_seq=23 ttl=53 time=37.8 ms
+2021-06-13 20:36:57 64 bytes from 8.8.8.8: icmp_seq=24 ttl=53 time=35.2 ms
+2021-06-13 20:41:58 64 bytes from 8.8.8.8: icmp_seq=25 ttl=53 time=37.5 ms
+2021-06-13 20:46:58 64 bytes from 8.8.8.8: icmp_seq=26 ttl=53 time=43.2 ms
+2021-06-13 20:51:58 64 bytes from 8.8.8.8: icmp_seq=27 ttl=53 time=43.2 ms
+2021-06-13 20:56:58 64 bytes from 8.8.8.8: icmp_seq=28 ttl=53 time=43.0 ms
+2021-06-13 21:01:58 64 bytes from 8.8.8.8: icmp_seq=29 ttl=53 time=34.1 ms
+2021-06-13 21:06:58 64 bytes from 8.8.8.8: icmp_seq=30 ttl=53 time=43.0 ms
+2021-06-13 21:11:58 64 bytes from 8.8.8.8: icmp_seq=31 ttl=53 time=34.1 ms
+2021-06-13 21:16:58 64 bytes from 8.8.8.8: icmp_seq=32 ttl=53 time=34.2 ms
+2021-06-13 21:21:58 64 bytes from 8.8.8.8: icmp_seq=33 ttl=53 time=37.1 ms
+2021-06-13 21:26:58 64 bytes from 8.8.8.8: icmp_seq=34 ttl=53 time=32.8 ms
+2021-06-13 21:31:58 64 bytes from 8.8.8.8: icmp_seq=35 ttl=53 time=45.3 ms
+2021-06-13 21:36:58 64 bytes from 8.8.8.8: icmp_seq=36 ttl=53 time=33.6 ms
+2021-06-13 21:41:58 64 bytes from 8.8.8.8: icmp_seq=37 ttl=53 time=35.5 ms
+2021-06-13 21:46:58 64 bytes from 8.8.8.8: icmp_seq=38 ttl=53 time=29.4 ms
+2021-06-13 21:51:58 64 bytes from 8.8.8.8: icmp_seq=39 ttl=112 time=40.6 ms
+2021-06-13 21:56:58 64 bytes from 8.8.8.8: icmp_seq=40 ttl=112 time=46.5 ms
+2021-06-13 22:01:58 64 bytes from 8.8.8.8: icmp_seq=41 ttl=112 time=37.7 ms
+2021-06-13 22:06:58 64 bytes from 8.8.8.8: icmp_seq=42 ttl=112 time=39.5 ms
+2021-06-13 22:11:59 64 bytes from 8.8.8.8: icmp_seq=43 ttl=112 time=41.1 ms
+2021-06-13 22:16:59 64 bytes from 8.8.8.8: icmp_seq=44 ttl=112 time=39.6 ms
+2021-06-13 22:21:59 64 bytes from 8.8.8.8: icmp_seq=45 ttl=112 time=35.8 ms
+2021-06-13 22:26:59 64 bytes from 8.8.8.8: icmp_seq=46 ttl=53 time=39.2 ms
+2021-06-13 22:31:59 64 bytes from 8.8.8.8: icmp_seq=47 ttl=53 time=46.0 ms
+2021-06-13 22:36:59 64 bytes from 8.8.8.8: icmp_seq=48 ttl=53 time=41.9 ms
+2021-06-13 22:41:59 64 bytes from 8.8.8.8: icmp_seq=49 ttl=53 time=38.7 ms
+2021-06-13 22:46:59 64 bytes from 8.8.8.8: icmp_seq=50 ttl=53 time=36.3 ms
+2021-06-13 22:51:59 64 bytes from 8.8.8.8: icmp_seq=51 ttl=53 time=39.9 ms
+2021-06-13 22:56:59 64 bytes from 8.8.8.8: icmp_seq=52 ttl=53 time=37.4 ms
+2021-06-13 23:01:59 64 bytes from 8.8.8.8: icmp_seq=53 ttl=112 time=39.1 ms
+2021-06-13 23:06:59 64 bytes from 8.8.8.8: icmp_seq=54 ttl=112 time=42.6 ms
+2021-06-13 23:11:59 64 bytes from 8.8.8.8: icmp_seq=55 ttl=112 time=35.1 ms
+2021-06-13 23:16:59 64 bytes from 8.8.8.8: icmp_seq=56 ttl=112 time=46.9 ms
+2021-06-13 23:21:59 64 bytes from 8.8.8.8: icmp_seq=57 ttl=112 time=51.5 ms
+2021-06-13 23:26:59 64 bytes from 8.8.8.8: icmp_seq=58 ttl=53 time=43.4 ms
+2021-06-13 23:31:59 64 bytes from 8.8.8.8: icmp_seq=59 ttl=53 time=36.5 ms
+2021-06-13 23:37:00 64 bytes from 8.8.8.8: icmp_seq=60 ttl=53 time=43.3 ms
+2021-06-13 23:47:00 64 bytes from 8.8.8.8: icmp_seq=62 ttl=112 time=45.4 ms
+2021-06-13 23:52:00 64 bytes from 8.8.8.8: icmp_seq=63 ttl=112 time=43.7 ms
+2021-06-13 23:57:00 64 bytes from 8.8.8.8: icmp_seq=64 ttl=112 time=44.0 ms
+2021-06-14 00:02:00 64 bytes from 8.8.8.8: icmp_seq=65 ttl=112 time=43.2 ms
+2021-06-14 00:07:00 64 bytes from 8.8.8.8: icmp_seq=66 ttl=112 time=34.0 ms
+
+############## annie - 06/14/21 00:21:10 EST -0500 ##############
+
+2021-06-14 00:21:10 PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+2021-06-14 00:21:10 64 bytes from 8.8.8.8: icmp_seq=1 ttl=112 time=38.6 ms
