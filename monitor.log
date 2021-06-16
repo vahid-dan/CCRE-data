@@ -64038,3 +64038,114 @@ enp2s0:
 10.10.1.2/24
 
 
+PING 192.168.10.2 (192.168.10.2) 56(84) bytes of data.
+
+--- 192.168.10.2 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2024ms
+
+
+
+PING 192.168.10.11 (192.168.10.11) 56(84) bytes of data.
+
+--- 192.168.10.11 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2054ms
+
+
+
+PING 192.168.10.12 (192.168.10.12) 56(84) bytes of data.
+
+--- 192.168.10.12 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2054ms
+
+
+
+PING 192.168.10.13 (192.168.10.13) 56(84) bytes of data.
+
+--- 192.168.10.13 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2054ms
+
+
+
+PING github.com (140.82.114.4) 56(84) bytes of data.
+64 bytes from lb-140-82-114-4-iad.github.com (140.82.114.4): icmp_seq=1 ttl=49 time=32.8 ms
+64 bytes from lb-140-82-114-4-iad.github.com (140.82.114.4): icmp_seq=2 ttl=49 time=36.0 ms
+64 bytes from lb-140-82-114-4-iad.github.com (140.82.114.4): icmp_seq=3 ttl=49 time=39.6 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 32.895/36.218/39.691/2.780 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=112 time=28.4 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=112 time=35.1 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=112 time=35.9 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 28.475/33.217/35.981/3.371 ms
+
+############################ annie - 06/16/21 12:56:01 EST ############################
+
+ 12:56:01 up 5 min,  1 user,  load average: 1.23, 1.05, 0.50
+
+
+reboot   system boot  5.3.0-53-generic Wed Jun 16 12:50   still running
+reboot   system boot  5.3.0-53-generic Wed Jun 16 09:04 - 09:10  (00:06)
+reboot   system boot  5.3.0-53-generic Wed Jun 16 00:16 - 09:10  (08:54)
+reboot   system boot  5.3.0-53-generic Tue Jun 15 00:16 - 00:10  (23:54)
+reboot   system boot  5.3.0-53-generic Mon Jun 14 12:51 - 00:10  (11:18)
+
+
+
+
+
+
+
+
+[   18.732250] input: PixArt USB Optical Mouse as /devices/pci0000:00/0000:00:15.0/usb1/1-3/1-3:1.0/0003:0461:4E22.0002/input/input17
+[   18.733547] hid-generic 0003:0461:4E22.0002: input,hidraw1: USB HID v1.11 Mouse [PixArt USB Optical Mouse] on usb-0000:00:15.0-3/input0
+[   23.493086] iTCO_vendor_support: vendor-support=0
+[   23.496318] iTCO_wdt: Intel TCO WatchDog Timer Driver v1.11
+[   23.496449] iTCO_wdt: Found a Apollo Lake SoC TCO device (Version=5, TCOBASE=0x0460)
+[   23.496699] iTCO_wdt: initialized. heartbeat=30 sec (nowayout=0)
+[   86.052647] Bluetooth: RFCOMM TTY layer initialized
+[   86.052658] Bluetooth: RFCOMM socket layer initialized
+[   86.052680] Bluetooth: RFCOMM ver 1.11
+[   88.805127] rfkill: input handler disabled
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   15G   14G  53% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G  674M   55G   2% /data
+
+
+IN-USE  SSID  MODE   CHAN  RATE        SIGNAL  BARS  SECURITY 
+        --    Infra  11    130 Mbit/s  37      ▂▄__  WPA2     
+
+
+
+
+
+
+enp2s0:
+10.10.1.2/24
+
+
+connect: Network is unreachable
+
+
+connect: Network is unreachable
+
+
+connect: Network is unreachable
+
+
+connect: Network is unreachable
+
+
+ping: github.com: Name or service not known
+
+
+connect: Network is unreachable
