@@ -64149,3 +64149,68 @@ ping: github.com: Name or service not known
 
 
 connect: Network is unreachable
+
+############################ annie - 06/16/21 14:20:47 EST ############################
+
+ 14:20:47 up 5 min,  1 user,  load average: 0.34, 0.65, 0.36
+
+
+reboot   system boot  5.3.0-53-generic Wed Jun 16 14:15   still running
+reboot   system boot  5.3.0-53-generic Wed Jun 16 12:50 - 12:58  (00:07)
+reboot   system boot  5.3.0-53-generic Wed Jun 16 09:04 - 09:10  (00:06)
+reboot   system boot  5.3.0-53-generic Wed Jun 16 00:16 - 09:10  (08:54)
+reboot   system boot  5.3.0-53-generic Tue Jun 15 00:16 - 00:10  (23:54)
+
+
+
+
+
+
+
+
+[   22.785085] iTCO_wdt: initialized. heartbeat=30 sec (nowayout=0)
+[   42.060806] Bluetooth: RFCOMM TTY layer initialized
+[   42.060817] Bluetooth: RFCOMM socket layer initialized
+[   42.060828] Bluetooth: RFCOMM ver 1.11
+[   44.750561] rfkill: input handler disabled
+[   47.958571] FAT-fs (sdb2): Volume was not properly unmounted. Some data may be corrupt. Please run fsck.
+[  173.484753] usb 2-6: USB disconnect, device number 2
+[  173.487308] blk_update_request: I/O error, dev sdb, sector 1050625 op 0x1:(WRITE) flags 0x0 phys_seg 1 prio class 0
+[  173.487322] Buffer I/O error on dev sdb2, logical block 1, lost async page write
+[  173.513731] FAT-fs (sdb1): unable to read boot sector to mark fs as dirty
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   15G   13G  53% /
+/dev/sda1        59G  676M   55G   2% /data
+
+
+IN-USE  SSID      MODE   CHAN  RATE        SIGNAL  BARS  SECURITY 
+        --        Infra  11    130 Mbit/s  35      ▂▄__  WPA2     
+        FBI VAN1  Infra  11    130 Mbit/s  29      ▂___  WPA2     
+
+
+
+
+
+
+enp2s0:
+10.10.1.2/24
+
+
+connect: Network is unreachable
+
+
+connect: Network is unreachable
+
+
+connect: Network is unreachable
+
+
+connect: Network is unreachable
+
+
+ping: github.com: Name or service not known
+
+
+connect: Network is unreachable
