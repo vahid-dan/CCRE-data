@@ -63888,3 +63888,101 @@ PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
 --- 8.8.8.8 ping statistics ---
 3 packets transmitted, 3 received, 0% packet loss, time 2003ms
 rtt min/avg/max/mdev = 42.266/46.623/49.327/3.115 ms
+
+############################ annie - 06/16/21 06:00:01 EST ############################
+
+ 06:00:01 up  5:43,  0 users,  load average: 0.05, 0.11, 0.09
+
+
+reboot   system boot  5.3.0-53-generic Wed Jun 16 00:16   still running
+reboot   system boot  5.3.0-53-generic Tue Jun 15 00:16 - 00:10  (23:54)
+reboot   system boot  5.3.0-53-generic Mon Jun 14 12:51 - 00:10  (11:18)
+reboot   system boot  5.3.0-53-generic Mon Jun 14 00:16 - 00:10  (23:54)
+reboot   system boot  5.3.0-53-generic Sun Jun 13 18:36 - 00:10  (05:33)
+
+
+
+
+Bus 001 Device 004: ID 1410:9030 Novatel Wireless 
+
+
+[    6.340820] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+
+
+[    9.187439] audit: type=1400 audit(1623820572.023:11): apparmor="STATUS" operation="profile_load" profile="unconfined" name="libreoffice-senddoc" pid=799 comm="apparmor_parser"
+[   11.243513] igb 0000:02:00.0 enp2s0: igb: enp2s0 NIC Link is Up 100 Mbps Full Duplex, Flow Control: RX/TX
+[   11.243776] IPv6: ADDRCONF(NETDEV_CHANGE): enp2s0: link becomes ready
+[   11.671702] Bluetooth: BNEP (Ethernet Emulation) ver 1.3
+[   11.671704] Bluetooth: BNEP filters: protocol multicast
+[   11.671712] Bluetooth: BNEP socket layer initialized
+[   12.925433] openvswitch: Open vSwitch switching datapath
+[   17.517855] device ovs-system entered promiscuous mode
+[   17.556039] device evioCIBR2 entered promiscuous mode
+[   17.624718] device appbrCIBR2 entered promiscuous mode
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   15G   14G  53% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G  664M   55G   2% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff157607:
+100.106.252.140/29
+
+
+
+
+enp2s0:
+10.10.1.2/24
+
+
+PING 192.168.10.2 (192.168.10.2) 56(84) bytes of data.
+
+--- 192.168.10.2 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2052ms
+
+
+
+PING 192.168.10.11 (192.168.10.11) 56(84) bytes of data.
+
+--- 192.168.10.11 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2054ms
+
+
+
+PING 192.168.10.12 (192.168.10.12) 56(84) bytes of data.
+
+--- 192.168.10.12 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2027ms
+
+
+
+PING 192.168.10.13 (192.168.10.13) 56(84) bytes of data.
+
+--- 192.168.10.13 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2054ms
+
+
+
+PING github.com (140.82.113.4) 56(84) bytes of data.
+64 bytes from lb-140-82-113-4-iad.github.com (140.82.113.4): icmp_seq=1 ttl=49 time=34.9 ms
+64 bytes from lb-140-82-113-4-iad.github.com (140.82.113.4): icmp_seq=2 ttl=49 time=33.7 ms
+64 bytes from lb-140-82-113-4-iad.github.com (140.82.113.4): icmp_seq=3 ttl=49 time=41.8 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 33.708/36.818/41.806/3.562 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=53 time=40.4 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=53 time=28.0 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=53 time=36.4 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+rtt min/avg/max/mdev = 28.052/34.993/40.483/5.182 ms
