@@ -63999,3 +63999,42 @@ reboot   system boot  5.3.0-53-generic Mon Jun 14 12:51 - 00:10  (11:18)
 reboot   system boot  5.3.0-53-generic Mon Jun 14 00:16 - 00:10  (23:54)
 
 
+
+
+Bus 001 Device 004: ID 1410:9030 Novatel Wireless 
+
+
+[    6.356663] cdc_ether 1-6:1.0 enx0015ff157607: renamed from eth0
+
+
+[   85.752400] usb 1-4: New USB device strings: Mfr=1, Product=2, SerialNumber=0
+[   85.752405] usb 1-4: Product: Dell USB Entry Keyboard
+[   85.752410] usb 1-4: Manufacturer: Dell
+[   85.758295] input: Dell Dell USB Entry Keyboard as /devices/pci0000:00/0000:00:15.0/usb1/1-4/1-4:1.0/0003:413C:2107.0003/input/input17
+[   85.817682] hid-generic 0003:413C:2107.0003: input,hidraw2: USB HID v1.10 Keyboard [Dell Dell USB Entry Keyboard] on usb-0000:00:15.0-4/input0
+[  173.146888] systemd-journald[319]: File /var/log/journal/32fe158dcd644a39877d2c491579f944/user-1000.journal corrupted or uncleanly shut down, renaming and replacing.
+[  176.038466] Bluetooth: RFCOMM TTY layer initialized
+[  176.038476] Bluetooth: RFCOMM socket layer initialized
+[  176.038489] Bluetooth: RFCOMM ver 1.11
+[  178.732932] rfkill: input handler disabled
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   15G   14G  53% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G  674M   55G   2% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff157607:
+100.67.255.183/28
+
+
+
+
+enp2s0:
+10.10.1.2/24
+
+
