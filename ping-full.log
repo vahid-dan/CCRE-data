@@ -17756,3 +17756,12 @@
 2021-06-19 19:51:28 64 bytes from 8.8.8.8: icmp_seq=235 ttl=53 time=154 ms
 2021-06-19 19:56:28 64 bytes from 8.8.8.8: icmp_seq=236 ttl=53 time=150 ms
 2021-06-19 20:01:28 64 bytes from 8.8.8.8: icmp_seq=237 ttl=53 time=43.1 ms
+2021-06-19 20:06:28 64 bytes from 8.8.8.8: icmp_seq=238 ttl=53 time=33.9 ms
+2021-06-20 00:09:49 --- 8.8.8.8 ping statistics ---
+2021-06-20 00:09:49 284 packets transmitted, 237 received, 16% packet loss, time 85416930ms
+2021-06-20 00:09:49 rtt min/avg/max/mdev = 29.766/62.634/221.304/43.780 ms
+
+############## annie - 06/20/21 00:21:18 EST -0500 ##############
+
+2021-06-20 00:21:18 PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+2021-06-20 00:21:18 64 bytes from 8.8.8.8: icmp_seq=1 ttl=53 time=48.0 ms
