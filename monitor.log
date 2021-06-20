@@ -65667,3 +65667,147 @@ PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
 --- 8.8.8.8 ping statistics ---
 3 packets transmitted, 3 received, 0% packet loss, time 2003ms
 rtt min/avg/max/mdev = 37.778/41.048/43.007/2.327 ms
+
+############################ annie - 06/20/21 06:00:02 EST ############################
+
+ 06:00:02 up  5:43,  0 users,  load average: 0.00, 0.05, 0.05
+
+
+reboot   system boot  5.3.0-53-generic Sun Jun 20 00:16   still running
+reboot   system boot  5.3.0-53-generic Sat Jun 19 00:16 - 00:10  (23:54)
+reboot   system boot  5.3.0-53-generic Fri Jun 18 08:30 - 00:10  (15:39)
+reboot   system boot  5.3.0-53-generic Wed Jun 16 14:15 - 00:10 (2+09:54)
+reboot   system boot  5.3.0-53-generic Wed Jun 16 12:50 - 12:58  (00:07)
+
+
+
+
+Bus 001 Device 027: ID 1410:9030 Novatel Wireless 
+
+
+[    7.232173] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+[  372.944997] rndis_host 1-6:1.0 enx0015ff025968: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[  373.846446] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+[  403.664527] rndis_host 1-6:1.0 enx0015ff025968: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[  404.511213] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+[ 1537.687119] rndis_host 1-6:1.0 enx0015ff025968: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 1538.583207] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+[ 2609.084497] rndis_host 1-6:1.0 enx0015ff025968: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 2609.974613] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+[ 3908.918351] rndis_host 1-6:1.0 enx0015ff025968: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 3909.827402] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+[ 4978.954511] rndis_host 1-6:1.0 enx0015ff025968: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 4979.834426] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+[ 6060.520775] rndis_host 1-6:1.0 enx0015ff025968: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 6061.413367] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+[ 7144.894439] rndis_host 1-6:1.0 enx0015ff025968: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 7145.784808] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+[ 8220.721609] rndis_host 1-6:1.0 enx0015ff025968: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 8221.622405] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+[ 8231.991344] rndis_host 1-6:1.0 enx0015ff025968: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 8232.755502] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+[ 9538.989680] rndis_host 1-6:1.0 enx0015ff025968: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[ 9539.902690] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+[10619.864830] rndis_host 1-6:1.0 enx0015ff025968: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[10620.763607] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+[10636.715368] rndis_host 1-6:1.0 enx0015ff025968: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[10637.501551] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+[11699.496430] rndis_host 1-6:1.0 enx0015ff025968: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[11700.377840] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+[11714.843521] rndis_host 1-6:1.0 enx0015ff025968: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[11715.665401] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+[12780.920155] rndis_host 1-6:1.0 enx0015ff025968: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[12781.806172] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+[13859.675345] rndis_host 1-6:1.0 enx0015ff025968: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[13860.570860] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+[14941.397632] rndis_host 1-6:1.0 enx0015ff025968: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[14942.299767] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+[16018.381216] rndis_host 1-6:1.0 enx0015ff025968: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[16019.266914] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+[17284.143016] rndis_host 1-6:1.0 enx0015ff025968: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[17285.032114] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+[18544.397844] rndis_host 1-6:1.0 enx0015ff025968: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[18545.305660] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+[19619.518358] rndis_host 1-6:1.0 enx0015ff025968: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[19620.412542] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+[19634.049035] rndis_host 1-6:1.0 enx0015ff025968: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[19634.835771] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+
+
+[19634.049035] rndis_host 1-6:1.0 enx0015ff025968: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[19634.744367] usb 1-6: new high-speed USB device number 27 using xhci_hcd
+[19634.772876] usb 1-6: New USB device found, idVendor=1410, idProduct=9030, bcdDevice= 3.10
+[19634.772883] usb 1-6: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[19634.772887] usb 1-6: Product: MiFi USB730L
+[19634.772891] usb 1-6: Manufacturer: Novatel Wireless
+[19634.772894] usb 1-6: SerialNumber: 0123456789ABCDEF
+[19634.793839] rndis_host 1-6:1.0 eth0: register 'rndis_host' at usb-0000:00:15.0-6, RNDIS device, 00:15:ff:02:59:68
+[19634.808061] hid-generic 0003:1410:9030.0018: hiddev0,hidraw0: USB HID v1.01 Device [Novatel Wireless MiFi USB730L] on usb-0000:00:15.0-6/input2
+[19634.835771] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   15G   13G  53% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G  763M   55G   2% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff025968:
+100.68.95.54/30
+
+
+
+
+enp2s0:
+10.10.1.2/24
+
+
+PING 192.168.10.2 (192.168.10.2) 56(84) bytes of data.
+
+--- 192.168.10.2 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2051ms
+
+
+
+PING 192.168.10.11 (192.168.10.11) 56(84) bytes of data.
+
+--- 192.168.10.11 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2054ms
+
+
+
+PING 192.168.10.12 (192.168.10.12) 56(84) bytes of data.
+
+--- 192.168.10.12 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2054ms
+
+
+
+PING 192.168.10.13 (192.168.10.13) 56(84) bytes of data.
+
+--- 192.168.10.13 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2054ms
+
+
+
+PING github.com (140.82.113.3) 56(84) bytes of data.
+64 bytes from lb-140-82-113-3-iad.github.com (140.82.113.3): icmp_seq=1 ttl=49 time=27.0 ms
+64 bytes from lb-140-82-113-3-iad.github.com (140.82.113.3): icmp_seq=2 ttl=49 time=36.4 ms
+64 bytes from lb-140-82-113-3-iad.github.com (140.82.113.3): icmp_seq=3 ttl=49 time=33.2 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 27.089/32.271/36.452/3.890 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=112 time=43.6 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=112 time=45.2 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=112 time=38.2 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 38.255/42.382/45.264/2.998 ms
