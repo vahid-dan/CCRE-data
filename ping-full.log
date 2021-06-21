@@ -17965,3 +17965,8 @@
 2021-06-20 17:06:31 64 bytes from 8.8.8.8: icmp_seq=202 ttl=53 time=146 ms
 2021-06-20 17:11:31 64 bytes from 8.8.8.8: icmp_seq=203 ttl=53 time=39.9 ms
 2021-06-20 17:16:31 64 bytes from 8.8.8.8: icmp_seq=204 ttl=53 time=38.9 ms
+
+############## annie - 06/21/21 00:21:17 EST -0500 ##############
+
+2021-06-21 00:21:17 PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+2021-06-21 00:21:17 64 bytes from 8.8.8.8: icmp_seq=1 ttl=112 time=46.6 ms
