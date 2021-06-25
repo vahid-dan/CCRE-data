@@ -69679,3 +69679,92 @@ reboot   system boot  5.3.0-53-generic Tue Jun 22 00:16 - 00:10  (23:53)
 reboot   system boot  5.3.0-53-generic Mon Jun 21 00:16 - 00:10  (23:54)
 
 
+
+
+Bus 001 Device 006: ID 1410:9030 Novatel Wireless 
+
+
+[    6.444636] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+[   60.129948] rndis_host 1-6:1.0 enx0015ff025968: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[   60.961028] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+[   73.996484] rndis_host 1-6:1.0 enx0015ff025968: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[   74.779482] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+
+
+[   73.996484] rndis_host 1-6:1.0 enx0015ff025968: unregister 'rndis_host' usb-0000:00:15.0-6, RNDIS device
+[   74.691460] usb 1-6: new high-speed USB device number 6 using xhci_hcd
+[   74.719543] usb 1-6: New USB device found, idVendor=1410, idProduct=9030, bcdDevice= 3.10
+[   74.719550] usb 1-6: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[   74.719555] usb 1-6: Product: MiFi USB730L
+[   74.719559] usb 1-6: Manufacturer: Novatel Wireless
+[   74.719563] usb 1-6: SerialNumber: 0123456789ABCDEF
+[   74.749641] rndis_host 1-6:1.0 eth0: register 'rndis_host' at usb-0000:00:15.0-6, RNDIS device, 00:15:ff:02:59:68
+[   74.759540] hid-generic 0003:1410:9030.0003: hiddev0,hidraw0: USB HID v1.01 Device [Novatel Wireless MiFi USB730L] on usb-0000:00:15.0-6/input2
+[   74.779482] rndis_host 1-6:1.0 enx0015ff025968: renamed from eth0
+
+
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2   29G   15G   14G  53% /
+/dev/mmcblk0p1  511M  6.1M  505M   2% /boot/efi
+/dev/sda1        59G  969M   55G   2% /data
+
+
+IN-USE  SSID  MODE  CHAN  RATE  SIGNAL  BARS  SECURITY 
+
+
+enx0015ff025968:
+100.107.3.249/30
+
+
+
+
+enp2s0:
+10.10.1.2/24
+
+
+PING 192.168.10.2 (192.168.10.2) 56(84) bytes of data.
+
+--- 192.168.10.2 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2056ms
+
+
+
+PING 192.168.10.11 (192.168.10.11) 56(84) bytes of data.
+
+--- 192.168.10.11 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2054ms
+
+
+
+PING 192.168.10.12 (192.168.10.12) 56(84) bytes of data.
+
+--- 192.168.10.12 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2055ms
+
+
+
+PING 192.168.10.13 (192.168.10.13) 56(84) bytes of data.
+
+--- 192.168.10.13 ping statistics ---
+3 packets transmitted, 0 received, 100% packet loss, time 2054ms
+
+
+
+PING github.com (140.82.112.4) 56(84) bytes of data.
+64 bytes from lb-140-82-112-4-iad.github.com (140.82.112.4): icmp_seq=1 ttl=47 time=27.2 ms
+64 bytes from lb-140-82-112-4-iad.github.com (140.82.112.4): icmp_seq=2 ttl=47 time=45.4 ms
+64 bytes from lb-140-82-112-4-iad.github.com (140.82.112.4): icmp_seq=3 ttl=47 time=33.7 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 27.201/35.465/45.438/7.542 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=112 time=41.9 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=112 time=40.7 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=112 time=37.9 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 37.923/40.198/41.946/1.700 ms
