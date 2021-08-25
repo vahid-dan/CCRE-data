@@ -35364,3 +35364,57 @@
 2021-08-24 19:47:16 64 bytes from 8.8.8.8: icmp_seq=234 ttl=54 time=54.6 ms
 2021-08-24 19:52:16 64 bytes from 8.8.8.8: icmp_seq=235 ttl=54 time=57.9 ms
 2021-08-24 20:02:19 64 bytes from 8.8.8.8: icmp_seq=237 ttl=54 time=47.4 ms
+2021-08-24 20:07:19 64 bytes from 8.8.8.8: icmp_seq=238 ttl=54 time=35.1 ms
+2021-08-24 20:12:19 64 bytes from 8.8.8.8: icmp_seq=239 ttl=54 time=52.4 ms
+2021-08-24 20:17:19 64 bytes from 8.8.8.8: icmp_seq=240 ttl=54 time=34.0 ms
+2021-08-24 20:22:19 64 bytes from 8.8.8.8: icmp_seq=241 ttl=54 time=58.0 ms
+2021-08-24 20:27:19 64 bytes from 8.8.8.8: icmp_seq=242 ttl=54 time=33.7 ms
+2021-08-24 20:32:19 64 bytes from 8.8.8.8: icmp_seq=243 ttl=54 time=49.2 ms
+2021-08-24 20:42:27 64 bytes from 8.8.8.8: icmp_seq=245 ttl=54 time=58.9 ms
+2021-08-24 20:47:27 64 bytes from 8.8.8.8: icmp_seq=246 ttl=54 time=42.1 ms
+2021-08-24 20:52:28 64 bytes from 8.8.8.8: icmp_seq=247 ttl=54 time=48.5 ms
+2021-08-24 20:57:28 64 bytes from 8.8.8.8: icmp_seq=248 ttl=54 time=69.2 ms
+2021-08-24 21:02:28 64 bytes from 8.8.8.8: icmp_seq=249 ttl=54 time=47.2 ms
+2021-08-24 21:07:28 64 bytes from 8.8.8.8: icmp_seq=250 ttl=54 time=51.3 ms
+2021-08-24 21:12:28 64 bytes from 8.8.8.8: icmp_seq=251 ttl=54 time=44.3 ms
+2021-08-24 21:17:28 64 bytes from 8.8.8.8: icmp_seq=252 ttl=54 time=34.1 ms
+2021-08-24 21:22:28 64 bytes from 8.8.8.8: icmp_seq=253 ttl=54 time=58.4 ms
+2021-08-24 21:27:28 64 bytes from 8.8.8.8: icmp_seq=254 ttl=54 time=44.0 ms
+2021-08-24 21:32:28 64 bytes from 8.8.8.8: icmp_seq=255 ttl=54 time=35.8 ms
+2021-08-24 21:37:28 64 bytes from 8.8.8.8: icmp_seq=256 ttl=54 time=58.3 ms
+2021-08-24 21:42:28 64 bytes from 8.8.8.8: icmp_seq=257 ttl=54 time=44.6 ms
+2021-08-24 21:47:28 64 bytes from 8.8.8.8: icmp_seq=258 ttl=54 time=47.0 ms
+2021-08-24 21:52:28 64 bytes from 8.8.8.8: icmp_seq=259 ttl=54 time=50.7 ms
+2021-08-24 21:57:28 64 bytes from 8.8.8.8: icmp_seq=260 ttl=54 time=33.4 ms
+2021-08-24 22:02:28 64 bytes from 8.8.8.8: icmp_seq=261 ttl=54 time=47.2 ms
+2021-08-24 22:07:29 64 bytes from 8.8.8.8: icmp_seq=262 ttl=54 time=161 ms
+2021-08-24 22:12:29 64 bytes from 8.8.8.8: icmp_seq=263 ttl=54 time=153 ms
+2021-08-24 22:17:29 64 bytes from 8.8.8.8: icmp_seq=264 ttl=54 time=50.2 ms
+2021-08-24 22:22:29 64 bytes from 8.8.8.8: icmp_seq=265 ttl=54 time=155 ms
+2021-08-24 22:27:29 64 bytes from 8.8.8.8: icmp_seq=266 ttl=54 time=40.9 ms
+2021-08-24 22:32:29 64 bytes from 8.8.8.8: icmp_seq=267 ttl=54 time=154 ms
+2021-08-24 22:37:29 64 bytes from 8.8.8.8: icmp_seq=268 ttl=54 time=44.8 ms
+2021-08-24 22:42:29 64 bytes from 8.8.8.8: icmp_seq=269 ttl=54 time=47.4 ms
+2021-08-24 22:47:29 64 bytes from 8.8.8.8: icmp_seq=270 ttl=54 time=44.4 ms
+2021-08-24 22:52:29 64 bytes from 8.8.8.8: icmp_seq=271 ttl=54 time=41.0 ms
+2021-08-24 22:57:29 64 bytes from 8.8.8.8: icmp_seq=272 ttl=54 time=35.2 ms
+2021-08-24 23:02:29 64 bytes from 8.8.8.8: icmp_seq=273 ttl=54 time=149 ms
+2021-08-24 23:07:30 64 bytes from 8.8.8.8: icmp_seq=274 ttl=54 time=167 ms
+2021-08-24 23:12:30 64 bytes from 8.8.8.8: icmp_seq=275 ttl=54 time=184 ms
+2021-08-24 23:17:30 64 bytes from 8.8.8.8: icmp_seq=276 ttl=54 time=78.0 ms
+2021-08-24 23:22:30 64 bytes from 8.8.8.8: icmp_seq=277 ttl=54 time=183 ms
+2021-08-24 23:27:30 64 bytes from 8.8.8.8: icmp_seq=278 ttl=54 time=54.3 ms
+2021-08-24 23:32:30 64 bytes from 8.8.8.8: icmp_seq=279 ttl=54 time=65.2 ms
+2021-08-24 23:37:30 64 bytes from 8.8.8.8: icmp_seq=280 ttl=54 time=55.4 ms
+2021-08-24 23:42:30 64 bytes from 8.8.8.8: icmp_seq=281 ttl=54 time=166 ms
+2021-08-24 23:47:30 64 bytes from 8.8.8.8: icmp_seq=282 ttl=54 time=61.8 ms
+2021-08-24 23:52:30 64 bytes from 8.8.8.8: icmp_seq=283 ttl=54 time=170 ms
+2021-08-24 23:57:30 64 bytes from 8.8.8.8: icmp_seq=284 ttl=54 time=56.6 ms
+2021-08-25 00:02:30 --- 8.8.8.8 ping statistics ---
+2021-08-25 00:02:30 284 packets transmitted, 279 received, 1% packet loss, time 84945098ms
+2021-08-25 00:02:30 rtt min/avg/max/mdev = 31.248/54.000/261.971/30.230 ms
+
+############## annie - 08/25/21 00:21:47 EST -0500 ##############
+
+2021-08-25 00:21:47 PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+2021-08-25 00:21:47 64 bytes from 8.8.8.8: icmp_seq=1 ttl=54 time=62.5 ms
