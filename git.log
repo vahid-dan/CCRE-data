@@ -30871,3 +30871,30 @@ Already up to date.
  2 files changed, 24 insertions(+)
 To github.com:FLARE-forecast/CCRE-data.git
    b47d9c0..a5fdbf6  annie-logs -> annie-logs
+[annie-logs 7aeddaf] 11/08/21 15:48:10 EST: Logs
+ 1 file changed, 4 insertions(+)
+To github.com:FLARE-forecast/CCRE-data.git
+   a5fdbf6..7aeddaf  annie-logs -> annie-logs
+
+############################ annie - 11/08/21 15:53:51 EST ############################
+
+Data:
+
+[ccre-dam-data e040b9f] 11/08/21 15:53:51 EST: Git Backup
+ 1 file changed, 2 insertions(+)
+From github.com:FLARE-forecast/CCRE-data
+   39a6f9d..ebcb376  ccre-dam-data -> origin/ccre-dam-data
+Auto-merging test.txt
+CONFLICT (content): Merge conflict in test.txt
+Automatic merge failed; fix conflicts and then commit the result.
+To github.com:FLARE-forecast/CCRE-data.git
+ ! [rejected]        ccre-dam-data -> ccre-dam-data (non-fast-forward)
+error: failed to push some refs to 'git@github.com:FLARE-forecast/CCRE-data.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+Logs:
+
+Already up to date.
