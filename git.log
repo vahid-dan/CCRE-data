@@ -31099,3 +31099,33 @@ Already up to date.
  4 files changed, 483 insertions(+)
 To github.com:FLARE-forecast/CCRE-data.git
    c3c4f24..e45f4d6  annie-logs -> annie-logs
+[annie-logs 614f6f3] 11/10/21 08:05:01 EST: Logs
+ 1 file changed, 4 insertions(+)
+To github.com:FLARE-forecast/CCRE-data.git
+   e45f4d6..614f6f3  annie-logs -> annie-logs
+
+############################ annie - 11/10/21 14:05:01 EST ############################
+
+Data:
+
+[ccre-dam-data e7ba6d8] 11/10/21 14:05:01 EST: Git Backup
+ 2 files changed, 396 insertions(+)
+From github.com:FLARE-forecast/CCRE-data
+   ae58a97..066262a  ccre-dam-data -> origin/ccre-dam-data
+Removing test2
+Removing test.txt
+Removing .test.txt.swp
+Merge made by the 'recursive' strategy.
+ .test.txt.swp | Bin 12288 -> 0 bytes
+ test.txt      |  55 -------------------------------------------------------
+ test2         |   0
+ 3 files changed, 55 deletions(-)
+ delete mode 100644 .test.txt.swp
+ delete mode 100644 test.txt
+ delete mode 100644 test2
+To github.com:FLARE-forecast/CCRE-data.git
+   066262a..2118e2f  ccre-dam-data -> ccre-dam-data
+
+Logs:
+
+Already up to date.
