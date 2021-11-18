@@ -32160,3 +32160,29 @@ Logs:
 Already up to date.
 To github.com:FLARE-forecast/CCRE-data.git
    a9b9a4a..ec540bd  annie-logs -> annie-logs
+[annie-logs 8403bd5] 11/18/21 14:05:01 EST: Logs
+ 1 file changed, 5 insertions(+)
+Already up to date.
+To github.com:FLARE-forecast/CCRE-data.git
+   ec540bd..8403bd5  annie-logs -> annie-logs
+
+############################ annie - 11/18/21 14:26:42 EST ############################
+
+Data:
+
+On branch ccre-dam-data
+Your branch is up to date with 'origin/ccre-dam-data'.
+
+nothing to commit, working tree clean
+From github.com:FLARE-forecast/CCRE-data
+   88b1fef..2a6309d  ccre-dam-data -> origin/ccre-dam-data
+Updating 88b1fef..2a6309d
+Fast-forward
+ Add_EXO_to_Gateway.R  |    25 +
+ ccre-waterquality.csv | 27752 ++++++++++++++++++++++++------------------------
+ 2 files changed, 13901 insertions(+), 13876 deletions(-)
+ create mode 100644 Add_EXO_to_Gateway.R
+Everything up-to-date
+
+Logs:
+
