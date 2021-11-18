@@ -1,4 +1,5 @@
-#Combin the manual EXO data into the streamed file and push to Annie
+#Combine the manual EXO data into the streamed file and push to Annie
+#by ABP 18 NOV 21
 
 pacman::p_load("tidyverse", "lubridate","rqdatatable")
 
@@ -17,9 +18,14 @@ EXO=EXO%>%
 CCR<- natural_join(ccrwaterdata, EXO, 
                           by = "TIMESTAMP",
                           jointype = "LEFT")
+
+#name of the columns to get in the right order
 wQnames=colnames(ccrwaterdata)
-#rearrange 
+
+#rearrange the column headers based on the original file since they get jumbled during the join 
 CCR=CCR%>%
   select(wQnames)
+
+#Always remember to go and change the NAN to "NAN". I do this is notepad
 
 write.csv(CCR, "ccre-waterquality.csv",na="NAN", row.names = FALSE)
