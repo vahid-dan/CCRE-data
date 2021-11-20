@@ -4,7 +4,7 @@
 pacman::p_load("tidyverse", "lubridate","rqdatatable")
 
 #Get up to date collated EXO file
-download.file("https://raw.githubusercontent.com/CareyLabVT/ManualDownloadsSCCData/master/CCR_manual_downloads/CCR_1_5_EXO_downloads/Collated_CCR_1_5_EXO_.csv","CCR_EXO.csv")
+download.file("https://raw.githubusercontent.com/CareyLabVT/ManualDownloadsSCCData/master/CCR_manual_downloads/CCR_1_5_EXO_downloads/Collated_CCR_1_5_EXO.csv","CCR_EXO.csv")
 
 ccrwaterdata <- read_csv("ccre-waterquality.csv", col_names = T, 
                           col_types = cols(.default = col_double(), TIMESTAMP = col_character()), show_col_types = T)
