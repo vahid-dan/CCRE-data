@@ -1,5 +1,4 @@
 DataStream, TIMESTAMP_start, TIMESTAMP_end, parameter, colnumber, flag, notes
-CCRW, 2021-07-02 12:30:00 EST, 2021-07-02 15:30:00 EST, All_CCRW, c(1:53), 1, sensor string up for cleaning and maintenance
 CCRW, 2021-03-29 15:20:00 EST, 2021-05-11 15:50:00 EST, wtr*, c(5:17), 1, temp string deployed at test depth
 CCRW, 2021-03-29 15:20:00 EST, 2021-05-11 15:50:00 EST, Lvl*, c(52:53), 1, pressure sensor deployed with temp string at test depth
 CCRW, 2021-04-11 13:30:00 EST, 2021-04-11 15:30:00 EST, EXO_9*, c(39:51), 1, 9m EXO was out of place
