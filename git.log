@@ -38546,3 +38546,27 @@ Logs:
 Already up to date.
 To github.com:FLARE-forecast/CCRE-data.git
    e328f5f..afe12d9  annie-logs -> annie-logs
+[annie-logs a0faacb] 01/11/22 20:05:01 EST: Logs
+ 1 file changed, 5 insertions(+)
+Already up to date.
+To github.com:FLARE-forecast/CCRE-data.git
+   afe12d9..a0faacb  annie-logs -> annie-logs
+
+############################ annie - 01/12/22 00:23:04 EST ############################
+
+Data:
+
+[ccre-dam-data e624874] 01/12/22 00:23:04 EST: Git Backup
+ 2 files changed, 264 insertions(+)
+From github.com:FLARE-forecast/CCRE-data
+   400ee2a..71f8b0f  ccre-dam-data -> origin/ccre-dam-data
+Auto-merging ccre-waterquality.csv
+Merge made by the 'recursive' strategy.
+ CCRW_maintenance_log.txt |    5 +-
+ ccre-waterquality.csv    | 8082 +++++++++++++++++++++++-----------------------
+ 2 files changed, 4045 insertions(+), 4042 deletions(-)
+To github.com:FLARE-forecast/CCRE-data.git
+   71f8b0f..f4d28fd  ccre-dam-data -> ccre-dam-data
+
+Logs:
+
