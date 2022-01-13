@@ -38650,3 +38650,28 @@ Logs:
 Already up to date.
 To github.com:FLARE-forecast/CCRE-data.git
    740bc83..036151c  annie-logs -> annie-logs
+[annie-logs 4aed9dc] 01/12/22 14:05:01 EST: Logs
+ 1 file changed, 5 insertions(+)
+Already up to date.
+To github.com:FLARE-forecast/CCRE-data.git
+   036151c..4aed9dc  annie-logs -> annie-logs
+
+############################ annie - 01/12/22 20:05:01 EST ############################
+
+Data:
+
+[ccre-dam-data 229f143] 01/12/22 20:05:01 EST: Git Backup
+ 2 files changed, 396 insertions(+)
+From github.com:FLARE-forecast/CCRE-data
+   695b2b5..9319ba8  ccre-dam-data -> origin/ccre-dam-data
+Merge made by the 'recursive' strategy.
+ CCRW_maintenance_log.txt | 4 ++++
+ 1 file changed, 4 insertions(+)
+remote: warning: See http://git.io/iEPt8g for more information.        
+remote: warning: File ccre-met.csv is 50.10 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To github.com:FLARE-forecast/CCRE-data.git
+   9319ba8..98e9261  ccre-dam-data -> ccre-dam-data
+
+Logs:
+
