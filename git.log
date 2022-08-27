@@ -68687,3 +68687,24 @@ remote: warning: File autossh.log is 51.82 MB; this is larger than GitHub's reco
 remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
 To github.com:FLARE-forecast/CCRE-data.git
    1ecae165..922f7124  annie-logs -> annie-logs
+[annie-logs d0ff4183] 08/27/22 00:25:19 EST: Logs
+ 2 files changed, 50 insertions(+)
+Already up to date.
+To github.com:FLARE-forecast/CCRE-data.git
+   922f7124..d0ff4183  annie-logs -> annie-logs
+
+############################ annie - 08/27/22 02:05:01 EST ############################
+
+Data:
+
+[ccre-dam-data 8278ccc] 08/27/22 02:05:01 EST: Git Backup
+ 2 files changed, 132 insertions(+)
+Already up to date.
+ssh_dispatch_run_fatal: Connection to 140.82.114.3 port 22: Connection timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+Logs:
+
