@@ -68708,3 +68708,11 @@ and the repository exists.
 
 Logs:
 
+[annie-logs c8b64538] 08/27/22 02:05:01 EST: Logs
+ 4 files changed, 354 insertions(+)
+Already up to date.
+remote: warning: See http://git.io/iEPt8g for more information.        
+remote: warning: File autossh.log is 51.83 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To github.com:FLARE-forecast/CCRE-data.git
+   d0ff4183..c8b64538  annie-logs -> annie-logs
