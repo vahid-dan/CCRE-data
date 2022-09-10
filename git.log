@@ -70779,3 +70779,24 @@ remote: warning: File autossh.log is 52.92 MB; this is larger than GitHub's reco
 remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
 To github.com:FLARE-forecast/CCRE-data.git
    c59b9d60..244c7de5  annie-logs -> annie-logs
+[annie-logs 53850f81] 09/10/22 08:05:01 EST: Logs
+ 1 file changed, 8 insertions(+)
+Already up to date.
+To github.com:FLARE-forecast/CCRE-data.git
+   244c7de5..53850f81  annie-logs -> annie-logs
+
+############################ annie - 09/10/22 14:05:01 EST ############################
+
+Data:
+
+[ccre-dam-data a9ffd1d] 09/10/22 14:05:01 EST: Git Backup
+ 2 files changed, 396 insertions(+)
+Already up to date.
+remote: warning: See http://git.io/iEPt8g for more information.        
+remote: warning: File ccre-met.csv is 91.32 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To github.com:FLARE-forecast/CCRE-data.git
+   94457dd..a9ffd1d  ccre-dam-data -> ccre-dam-data
+
+Logs:
+
