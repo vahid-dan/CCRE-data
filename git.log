@@ -71612,3 +71612,15 @@ To github.com:FLARE-forecast/CCRE-data.git
 
 Logs:
 
+[annie-logs 042d3c82] 09/16/22 00:25:27 EST: Logs
+ 6 files changed, 638 insertions(+)
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+remote: warning: See http://git.io/iEPt8g for more information.        
+remote: warning: File autossh.log is 53.33 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To github.com:FLARE-forecast/CCRE-data.git
+   e0b46254..042d3c82  annie-logs -> annie-logs
