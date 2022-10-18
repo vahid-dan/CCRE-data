@@ -57,3 +57,10 @@ error: failed to run repack
 /dev/sda1        59G   48G  8.4G  85% /data
 ############################ annie - 10/01/22 00:05:02 EST ############################
 /dev/sda1        59G   55G  814M  99% /data
+############################ annie - 10/17/22 15:35:04 EST ############################
+/dev/sda1        59G   56G   20M 100% /data
+fatal: sha1 file '.git/objects/pack/tmp_pack_8rtRtc' write error: No space left on device
+error: failed to run repack
+fatal: unable to write new packed-refs: error closing file /data/annie-logs/.git/packed-refs.new: No space left on device
+error: failed to run pack-refs
+/dev/sda1        59G   56G  4.0K 100% /data

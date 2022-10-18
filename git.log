@@ -74211,3 +74211,163 @@ remote: warning: File autossh.log is 54.85 MB; this is larger than GitHub's reco
 remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
 To github.com:FLARE-forecast/CCRE-data.git
    7169a51f..141797bb  annie-logs -> annie-logs
+[annie-logs 0a5bab7b] 10/03/22 20:05:01 EST: Logs
+ 1 file changed, 8 insertions(+)
+Already up to date.
+To github.com:FLARE-forecast/CCRE-data.git
+   141797bb..0a5bab7b  annie-logs -> annie-logs
+
+############################ annie - 10/04/22 00:25:35 EST ############################
+
+Data:
+
+error: file write error: No space left on device
+fatal: unable to write sha1 file
+On branch ccre-dam-data
+Your branch is up to date with 'origin/ccre-dam-data'.
+
+Changes not staged for commit:
+	modified:   ccre-met.csv
+	modified:   ccre-waterquality.csv
+
+no changes added to commit
+fatal: update_ref failed for ref 'ORIG_HEAD': could not write to '.git/ORIG_HEAD'
+Everything up-to-date
+
+Logs:
+
+error: file write error: No space left on device
+fatal: unable to write sha1 file
+On branch annie-logs
+Your branch is up to date with 'origin/annie-logs'.
+
+Changes not staged for commit:
+	modified:   autossh.log
+	modified:   git.log
+	modified:   monitor.log
+	modified:   ping-full.log
+	modified:   ping-stat.log
+	modified:   startup.log
+
+no changes added to commit
+fatal: update_ref failed for ref 'ORIG_HEAD': could not write to '.git/ORIG_HEAD'
+Everything up-to-date
+error: file write error: No space left on device
+fatal: unable to write sha1 file
+On branch annie-logs
+Your branch is up to date with 'origin/annie-logs'.
+
+Changes not staged for commit:
+	modified:   autossh.log
+	modified:   git.log
+	modified:   monitor.log
+	modified:   ping-full.log
+	modified:   ping-stat.log
+	modified:   startup.log
+
+no changes added to commit
+fatal: update_ref failed for ref 'ORIG_HEAD': could not write to '.git/ORIG_HEAD'
+Everything up-to-date
+
+############################ annie - 10/04/22 02:05:01 EST ############################
+
+Data:
+
+error: file write error: No space left on device
+fatal: unable to write sha1 file
+On branch ccre-dam-data
+Your branch is up to date with 'origin/ccre-dam-data'.
+
+Changes not staged for commit:
+	modified:   ccre-met.csv
+	modified:   ccre-waterquality.csv
+
+no changes added to commit
+fatal: update_ref failed for ref 'ORIG_HEAD': could not write to '.git/ORIG_HEAD'
+Everything up-to-date
+
+Logs:
+
+error: file write error: No space left on device
+fatal: unable to write sha1 file
+On branch annie-logs
+Your branch is up to date with 'origin/annie-logs'.
+
+Changes not staged for commit:
+	modified:   autossh.log
+	modified:   git.log
+	modified:   monitor.log
+	modified:   ping-full.log
+	modified:   ping-stat.log
+	modified:   startup.log
+
+no changes added to commit
+fatal: update_ref failed for ref 'ORIG_HEAD': could not write to '.git/ORIG_HEAD'
+Everything up-to-date
+error: file write error: No space left on device
+fatal: unable to write sha1 file
+On branch annie-logs
+Your branch is up to date with 'origin/annie-logs'.
+
+Changes not staged for commit:
+	modified:   autossh.log
+	modified:   git.log
+	modified:   monitor.log
+	modified:   ping-full.log
+	modified:   ping-stat.log
+	modified:   startup.log
+
+no changes added to commit
+Your configuration specifies to merge with the ref 'refs/heads/annie-logs'
+from the remote, but no such ref was fetched.
+Everything up-to-date
+
+############################ annie - 10/04/22 08:05:01 EST ############################
+
+Data:
+
+error: file write error: No space left on device
+fatal: unable to write sha1 file
+On branch ccre-dam-data
+Your branch is up to date with 'origin/ccre-dam-data'.
+
+Changes not staged for commit:
+	modified:   ccre-met.csv
+	modified:   ccre-waterquality.csv
+
+no changes added to commit
+fatal: update_ref failed for ref 'ORIG_HEAD': could not write to '.git/ORIG_HEAD'
+Everything up-to-date
+
+Logs:
+
+error: file write error: No space left on device
+fatal: unable to write sha1 file
+On branch annie-logs
+Your branch is up to date with 'origin/annie-logs'.
+
+Changes not staged for commit:
+	modified:   autossh.log
+	modified:   git.log
+	modified:   monitor.log
+	modified:   ping-full.log
+	modified:   ping-stat.log
+	modified:   startup.log
+
+no changes added to commit
+Your configuration specifies to merge with the ref '
+############################ annie - 10/18/22 00:25:39 EST ############################
+
+Data:
+
+[ccre-dam-data 54dfe3d] 10/18/22 00:25:39 EST: Git Backup
+ 2 files changed, 22520 insertions(+)
+Already up to date.
+remote: warning: See http://git.io/iEPt8g for more information.        
+remote: warning: File ccre-met.csv is 97.51 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To github.com:FLARE-forecast/CCRE-data.git
+   a9c4025..54dfe3d  ccre-dam-data -> ccre-dam-data
+
+Logs:
+
