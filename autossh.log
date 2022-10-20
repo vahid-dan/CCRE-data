@@ -7,3 +7,12 @@
 2022/10/18 00:22:39 autossh[2266]: check on child 2267
 2022/10/18 00:22:39 autossh[2266]: set alarm for 600 secs
 2022/10/18 00:22:39 autossh[2267]: execing /usr/bin/ssh
+
+############################ annie - 10/20/22 00:22:38 EST ############################
+
+2022/10/20 00:22:38 autossh[2249]: checking for grace period, tries = 0
+2022/10/20 00:22:38 autossh[2249]: starting ssh (count 1)
+2022/10/20 00:22:38 autossh[2249]: ssh child pid is 2250
+2022/10/20 00:22:38 autossh[2249]: check on child 2250
+2022/10/20 00:22:38 autossh[2249]: set alarm for 600 secs
+2022/10/20 00:22:38 autossh[2250]: execing /usr/bin/ssh
