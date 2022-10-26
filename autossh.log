@@ -9458,3 +9458,308 @@ a"
 2022/10/26 07:55:52 autossh[2219]: check on child 23243
 2022/10/26 07:55:52 autossh[2219]: set alarm for 600 secs
 2022/10/26 07:55:52 autossh[23243]: execing /usr/bin/ssh
+2022/10/26 08:06:07 autossh[2219]: timeout polling to accept read connection
+2022/10/26 08:06:07 autossh[2219]: port down, restarting ssh
+2022/10/26 08:06:07 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 08:06:07 autossh[2219]: starting ssh (count 47)
+2022/10/26 08:06:07 autossh[2219]: ssh child pid is 23799
+2022/10/26 08:06:07 autossh[2219]: check on child 23799
+2022/10/26 08:06:07 autossh[2219]: set alarm for 600 secs
+2022/10/26 08:06:07 autossh[23799]: execing /usr/bin/ssh
+2022/10/26 08:16:23 autossh[2219]: timeout polling to accept read connection
+2022/10/26 08:16:23 autossh[2219]: port down, restarting ssh
+2022/10/26 08:16:23 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 08:16:23 autossh[2219]: starting ssh (count 48)
+2022/10/26 08:16:23 autossh[2219]: ssh child pid is 24261
+2022/10/26 08:16:23 autossh[2219]: check on child 24261
+2022/10/26 08:16:23 autossh[2219]: set alarm for 600 secs
+2022/10/26 08:16:23 autossh[24261]: execing /usr/bin/ssh
+2022/10/26 08:26:38 autossh[2219]: timeout polling to accept read connection
+2022/10/26 08:26:38 autossh[2219]: port down, restarting ssh
+2022/10/26 08:26:38 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 08:26:38 autossh[2219]: starting ssh (count 49)
+2022/10/26 08:26:38 autossh[2219]: ssh child pid is 24758
+2022/10/26 08:26:38 autossh[2219]: check on child 24758
+2022/10/26 08:26:38 autossh[2219]: set alarm for 600 secs
+2022/10/26 08:26:38 autossh[24758]: execing /usr/bin/ssh
+2022/10/26 08:36:53 autossh[2219]: timeout polling to accept read connection
+2022/10/26 08:36:53 autossh[2219]: port down, restarting ssh
+2022/10/26 08:36:53 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 08:36:53 autossh[2219]: starting ssh (count 50)
+2022/10/26 08:36:53 autossh[2219]: ssh child pid is 25211
+2022/10/26 08:36:53 autossh[2219]: check on child 25211
+2022/10/26 08:36:53 autossh[2219]: set alarm for 600 secs
+2022/10/26 08:36:53 autossh[25211]: execing /usr/bin/ssh
+2022/10/26 08:47:08 autossh[2219]: timeout polling to accept read connection
+2022/10/26 08:47:08 autossh[2219]: port down, restarting ssh
+2022/10/26 08:47:08 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 08:47:08 autossh[2219]: starting ssh (count 51)
+2022/10/26 08:47:08 autossh[2219]: ssh child pid is 25743
+2022/10/26 08:47:08 autossh[2219]: check on child 25743
+2022/10/26 08:47:08 autossh[2219]: set alarm for 600 secs
+2022/10/26 08:47:08 autossh[25743]: execing /usr/bin/ssh
+2022/10/26 08:57:23 autossh[2219]: timeout polling to accept read connection
+2022/10/26 08:57:23 autossh[2219]: port down, restarting ssh
+2022/10/26 08:57:23 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 08:57:23 autossh[2219]: starting ssh (count 52)
+2022/10/26 08:57:23 autossh[2219]: ssh child pid is 26197
+2022/10/26 08:57:23 autossh[2219]: check on child 26197
+2022/10/26 08:57:23 autossh[2219]: set alarm for 600 secs
+2022/10/26 08:57:23 autossh[26197]: execing /usr/bin/ssh
+2022/10/26 09:07:38 autossh[2219]: timeout polling to accept read connection
+2022/10/26 09:07:38 autossh[2219]: port down, restarting ssh
+2022/10/26 09:07:38 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 09:07:38 autossh[2219]: starting ssh (count 53)
+2022/10/26 09:07:38 autossh[2219]: ssh child pid is 26661
+2022/10/26 09:07:38 autossh[2219]: check on child 26661
+2022/10/26 09:07:38 autossh[2219]: set alarm for 600 secs
+2022/10/26 09:07:38 autossh[26661]: execing /usr/bin/ssh
+2022/10/26 09:17:53 autossh[2219]: timeout polling to accept read connection
+2022/10/26 09:17:53 autossh[2219]: port down, restarting ssh
+2022/10/26 09:17:53 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 09:17:53 autossh[2219]: starting ssh (count 54)
+2022/10/26 09:17:53 autossh[2219]: ssh child pid is 27115
+2022/10/26 09:17:53 autossh[2219]: check on child 27115
+2022/10/26 09:17:53 autossh[2219]: set alarm for 600 secs
+2022/10/26 09:17:53 autossh[27115]: execing /usr/bin/ssh
+2022/10/26 09:28:08 autossh[2219]: timeout polling to accept read connection
+2022/10/26 09:28:08 autossh[2219]: port down, restarting ssh
+2022/10/26 09:28:08 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 09:28:08 autossh[2219]: starting ssh (count 55)
+2022/10/26 09:28:08 autossh[2219]: ssh child pid is 27617
+2022/10/26 09:28:08 autossh[2219]: check on child 27617
+2022/10/26 09:28:08 autossh[2219]: set alarm for 600 secs
+2022/10/26 09:28:08 autossh[27617]: execing /usr/bin/ssh
+2022/10/26 09:38:23 autossh[2219]: timeout polling to accept read connection
+2022/10/26 09:38:23 autossh[2219]: port down, restarting ssh
+2022/10/26 09:38:23 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 09:38:23 autossh[2219]: starting ssh (count 56)
+2022/10/26 09:38:23 autossh[2219]: ssh child pid is 28063
+2022/10/26 09:38:23 autossh[2219]: check on child 28063
+2022/10/26 09:38:23 autossh[2219]: set alarm for 600 secs
+2022/10/26 09:38:23 autossh[28063]: execing /usr/bin/ssh
+2022/10/26 09:48:38 autossh[2219]: timeout polling to accept read connection
+2022/10/26 09:48:38 autossh[2219]: port down, restarting ssh
+2022/10/26 09:48:38 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 09:48:38 autossh[2219]: starting ssh (count 57)
+2022/10/26 09:48:38 autossh[2219]: ssh child pid is 28526
+2022/10/26 09:48:38 autossh[2219]: check on child 28526
+2022/10/26 09:48:38 autossh[2219]: set alarm for 600 secs
+2022/10/26 09:48:38 autossh[28526]: execing /usr/bin/ssh
+2022/10/26 09:58:53 autossh[2219]: timeout polling to accept read connection
+2022/10/26 09:58:53 autossh[2219]: port down, restarting ssh
+2022/10/26 09:58:53 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 09:58:53 autossh[2219]: starting ssh (count 58)
+2022/10/26 09:58:53 autossh[2219]: ssh child pid is 28973
+2022/10/26 09:58:53 autossh[2219]: check on child 28973
+2022/10/26 09:58:53 autossh[2219]: set alarm for 600 secs
+2022/10/26 09:58:53 autossh[28973]: execing /usr/bin/ssh
+2022/10/26 10:09:08 autossh[2219]: timeout polling to accept read connection
+2022/10/26 10:09:08 autossh[2219]: port down, restarting ssh
+2022/10/26 10:09:08 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 10:09:08 autossh[2219]: starting ssh (count 59)
+2022/10/26 10:09:08 autossh[2219]: ssh child pid is 29454
+2022/10/26 10:09:08 autossh[2219]: check on child 29454
+2022/10/26 10:09:08 autossh[2219]: set alarm for 600 secs
+2022/10/26 10:09:08 autossh[29454]: execing /usr/bin/ssh
+2022/10/26 10:19:23 autossh[2219]: timeout polling to accept read connection
+2022/10/26 10:19:23 autossh[2219]: port down, restarting ssh
+2022/10/26 10:19:23 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 10:19:23 autossh[2219]: starting ssh (count 60)
+2022/10/26 10:19:23 autossh[2219]: ssh child pid is 29916
+2022/10/26 10:19:23 autossh[2219]: check on child 29916
+2022/10/26 10:19:23 autossh[2219]: set alarm for 600 secs
+2022/10/26 10:19:23 autossh[29916]: execing /usr/bin/ssh
+2022/10/26 10:29:38 autossh[2219]: timeout polling to accept read connection
+2022/10/26 10:29:38 autossh[2219]: port down, restarting ssh
+2022/10/26 10:29:38 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 10:29:38 autossh[2219]: starting ssh (count 61)
+2022/10/26 10:29:38 autossh[2219]: ssh child pid is 30364
+2022/10/26 10:29:38 autossh[2219]: check on child 30364
+2022/10/26 10:29:38 autossh[2219]: set alarm for 600 secs
+2022/10/26 10:29:38 autossh[30364]: execing /usr/bin/ssh
+2022/10/26 10:39:53 autossh[2219]: timeout polling to accept read connection
+2022/10/26 10:39:53 autossh[2219]: port down, restarting ssh
+2022/10/26 10:39:53 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 10:39:53 autossh[2219]: starting ssh (count 62)
+2022/10/26 10:39:53 autossh[2219]: ssh child pid is 30813
+2022/10/26 10:39:53 autossh[2219]: check on child 30813
+2022/10/26 10:39:53 autossh[2219]: set alarm for 600 secs
+2022/10/26 10:39:53 autossh[30813]: execing /usr/bin/ssh
+2022/10/26 10:50:08 autossh[2219]: timeout polling to accept read connection
+2022/10/26 10:50:08 autossh[2219]: port down, restarting ssh
+2022/10/26 10:50:08 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 10:50:08 autossh[2219]: starting ssh (count 63)
+2022/10/26 10:50:08 autossh[2219]: ssh child pid is 31290
+2022/10/26 10:50:08 autossh[2219]: check on child 31290
+2022/10/26 10:50:08 autossh[2219]: set alarm for 600 secs
+2022/10/26 10:50:08 autossh[31290]: execing /usr/bin/ssh
+2022/10/26 11:00:23 autossh[2219]: timeout polling to accept read connection
+2022/10/26 11:00:23 autossh[2219]: port down, restarting ssh
+2022/10/26 11:00:23 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 11:00:23 autossh[2219]: starting ssh (count 64)
+2022/10/26 11:00:23 autossh[2219]: ssh child pid is 31749
+2022/10/26 11:00:23 autossh[2219]: check on child 31749
+2022/10/26 11:00:23 autossh[2219]: set alarm for 600 secs
+2022/10/26 11:00:23 autossh[31749]: execing /usr/bin/ssh
+2022/10/26 11:10:38 autossh[2219]: timeout polling to accept read connection
+2022/10/26 11:10:38 autossh[2219]: port down, restarting ssh
+2022/10/26 11:10:38 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 11:10:38 autossh[2219]: starting ssh (count 65)
+2022/10/26 11:10:38 autossh[2219]: ssh child pid is 32211
+2022/10/26 11:10:38 autossh[2219]: check on child 32211
+2022/10/26 11:10:38 autossh[2219]: set alarm for 600 secs
+2022/10/26 11:10:38 autossh[32211]: execing /usr/bin/ssh
+2022/10/26 11:20:53 autossh[2219]: timeout polling to accept read connection
+2022/10/26 11:20:53 autossh[2219]: port down, restarting ssh
+2022/10/26 11:20:53 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 11:20:53 autossh[2219]: starting ssh (count 66)
+2022/10/26 11:20:53 autossh[2219]: ssh child pid is 32666
+2022/10/26 11:20:53 autossh[2219]: check on child 32666
+2022/10/26 11:20:53 autossh[2219]: set alarm for 600 secs
+2022/10/26 11:20:53 autossh[32666]: execing /usr/bin/ssh
+2022/10/26 11:31:08 autossh[2219]: timeout polling to accept read connection
+2022/10/26 11:31:08 autossh[2219]: port down, restarting ssh
+2022/10/26 11:31:08 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 11:31:08 autossh[2219]: starting ssh (count 67)
+2022/10/26 11:31:08 autossh[2219]: ssh child pid is 714
+2022/10/26 11:31:08 autossh[2219]: check on child 714
+2022/10/26 11:31:08 autossh[2219]: set alarm for 600 secs
+2022/10/26 11:31:08 autossh[714]: execing /usr/bin/ssh
+2022/10/26 11:41:23 autossh[2219]: timeout polling to accept read connection
+2022/10/26 11:41:23 autossh[2219]: port down, restarting ssh
+2022/10/26 11:41:23 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 11:41:23 autossh[2219]: starting ssh (count 68)
+2022/10/26 11:41:23 autossh[2219]: ssh child pid is 1221
+2022/10/26 11:41:23 autossh[2219]: check on child 1221
+2022/10/26 11:41:23 autossh[2219]: set alarm for 600 secs
+2022/10/26 11:41:23 autossh[1221]: execing /usr/bin/ssh
+2022/10/26 11:51:38 autossh[2219]: timeout polling to accept read connection
+2022/10/26 11:51:38 autossh[2219]: port down, restarting ssh
+2022/10/26 11:51:38 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 11:51:38 autossh[2219]: starting ssh (count 69)
+2022/10/26 11:51:38 autossh[2219]: ssh child pid is 1882
+2022/10/26 11:51:38 autossh[2219]: check on child 1882
+2022/10/26 11:51:38 autossh[2219]: set alarm for 600 secs
+2022/10/26 11:51:38 autossh[1882]: execing /usr/bin/ssh
+2022/10/26 12:01:53 autossh[2219]: timeout polling to accept read connection
+2022/10/26 12:01:53 autossh[2219]: port down, restarting ssh
+2022/10/26 12:01:53 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 12:01:53 autossh[2219]: starting ssh (count 70)
+2022/10/26 12:01:53 autossh[2219]: ssh child pid is 2515
+2022/10/26 12:01:53 autossh[2219]: check on child 2515
+2022/10/26 12:01:53 autossh[2219]: set alarm for 600 secs
+2022/10/26 12:01:53 autossh[2515]: execing /usr/bin/ssh
+2022/10/26 12:12:08 autossh[2219]: timeout polling to accept read connection
+2022/10/26 12:12:08 autossh[2219]: port down, restarting ssh
+2022/10/26 12:12:08 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 12:12:08 autossh[2219]: starting ssh (count 71)
+2022/10/26 12:12:08 autossh[2219]: ssh child pid is 2990
+2022/10/26 12:12:08 autossh[2219]: check on child 2990
+2022/10/26 12:12:08 autossh[2219]: set alarm for 600 secs
+2022/10/26 12:12:08 autossh[2990]: execing /usr/bin/ssh
+2022/10/26 12:22:23 autossh[2219]: timeout polling to accept read connection
+2022/10/26 12:22:23 autossh[2219]: port down, restarting ssh
+2022/10/26 12:22:23 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 12:22:23 autossh[2219]: starting ssh (count 72)
+2022/10/26 12:22:23 autossh[2219]: ssh child pid is 3500
+2022/10/26 12:22:23 autossh[2219]: check on child 3500
+2022/10/26 12:22:23 autossh[2219]: set alarm for 600 secs
+2022/10/26 12:22:23 autossh[3500]: execing /usr/bin/ssh
+2022/10/26 12:32:38 autossh[2219]: timeout polling to accept read connection
+2022/10/26 12:32:38 autossh[2219]: port down, restarting ssh
+2022/10/26 12:32:38 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 12:32:38 autossh[2219]: starting ssh (count 73)
+2022/10/26 12:32:38 autossh[2219]: ssh child pid is 3962
+2022/10/26 12:32:38 autossh[2219]: check on child 3962
+2022/10/26 12:32:38 autossh[2219]: set alarm for 600 secs
+2022/10/26 12:32:38 autossh[3962]: execing /usr/bin/ssh
+2022/10/26 12:42:53 autossh[2219]: timeout polling to accept read connection
+2022/10/26 12:42:53 autossh[2219]: port down, restarting ssh
+2022/10/26 12:42:53 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 12:42:53 autossh[2219]: starting ssh (count 74)
+2022/10/26 12:42:53 autossh[2219]: ssh child pid is 4447
+2022/10/26 12:42:53 autossh[2219]: check on child 4447
+2022/10/26 12:42:53 autossh[2219]: set alarm for 600 secs
+2022/10/26 12:42:53 autossh[4447]: execing /usr/bin/ssh
+2022/10/26 12:53:08 autossh[2219]: timeout polling to accept read connection
+2022/10/26 12:53:08 autossh[2219]: port down, restarting ssh
+2022/10/26 12:53:08 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 12:53:08 autossh[2219]: starting ssh (count 75)
+2022/10/26 12:53:08 autossh[2219]: ssh child pid is 4916
+2022/10/26 12:53:08 autossh[2219]: check on child 4916
+2022/10/26 12:53:08 autossh[2219]: set alarm for 600 secs
+2022/10/26 12:53:08 autossh[4916]: execing /usr/bin/ssh
+2022/10/26 13:03:23 autossh[2219]: timeout polling to accept read connection
+2022/10/26 13:03:23 autossh[2219]: port down, restarting ssh
+2022/10/26 13:03:23 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 13:03:23 autossh[2219]: starting ssh (count 76)
+2022/10/26 13:03:23 autossh[2219]: ssh child pid is 5369
+2022/10/26 13:03:23 autossh[2219]: check on child 5369
+2022/10/26 13:03:23 autossh[2219]: set alarm for 600 secs
+2022/10/26 13:03:23 autossh[5369]: execing /usr/bin/ssh
+2022/10/26 13:13:23 autossh[2219]: not what I sent: "annie autossh 2219 2128979922 
+" : ""
+2022/10/26 13:13:23 autossh[2219]: connection ok
+2022/10/26 13:13:23 autossh[2219]: check on child 5369
+2022/10/26 13:13:23 autossh[2219]: set alarm for 600 secs
+2022/10/26 13:23:23 autossh[2219]: not what I sent: "annie autossh 2219 1383567058 
+" : "mia autossh 2385 2094388066 
+"
+2022/10/26 13:23:23 autossh[2219]: not what I sent: "annie autossh 2219 1383567058 
+" : ""
+2022/10/26 13:23:23 autossh[2219]: tried connection 3 times and failed
+2022/10/26 13:23:23 autossh[2219]: port down, restarting ssh
+2022/10/26 13:23:23 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 13:23:23 autossh[2219]: starting ssh (count 77)
+2022/10/26 13:23:23 autossh[2219]: ssh child pid is 6273
+2022/10/26 13:23:23 autossh[2219]: check on child 6273
+2022/10/26 13:23:23 autossh[2219]: set alarm for 600 secs
+2022/10/26 13:23:23 autossh[6273]: execing /usr/bin/ssh
+2022/10/26 13:33:23 autossh[2219]: not what I sent: "annie autossh 2219 1779613045 
+" : ""
+2022/10/26 13:33:23 autossh[2219]: not what I sent: "annie autossh 2219 1779613045 
+" : ""
+2022/10/26 13:33:23 autossh[2219]: tried connection 3 times and failed
+2022/10/26 13:33:23 autossh[2219]: port down, restarting ssh
+2022/10/26 13:33:23 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 13:33:23 autossh[2219]: starting ssh (count 78)
+2022/10/26 13:33:23 autossh[2219]: ssh child pid is 6729
+2022/10/26 13:33:23 autossh[2219]: check on child 6729
+2022/10/26 13:33:23 autossh[2219]: set alarm for 600 secs
+2022/10/26 13:33:23 autossh[6729]: execing /usr/bin/ssh
+2022/10/26 13:43:23 autossh[2219]: not what I sent: "annie autossh 2219 1722538741 
+" : ""
+2022/10/26 13:43:23 autossh[2219]: not what I sent: "annie autossh 2219 1722538741 
+" : ""
+2022/10/26 13:43:23 autossh[2219]: tried connection 3 times and failed
+2022/10/26 13:43:23 autossh[2219]: port down, restarting ssh
+2022/10/26 13:43:23 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 13:43:23 autossh[2219]: starting ssh (count 79)
+2022/10/26 13:43:23 autossh[2219]: ssh child pid is 7180
+2022/10/26 13:43:23 autossh[2219]: check on child 7180
+2022/10/26 13:43:23 autossh[2219]: set alarm for 600 secs
+2022/10/26 13:43:23 autossh[7180]: execing /usr/bin/ssh
+2022/10/26 13:53:23 autossh[2219]: not what I sent: "annie autossh 2219 476698148 
+" : ""
+2022/10/26 13:53:36 autossh[2219]: not what I sent: "annie autossh 2219 476698148 
+" : ""
+2022/10/26 13:53:36 autossh[2219]: tried connection 3 times and failed
+2022/10/26 13:53:36 autossh[2219]: port down, restarting ssh
+2022/10/26 13:53:36 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 13:53:36 autossh[2219]: starting ssh (count 80)
+2022/10/26 13:53:36 autossh[2219]: ssh child pid is 7630
+2022/10/26 13:53:36 autossh[2219]: check on child 7630
+2022/10/26 13:53:36 autossh[2219]: set alarm for 600 secs
+2022/10/26 13:53:36 autossh[7630]: execing /usr/bin/ssh
+2022/10/26 14:03:36 autossh[2219]: not what I sent: "annie autossh 2219 1797014784 
+" : "annie autossh 2219 476698148 
+a"
+2022/10/26 14:03:51 autossh[2219]: timeout polling to accept read connection
+2022/10/26 14:03:51 autossh[2219]: port down, restarting ssh
+2022/10/26 14:03:51 autossh[2219]: checking for grace period, tries = 0
+2022/10/26 14:03:51 autossh[2219]: starting ssh (count 81)
+2022/10/26 14:03:51 autossh[2219]: ssh child pid is 8083
+2022/10/26 14:03:51 autossh[2219]: check on child 8083
+2022/10/26 14:03:51 autossh[2219]: set alarm for 600 secs
+2022/10/26 14:03:51 autossh[8083]: execing /usr/bin/ssh
