@@ -10315,3 +10315,109 @@ a"
 2022/10/27 00:22:44 autossh[2336]: check on child 2337
 2022/10/27 00:22:44 autossh[2336]: set alarm for 600 secs
 2022/10/27 00:22:44 autossh[2337]: execing /usr/bin/ssh
+2022/10/27 00:32:44 autossh[2336]: not what I sent: "annie autossh 2336 1459205737 
+" : ""
+2022/10/27 00:32:44 autossh[2336]: connection ok
+2022/10/27 00:32:44 autossh[2336]: check on child 2337
+2022/10/27 00:32:44 autossh[2336]: set alarm for 600 secs
+2022/10/27 00:42:44 autossh[2336]: not what I sent: "annie autossh 2336 895445268 
+" : ""
+2022/10/27 00:42:44 autossh[2336]: not what I sent: "annie autossh 2336 895445268 
+" : ""
+2022/10/27 00:42:44 autossh[2336]: tried connection 3 times and failed
+2022/10/27 00:42:44 autossh[2336]: port down, restarting ssh
+2022/10/27 00:42:44 autossh[2336]: checking for grace period, tries = 0
+2022/10/27 00:42:44 autossh[2336]: starting ssh (count 2)
+2022/10/27 00:42:44 autossh[2336]: ssh child pid is 3678
+2022/10/27 00:42:44 autossh[2336]: check on child 3678
+2022/10/27 00:42:44 autossh[2336]: set alarm for 600 secs
+2022/10/27 00:42:44 autossh[3678]: execing /usr/bin/ssh
+2022/10/27 00:52:44 autossh[2336]: not what I sent: "annie autossh 2336 165384885 
+" : ""
+2022/10/27 00:52:44 autossh[2336]: connection ok
+2022/10/27 00:52:44 autossh[2336]: check on child 3678
+2022/10/27 00:52:44 autossh[2336]: set alarm for 600 secs
+2022/10/27 01:02:44 autossh[2336]: not what I sent: "annie autossh 2336 2036022532 
+" : ""
+2022/10/27 01:02:44 autossh[2336]: not what I sent: "annie autossh 2336 2036022532 
+" : ""
+2022/10/27 01:02:44 autossh[2336]: tried connection 3 times and failed
+2022/10/27 01:02:44 autossh[2336]: port down, restarting ssh
+2022/10/27 01:02:44 autossh[2336]: checking for grace period, tries = 0
+2022/10/27 01:02:44 autossh[2336]: starting ssh (count 3)
+2022/10/27 01:02:44 autossh[2336]: ssh child pid is 4585
+2022/10/27 01:02:44 autossh[2336]: check on child 4585
+2022/10/27 01:02:44 autossh[2336]: set alarm for 600 secs
+2022/10/27 01:02:44 autossh[4585]: execing /usr/bin/ssh
+2022/10/27 01:12:44 autossh[2336]: not what I sent: "annie autossh 2336 1651617256 
+" : ""
+2022/10/27 01:12:44 autossh[2336]: not what I sent: "annie autossh 2336 1651617256 
+" : ""
+2022/10/27 01:12:44 autossh[2336]: tried connection 3 times and failed
+2022/10/27 01:12:44 autossh[2336]: port down, restarting ssh
+2022/10/27 01:12:44 autossh[2336]: checking for grace period, tries = 0
+2022/10/27 01:12:44 autossh[2336]: starting ssh (count 4)
+2022/10/27 01:12:44 autossh[2336]: ssh child pid is 5064
+2022/10/27 01:12:44 autossh[2336]: check on child 5064
+2022/10/27 01:12:44 autossh[2336]: set alarm for 600 secs
+2022/10/27 01:12:44 autossh[5064]: execing /usr/bin/ssh
+2022/10/27 01:22:44 autossh[2336]: not what I sent: "annie autossh 2336 567042913 
+" : ""
+2022/10/27 01:22:44 autossh[2336]: not what I sent: "annie autossh 2336 567042913 
+" : ""
+2022/10/27 01:22:44 autossh[2336]: tried connection 3 times and failed
+2022/10/27 01:22:44 autossh[2336]: port down, restarting ssh
+2022/10/27 01:22:44 autossh[2336]: checking for grace period, tries = 0
+2022/10/27 01:22:44 autossh[2336]: starting ssh (count 5)
+2022/10/27 01:22:44 autossh[2336]: ssh child pid is 5512
+2022/10/27 01:22:44 autossh[2336]: check on child 5512
+2022/10/27 01:22:44 autossh[2336]: set alarm for 600 secs
+2022/10/27 01:22:44 autossh[5512]: execing /usr/bin/ssh
+2022/10/27 01:32:44 autossh[2336]: not what I sent: "annie autossh 2336 1734274243 
+" : ""
+2022/10/27 01:32:44 autossh[2336]: not what I sent: "annie autossh 2336 1734274243 
+" : ""
+2022/10/27 01:32:44 autossh[2336]: tried connection 3 times and failed
+2022/10/27 01:32:44 autossh[2336]: port down, restarting ssh
+2022/10/27 01:32:44 autossh[2336]: checking for grace period, tries = 0
+2022/10/27 01:32:44 autossh[2336]: starting ssh (count 6)
+2022/10/27 01:32:44 autossh[2336]: ssh child pid is 5974
+2022/10/27 01:32:44 autossh[2336]: check on child 5974
+2022/10/27 01:32:44 autossh[2336]: set alarm for 600 secs
+2022/10/27 01:32:44 autossh[5974]: execing /usr/bin/ssh
+2022/10/27 01:42:44 autossh[2336]: not what I sent: "annie autossh 2336 1360085076 
+" : ""
+2022/10/27 01:42:44 autossh[2336]: not what I sent: "annie autossh 2336 1360085076 
+" : ""
+2022/10/27 01:42:44 autossh[2336]: tried connection 3 times and failed
+2022/10/27 01:42:44 autossh[2336]: port down, restarting ssh
+2022/10/27 01:42:44 autossh[2336]: checking for grace period, tries = 0
+2022/10/27 01:42:44 autossh[2336]: starting ssh (count 7)
+2022/10/27 01:42:44 autossh[2336]: ssh child pid is 6429
+2022/10/27 01:42:44 autossh[2336]: check on child 6429
+2022/10/27 01:42:44 autossh[2336]: set alarm for 600 secs
+2022/10/27 01:42:44 autossh[6429]: execing /usr/bin/ssh
+2022/10/27 01:52:44 autossh[2336]: not what I sent: "annie autossh 2336 1481307681 
+" : ""
+2022/10/27 01:52:44 autossh[2336]: not what I sent: "annie autossh 2336 1481307681 
+" : ""
+2022/10/27 01:52:44 autossh[2336]: tried connection 3 times and failed
+2022/10/27 01:52:44 autossh[2336]: port down, restarting ssh
+2022/10/27 01:52:44 autossh[2336]: checking for grace period, tries = 0
+2022/10/27 01:52:44 autossh[2336]: starting ssh (count 8)
+2022/10/27 01:52:44 autossh[2336]: ssh child pid is 6908
+2022/10/27 01:52:44 autossh[2336]: check on child 6908
+2022/10/27 01:52:44 autossh[2336]: set alarm for 600 secs
+2022/10/27 01:52:44 autossh[6908]: execing /usr/bin/ssh
+2022/10/27 02:02:44 autossh[2336]: not what I sent: "annie autossh 2336 1164765723 
+" : ""
+2022/10/27 02:02:44 autossh[2336]: not what I sent: "annie autossh 2336 1164765723 
+" : ""
+2022/10/27 02:02:44 autossh[2336]: tried connection 3 times and failed
+2022/10/27 02:02:44 autossh[2336]: port down, restarting ssh
+2022/10/27 02:02:44 autossh[2336]: checking for grace period, tries = 0
+2022/10/27 02:02:44 autossh[2336]: starting ssh (count 9)
+2022/10/27 02:02:44 autossh[2336]: ssh child pid is 7371
+2022/10/27 02:02:44 autossh[2336]: check on child 7371
+2022/10/27 02:02:44 autossh[2336]: set alarm for 600 secs
+2022/10/27 02:02:44 autossh[7371]: execing /usr/bin/ssh
