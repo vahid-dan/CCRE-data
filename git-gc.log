@@ -64,3 +64,6 @@ error: failed to run repack
 fatal: unable to write new packed-refs: error closing file /data/annie-logs/.git/packed-refs.new: No space left on device
 error: failed to run pack-refs
 /dev/sda1        59G   56G  4.0K 100% /data
+############################ annie - 10/27/22 13:39:04 EST ############################
+/dev/sda1        59G  2.2G   54G   4% /data
+/dev/sda1        59G  297M   56G   1% /data
