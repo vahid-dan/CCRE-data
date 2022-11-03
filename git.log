@@ -76626,3 +76626,35 @@ remote: This repository moved. Please use the new location:
 remote:   git@github.com:FLARE-forecast/CCRE-data.git        
 To github.com:FLARE-forecast/CCRE.git
    de6e36f..08ea655  annie-logs -> annie-logs
+[annie-logs 5485ad4] 11/03/22 08:05:01 EST: Logs
+ 1 file changed, 7 insertions(+)
+Already up to date.
+remote: This repository moved. Please use the new location:        
+remote:   git@github.com:FLARE-forecast/CCRE-data.git        
+To github.com:FLARE-forecast/CCRE.git
+   08ea655..5485ad4  annie-logs -> annie-logs
+
+############################ annie - 11/03/22 14:05:01 EST ############################
+
+Data:
+
+[ccre-dam-data 7bb8676] 11/03/22 14:05:01 EST: Git Backup
+ 2 files changed, 396 insertions(+)
+Already up to date.
+remote: error: Trace: e207e2a8cd919e49bf5bdad060dee3f8ff62ca9d95c6e0467af1815aef749c5b        
+remote: error: See http://git.io/iEPt8g for more information.        
+remote: error: File ccre-met.csv is 100.01 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File ccre-met.csv is 100.25 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File ccre-met.csv is 100.21 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File ccre-met.csv is 100.17 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File ccre-met.csv is 100.16 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File ccre-met.csv is 100.13 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File ccre-met.csv is 100.09 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: File ccre-met.csv is 100.05 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To github.com:FLARE-forecast/CCRE-data.git
+ ! [remote rejected] ccre-dam-data -> ccre-dam-data (pre-receive hook declined)
+error: failed to push some refs to 'git@github.com:FLARE-forecast/CCRE-data.git'
+
+Logs:
+
