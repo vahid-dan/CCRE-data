@@ -38758,3 +38758,11 @@ a"
 2022/11/14 01:55:06 autossh[2282]: check on child 6888
 2022/11/14 01:55:06 autossh[2282]: set alarm for 600 secs
 2022/11/14 01:55:06 autossh[6888]: execing /usr/bin/ssh
+2022/11/14 02:05:21 autossh[2282]: timeout polling to accept read connection
+2022/11/14 02:05:21 autossh[2282]: port down, restarting ssh
+2022/11/14 02:05:21 autossh[2282]: checking for grace period, tries = 0
+2022/11/14 02:05:21 autossh[2282]: starting ssh (count 19)
+2022/11/14 02:05:21 autossh[2282]: ssh child pid is 7390
+2022/11/14 02:05:21 autossh[2282]: check on child 7390
+2022/11/14 02:05:21 autossh[2282]: set alarm for 600 secs
+2022/11/14 02:05:21 autossh[7390]: execing /usr/bin/ssh
