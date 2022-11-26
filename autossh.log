@@ -56277,3 +56277,430 @@ a"
 2022/11/25 13:58:49 autossh[2292]: check on child 8200
 2022/11/25 13:58:49 autossh[2292]: set alarm for 600 secs
 2022/11/25 13:58:49 autossh[8200]: execing /usr/bin/ssh
+2022/11/25 14:08:49 autossh[2292]: not what I sent: "annie autossh 2292 904063036 
+" : ""
+2022/11/25 14:08:49 autossh[2292]: not what I sent: "annie autossh 2292 904063036 
+" : ""
+2022/11/25 14:08:49 autossh[2292]: tried connection 3 times and failed
+2022/11/25 14:08:49 autossh[2292]: port down, restarting ssh
+2022/11/25 14:08:49 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 14:08:49 autossh[2292]: starting ssh (count 89)
+2022/11/25 14:08:49 autossh[2292]: ssh child pid is 8711
+2022/11/25 14:08:49 autossh[2292]: check on child 8711
+2022/11/25 14:08:49 autossh[2292]: set alarm for 600 secs
+2022/11/25 14:08:49 autossh[8711]: execing /usr/bin/ssh
+2022/11/25 14:18:49 autossh[2292]: not what I sent: "annie autossh 2292 1097871897 
+" : ""
+2022/11/25 14:18:49 autossh[2292]: not what I sent: "annie autossh 2292 1097871897 
+" : ""
+2022/11/25 14:18:49 autossh[2292]: tried connection 3 times and failed
+2022/11/25 14:18:49 autossh[2292]: port down, restarting ssh
+2022/11/25 14:18:49 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 14:18:49 autossh[2292]: starting ssh (count 90)
+2022/11/25 14:18:49 autossh[2292]: ssh child pid is 9160
+2022/11/25 14:18:49 autossh[2292]: check on child 9160
+2022/11/25 14:18:49 autossh[2292]: set alarm for 600 secs
+2022/11/25 14:18:49 autossh[9160]: execing /usr/bin/ssh
+2022/11/25 14:28:49 autossh[2292]: not what I sent: "annie autossh 2292 1952721825 
+" : ""
+2022/11/25 14:28:49 autossh[2292]: not what I sent: "annie autossh 2292 1952721825 
+" : ""
+2022/11/25 14:28:49 autossh[2292]: tried connection 3 times and failed
+2022/11/25 14:28:49 autossh[2292]: port down, restarting ssh
+2022/11/25 14:28:49 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 14:28:49 autossh[2292]: starting ssh (count 91)
+2022/11/25 14:28:49 autossh[2292]: ssh child pid is 9605
+2022/11/25 14:28:49 autossh[2292]: check on child 9605
+2022/11/25 14:28:49 autossh[2292]: set alarm for 600 secs
+2022/11/25 14:28:49 autossh[9605]: execing /usr/bin/ssh
+2022/11/25 14:38:49 autossh[2292]: not what I sent: "annie autossh 2292 1970219555 
+" : ""
+2022/11/25 14:38:49 autossh[2292]: not what I sent: "annie autossh 2292 1970219555 
+" : ""
+2022/11/25 14:38:49 autossh[2292]: tried connection 3 times and failed
+2022/11/25 14:38:49 autossh[2292]: port down, restarting ssh
+2022/11/25 14:38:49 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 14:38:49 autossh[2292]: starting ssh (count 92)
+2022/11/25 14:38:49 autossh[2292]: ssh child pid is 10047
+2022/11/25 14:38:49 autossh[2292]: check on child 10047
+2022/11/25 14:38:49 autossh[2292]: set alarm for 600 secs
+2022/11/25 14:38:49 autossh[10047]: execing /usr/bin/ssh
+2022/11/25 14:48:49 autossh[2292]: not what I sent: "annie autossh 2292 1096512223 
+" : ""
+2022/11/25 14:48:49 autossh[2292]: not what I sent: "annie autossh 2292 1096512223 
+" : ""
+2022/11/25 14:48:49 autossh[2292]: tried connection 3 times and failed
+2022/11/25 14:48:49 autossh[2292]: port down, restarting ssh
+2022/11/25 14:48:49 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 14:48:49 autossh[2292]: starting ssh (count 93)
+2022/11/25 14:48:49 autossh[2292]: ssh child pid is 10555
+2022/11/25 14:48:49 autossh[2292]: check on child 10555
+2022/11/25 14:48:49 autossh[2292]: set alarm for 600 secs
+2022/11/25 14:48:49 autossh[10555]: execing /usr/bin/ssh
+2022/11/25 14:58:49 autossh[2292]: not what I sent: "annie autossh 2292 511008817 
+" : ""
+2022/11/25 14:58:49 autossh[2292]: not what I sent: "annie autossh 2292 511008817 
+" : ""
+2022/11/25 14:58:49 autossh[2292]: tried connection 3 times and failed
+2022/11/25 14:58:49 autossh[2292]: port down, restarting ssh
+2022/11/25 14:58:49 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 14:58:49 autossh[2292]: starting ssh (count 94)
+2022/11/25 14:58:49 autossh[2292]: ssh child pid is 10999
+2022/11/25 14:58:49 autossh[2292]: check on child 10999
+2022/11/25 14:58:49 autossh[2292]: set alarm for 600 secs
+2022/11/25 14:58:49 autossh[10999]: execing /usr/bin/ssh
+2022/11/25 15:08:49 autossh[2292]: not what I sent: "annie autossh 2292 1888424281 
+" : ""
+2022/11/25 15:08:49 autossh[2292]: not what I sent: "annie autossh 2292 1888424281 
+" : ""
+2022/11/25 15:08:49 autossh[2292]: tried connection 3 times and failed
+2022/11/25 15:08:49 autossh[2292]: port down, restarting ssh
+2022/11/25 15:08:49 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 15:08:49 autossh[2292]: starting ssh (count 95)
+2022/11/25 15:08:49 autossh[2292]: ssh child pid is 11476
+2022/11/25 15:08:49 autossh[2292]: check on child 11476
+2022/11/25 15:08:49 autossh[2292]: set alarm for 600 secs
+2022/11/25 15:08:49 autossh[11476]: execing /usr/bin/ssh
+2022/11/25 15:18:49 autossh[2292]: not what I sent: "annie autossh 2292 1935332618 
+" : ""
+2022/11/25 15:18:49 autossh[2292]: not what I sent: "annie autossh 2292 1935332618 
+" : ""
+2022/11/25 15:18:49 autossh[2292]: tried connection 3 times and failed
+2022/11/25 15:18:49 autossh[2292]: port down, restarting ssh
+2022/11/25 15:18:49 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 15:18:49 autossh[2292]: starting ssh (count 96)
+2022/11/25 15:18:49 autossh[2292]: ssh child pid is 11924
+2022/11/25 15:18:49 autossh[2292]: check on child 11924
+2022/11/25 15:18:49 autossh[2292]: set alarm for 600 secs
+2022/11/25 15:18:49 autossh[11924]: execing /usr/bin/ssh
+2022/11/25 15:28:49 autossh[2292]: not what I sent: "annie autossh 2292 1555094838 
+" : ""
+2022/11/25 15:28:49 autossh[2292]: not what I sent: "annie autossh 2292 1555094838 
+" : ""
+2022/11/25 15:28:49 autossh[2292]: tried connection 3 times and failed
+2022/11/25 15:28:49 autossh[2292]: port down, restarting ssh
+2022/11/25 15:28:49 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 15:28:49 autossh[2292]: starting ssh (count 97)
+2022/11/25 15:28:49 autossh[2292]: ssh child pid is 12425
+2022/11/25 15:28:49 autossh[2292]: check on child 12425
+2022/11/25 15:28:49 autossh[2292]: set alarm for 600 secs
+2022/11/25 15:28:49 autossh[12425]: execing /usr/bin/ssh
+2022/11/25 15:38:49 autossh[2292]: not what I sent: "annie autossh 2292 889267924 
+" : ""
+2022/11/25 15:38:49 autossh[2292]: not what I sent: "annie autossh 2292 889267924 
+" : ""
+2022/11/25 15:38:49 autossh[2292]: tried connection 3 times and failed
+2022/11/25 15:38:49 autossh[2292]: port down, restarting ssh
+2022/11/25 15:38:49 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 15:38:49 autossh[2292]: starting ssh (count 98)
+2022/11/25 15:38:49 autossh[2292]: ssh child pid is 12877
+2022/11/25 15:38:49 autossh[2292]: check on child 12877
+2022/11/25 15:38:49 autossh[2292]: set alarm for 600 secs
+2022/11/25 15:38:49 autossh[12877]: execing /usr/bin/ssh
+2022/11/25 15:48:49 autossh[2292]: not what I sent: "annie autossh 2292 1039158962 
+" : ""
+2022/11/25 15:48:49 autossh[2292]: not what I sent: "annie autossh 2292 1039158962 
+" : ""
+2022/11/25 15:48:49 autossh[2292]: tried connection 3 times and failed
+2022/11/25 15:48:49 autossh[2292]: port down, restarting ssh
+2022/11/25 15:48:49 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 15:48:49 autossh[2292]: starting ssh (count 99)
+2022/11/25 15:48:49 autossh[2292]: ssh child pid is 13321
+2022/11/25 15:48:49 autossh[2292]: check on child 13321
+2022/11/25 15:48:49 autossh[2292]: set alarm for 600 secs
+2022/11/25 15:48:49 autossh[13321]: execing /usr/bin/ssh
+2022/11/25 15:58:49 autossh[2292]: not what I sent: "annie autossh 2292 786603738 
+" : ""
+2022/11/25 15:58:49 autossh[2292]: not what I sent: "annie autossh 2292 786603738 
+" : ""
+2022/11/25 15:58:49 autossh[2292]: tried connection 3 times and failed
+2022/11/25 15:58:49 autossh[2292]: port down, restarting ssh
+2022/11/25 15:58:49 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 15:58:49 autossh[2292]: starting ssh (count 100)
+2022/11/25 15:58:49 autossh[2292]: ssh child pid is 13765
+2022/11/25 15:58:49 autossh[2292]: check on child 13765
+2022/11/25 15:58:49 autossh[2292]: set alarm for 600 secs
+2022/11/25 15:58:49 autossh[13765]: execing /usr/bin/ssh
+2022/11/25 16:08:49 autossh[2292]: not what I sent: "annie autossh 2292 812011038 
+" : ""
+2022/11/25 16:08:49 autossh[2292]: not what I sent: "annie autossh 2292 812011038 
+" : ""
+2022/11/25 16:08:49 autossh[2292]: tried connection 3 times and failed
+2022/11/25 16:08:49 autossh[2292]: port down, restarting ssh
+2022/11/25 16:08:49 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 16:08:49 autossh[2292]: starting ssh (count 101)
+2022/11/25 16:08:49 autossh[2292]: ssh child pid is 14210
+2022/11/25 16:08:49 autossh[2292]: check on child 14210
+2022/11/25 16:08:49 autossh[2292]: set alarm for 600 secs
+2022/11/25 16:08:49 autossh[14210]: execing /usr/bin/ssh
+2022/11/25 16:18:49 autossh[2292]: not what I sent: "annie autossh 2292 1275013390 
+" : ""
+2022/11/25 16:18:49 autossh[2292]: not what I sent: "annie autossh 2292 1275013390 
+" : ""
+2022/11/25 16:18:49 autossh[2292]: tried connection 3 times and failed
+2022/11/25 16:18:49 autossh[2292]: port down, restarting ssh
+2022/11/25 16:18:49 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 16:18:49 autossh[2292]: starting ssh (count 102)
+2022/11/25 16:18:49 autossh[2292]: ssh child pid is 14659
+2022/11/25 16:18:49 autossh[2292]: check on child 14659
+2022/11/25 16:18:49 autossh[2292]: set alarm for 600 secs
+2022/11/25 16:18:49 autossh[14659]: execing /usr/bin/ssh
+2022/11/25 16:28:49 autossh[2292]: not what I sent: "annie autossh 2292 849448360 
+" : ""
+2022/11/25 16:28:49 autossh[2292]: not what I sent: "annie autossh 2292 849448360 
+" : ""
+2022/11/25 16:28:49 autossh[2292]: tried connection 3 times and failed
+2022/11/25 16:28:49 autossh[2292]: port down, restarting ssh
+2022/11/25 16:28:49 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 16:28:49 autossh[2292]: starting ssh (count 103)
+2022/11/25 16:28:49 autossh[2292]: ssh child pid is 15113
+2022/11/25 16:28:49 autossh[2292]: check on child 15113
+2022/11/25 16:28:49 autossh[2292]: set alarm for 600 secs
+2022/11/25 16:28:49 autossh[15113]: execing /usr/bin/ssh
+2022/11/25 16:38:49 autossh[2292]: not what I sent: "annie autossh 2292 741405325 
+" : ""
+2022/11/25 16:38:54 autossh[2292]: not what I sent: "annie autossh 2292 741405325 
+" : ""
+2022/11/25 16:38:54 autossh[2292]: tried connection 3 times and failed
+2022/11/25 16:38:54 autossh[2292]: port down, restarting ssh
+2022/11/25 16:38:54 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 16:38:54 autossh[2292]: starting ssh (count 104)
+2022/11/25 16:38:54 autossh[2292]: ssh child pid is 15556
+2022/11/25 16:38:54 autossh[2292]: check on child 15556
+2022/11/25 16:38:54 autossh[2292]: set alarm for 600 secs
+2022/11/25 16:38:54 autossh[15556]: execing /usr/bin/ssh
+2022/11/25 16:48:54 autossh[2292]: not what I sent: "annie autossh 2292 1122271883 
+" : "annie autossh 2292 741405325 
+a"
+2022/11/25 16:48:54 autossh[2292]: not what I sent: "annie autossh 2292 1122271883 
+" : ""
+2022/11/25 16:48:54 autossh[2292]: tried connection 3 times and failed
+2022/11/25 16:48:54 autossh[2292]: port down, restarting ssh
+2022/11/25 16:48:54 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 16:48:54 autossh[2292]: starting ssh (count 105)
+2022/11/25 16:48:54 autossh[2292]: ssh child pid is 16003
+2022/11/25 16:48:54 autossh[2292]: check on child 16003
+2022/11/25 16:48:54 autossh[2292]: set alarm for 600 secs
+2022/11/25 16:48:54 autossh[16003]: execing /usr/bin/ssh
+2022/11/25 16:58:54 autossh[2292]: not what I sent: "annie autossh 2292 482862828 
+" : ""
+2022/11/25 16:58:54 autossh[2292]: connection ok
+2022/11/25 16:58:54 autossh[2292]: check on child 16003
+2022/11/25 16:58:54 autossh[2292]: set alarm for 600 secs
+2022/11/25 17:08:54 autossh[2292]: not what I sent: "annie autossh 2292 1478937888 
+" : ""
+2022/11/25 17:08:54 autossh[2292]: not what I sent: "annie autossh 2292 1478937888 
+" : ""
+2022/11/25 17:08:54 autossh[2292]: tried connection 3 times and failed
+2022/11/25 17:08:54 autossh[2292]: port down, restarting ssh
+2022/11/25 17:08:54 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 17:08:54 autossh[2292]: starting ssh (count 106)
+2022/11/25 17:08:54 autossh[2292]: ssh child pid is 16893
+2022/11/25 17:08:54 autossh[2292]: check on child 16893
+2022/11/25 17:08:54 autossh[2292]: set alarm for 600 secs
+2022/11/25 17:08:54 autossh[16893]: execing /usr/bin/ssh
+2022/11/25 17:18:54 autossh[2292]: not what I sent: "annie autossh 2292 499196289 
+" : ""
+2022/11/25 17:18:54 autossh[2292]: not what I sent: "annie autossh 2292 499196289 
+" : ""
+2022/11/25 17:18:54 autossh[2292]: tried connection 3 times and failed
+2022/11/25 17:18:54 autossh[2292]: port down, restarting ssh
+2022/11/25 17:18:54 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 17:18:54 autossh[2292]: starting ssh (count 107)
+2022/11/25 17:18:54 autossh[2292]: ssh child pid is 17349
+2022/11/25 17:18:54 autossh[2292]: check on child 17349
+2022/11/25 17:18:54 autossh[2292]: set alarm for 600 secs
+2022/11/25 17:18:54 autossh[17349]: execing /usr/bin/ssh
+2022/11/25 17:28:54 autossh[2292]: not what I sent: "annie autossh 2292 1483323768 
+" : ""
+2022/11/25 17:28:54 autossh[2292]: not what I sent: "annie autossh 2292 1483323768 
+" : ""
+2022/11/25 17:28:54 autossh[2292]: tried connection 3 times and failed
+2022/11/25 17:28:54 autossh[2292]: port down, restarting ssh
+2022/11/25 17:28:54 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 17:28:54 autossh[2292]: starting ssh (count 108)
+2022/11/25 17:28:54 autossh[2292]: ssh child pid is 17795
+2022/11/25 17:28:54 autossh[2292]: check on child 17795
+2022/11/25 17:28:54 autossh[2292]: set alarm for 600 secs
+2022/11/25 17:28:54 autossh[17795]: execing /usr/bin/ssh
+2022/11/25 17:38:54 autossh[2292]: not what I sent: "annie autossh 2292 1774163883 
+" : ""
+2022/11/25 17:38:54 autossh[2292]: not what I sent: "annie autossh 2292 1774163883 
+" : ""
+2022/11/25 17:38:54 autossh[2292]: tried connection 3 times and failed
+2022/11/25 17:38:54 autossh[2292]: port down, restarting ssh
+2022/11/25 17:38:54 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 17:38:54 autossh[2292]: starting ssh (count 109)
+2022/11/25 17:38:54 autossh[2292]: ssh child pid is 18238
+2022/11/25 17:38:54 autossh[2292]: check on child 18238
+2022/11/25 17:38:54 autossh[2292]: set alarm for 600 secs
+2022/11/25 17:38:54 autossh[18238]: execing /usr/bin/ssh
+2022/11/25 17:48:54 autossh[2292]: not what I sent: "annie autossh 2292 1518085025 
+" : ""
+2022/11/25 17:48:54 autossh[2292]: not what I sent: "annie autossh 2292 1518085025 
+" : ""
+2022/11/25 17:48:54 autossh[2292]: tried connection 3 times and failed
+2022/11/25 17:48:54 autossh[2292]: port down, restarting ssh
+2022/11/25 17:48:54 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 17:48:54 autossh[2292]: starting ssh (count 110)
+2022/11/25 17:48:54 autossh[2292]: ssh child pid is 18679
+2022/11/25 17:48:54 autossh[2292]: check on child 18679
+2022/11/25 17:48:54 autossh[2292]: set alarm for 600 secs
+2022/11/25 17:48:54 autossh[18679]: execing /usr/bin/ssh
+2022/11/25 17:58:54 autossh[2292]: not what I sent: "annie autossh 2292 338050097 
+" : ""
+2022/11/25 17:58:54 autossh[2292]: not what I sent: "annie autossh 2292 338050097 
+" : ""
+2022/11/25 17:58:54 autossh[2292]: tried connection 3 times and failed
+2022/11/25 17:58:54 autossh[2292]: port down, restarting ssh
+2022/11/25 17:58:54 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 17:58:54 autossh[2292]: starting ssh (count 111)
+2022/11/25 17:58:54 autossh[2292]: ssh child pid is 19126
+2022/11/25 17:58:54 autossh[2292]: check on child 19126
+2022/11/25 17:58:54 autossh[2292]: set alarm for 600 secs
+2022/11/25 17:58:54 autossh[19126]: execing /usr/bin/ssh
+2022/11/25 18:08:54 autossh[2292]: not what I sent: "annie autossh 2292 1509450920 
+" : ""
+2022/11/25 18:09:05 autossh[2292]: not what I sent: "annie autossh 2292 1509450920 
+" : ""
+2022/11/25 18:09:05 autossh[2292]: tried connection 3 times and failed
+2022/11/25 18:09:05 autossh[2292]: port down, restarting ssh
+2022/11/25 18:09:05 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 18:09:05 autossh[2292]: starting ssh (count 112)
+2022/11/25 18:09:05 autossh[2292]: ssh child pid is 19727
+2022/11/25 18:09:05 autossh[2292]: check on child 19727
+2022/11/25 18:09:05 autossh[2292]: set alarm for 600 secs
+2022/11/25 18:09:05 autossh[19727]: execing /usr/bin/ssh
+2022/11/25 18:19:05 autossh[2292]: not what I sent: "annie autossh 2292 1718978328 
+" : "annie autossh 2292 1509450920 
+"
+2022/11/25 18:19:05 autossh[2292]: not what I sent: "annie autossh 2292 1718978328 
+" : ""
+2022/11/25 18:19:05 autossh[2292]: tried connection 3 times and failed
+2022/11/25 18:19:05 autossh[2292]: port down, restarting ssh
+2022/11/25 18:19:05 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 18:19:05 autossh[2292]: starting ssh (count 113)
+2022/11/25 18:19:05 autossh[2292]: ssh child pid is 20198
+2022/11/25 18:19:05 autossh[2292]: check on child 20198
+2022/11/25 18:19:05 autossh[2292]: set alarm for 600 secs
+2022/11/25 18:19:05 autossh[20198]: execing /usr/bin/ssh
+2022/11/25 18:29:05 autossh[2292]: not what I sent: "annie autossh 2292 1178741019 
+" : ""
+2022/11/25 18:29:05 autossh[2292]: not what I sent: "annie autossh 2292 1178741019 
+" : ""
+2022/11/25 18:29:05 autossh[2292]: tried connection 3 times and failed
+2022/11/25 18:29:05 autossh[2292]: port down, restarting ssh
+2022/11/25 18:29:05 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 18:29:05 autossh[2292]: starting ssh (count 114)
+2022/11/25 18:29:05 autossh[2292]: ssh child pid is 20645
+2022/11/25 18:29:05 autossh[2292]: check on child 20645
+2022/11/25 18:29:05 autossh[2292]: set alarm for 600 secs
+2022/11/25 18:29:05 autossh[20645]: execing /usr/bin/ssh
+2022/11/25 18:39:05 autossh[2292]: not what I sent: "annie autossh 2292 208325080 
+" : ""
+2022/11/25 18:39:05 autossh[2292]: not what I sent: "annie autossh 2292 208325080 
+" : ""
+2022/11/25 18:39:05 autossh[2292]: tried connection 3 times and failed
+2022/11/25 18:39:05 autossh[2292]: port down, restarting ssh
+2022/11/25 18:39:05 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 18:39:05 autossh[2292]: starting ssh (count 115)
+2022/11/25 18:39:05 autossh[2292]: ssh child pid is 21089
+2022/11/25 18:39:05 autossh[2292]: check on child 21089
+2022/11/25 18:39:05 autossh[2292]: set alarm for 600 secs
+2022/11/25 18:39:05 autossh[21089]: execing /usr/bin/ssh
+2022/11/25 18:49:05 autossh[2292]: not what I sent: "annie autossh 2292 225940854 
+" : ""
+2022/11/25 18:49:05 autossh[2292]: not what I sent: "annie autossh 2292 225940854 
+" : ""
+2022/11/25 18:49:05 autossh[2292]: tried connection 3 times and failed
+2022/11/25 18:49:05 autossh[2292]: port down, restarting ssh
+2022/11/25 18:49:05 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 18:49:05 autossh[2292]: starting ssh (count 116)
+2022/11/25 18:49:05 autossh[2292]: ssh child pid is 21532
+2022/11/25 18:49:05 autossh[2292]: check on child 21532
+2022/11/25 18:49:05 autossh[2292]: set alarm for 600 secs
+2022/11/25 18:49:05 autossh[21532]: execing /usr/bin/ssh
+2022/11/25 18:59:05 autossh[2292]: not what I sent: "annie autossh 2292 1392552066 
+" : ""
+2022/11/25 18:59:05 autossh[2292]: not what I sent: "annie autossh 2292 1392552066 
+" : ""
+2022/11/25 18:59:05 autossh[2292]: tried connection 3 times and failed
+2022/11/25 18:59:05 autossh[2292]: port down, restarting ssh
+2022/11/25 18:59:05 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 18:59:05 autossh[2292]: starting ssh (count 117)
+2022/11/25 18:59:05 autossh[2292]: ssh child pid is 21985
+2022/11/25 18:59:05 autossh[2292]: check on child 21985
+2022/11/25 18:59:05 autossh[2292]: set alarm for 600 secs
+2022/11/25 18:59:05 autossh[21985]: execing /usr/bin/ssh
+2022/11/25 19:09:05 autossh[2292]: not what I sent: "annie autossh 2292 1964744807 
+" : ""
+2022/11/25 19:09:05 autossh[2292]: not what I sent: "annie autossh 2292 1964744807 
+" : ""
+2022/11/25 19:09:05 autossh[2292]: tried connection 3 times and failed
+2022/11/25 19:09:05 autossh[2292]: port down, restarting ssh
+2022/11/25 19:09:05 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 19:09:05 autossh[2292]: starting ssh (count 118)
+2022/11/25 19:09:05 autossh[2292]: ssh child pid is 22427
+2022/11/25 19:09:05 autossh[2292]: check on child 22427
+2022/11/25 19:09:05 autossh[2292]: set alarm for 600 secs
+2022/11/25 19:09:05 autossh[22427]: execing /usr/bin/ssh
+2022/11/25 19:19:05 autossh[2292]: not what I sent: "annie autossh 2292 1130003890 
+" : ""
+2022/11/25 19:19:05 autossh[2292]: not what I sent: "annie autossh 2292 1130003890 
+" : ""
+2022/11/25 19:19:05 autossh[2292]: tried connection 3 times and failed
+2022/11/25 19:19:05 autossh[2292]: port down, restarting ssh
+2022/11/25 19:19:05 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 19:19:05 autossh[2292]: starting ssh (count 119)
+2022/11/25 19:19:05 autossh[2292]: ssh child pid is 22876
+2022/11/25 19:19:05 autossh[2292]: check on child 22876
+2022/11/25 19:19:05 autossh[2292]: set alarm for 600 secs
+2022/11/25 19:19:05 autossh[22876]: execing /usr/bin/ssh
+2022/11/25 19:29:05 autossh[2292]: not what I sent: "annie autossh 2292 342940316 
+" : ""
+2022/11/25 19:29:05 autossh[2292]: not what I sent: "annie autossh 2292 342940316 
+" : ""
+2022/11/25 19:29:05 autossh[2292]: tried connection 3 times and failed
+2022/11/25 19:29:05 autossh[2292]: port down, restarting ssh
+2022/11/25 19:29:05 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 19:29:05 autossh[2292]: starting ssh (count 120)
+2022/11/25 19:29:05 autossh[2292]: ssh child pid is 23319
+2022/11/25 19:29:05 autossh[2292]: check on child 23319
+2022/11/25 19:29:05 autossh[2292]: set alarm for 600 secs
+2022/11/25 19:29:05 autossh[23319]: execing /usr/bin/ssh
+2022/11/25 19:39:05 autossh[2292]: not what I sent: "annie autossh 2292 1769982984 
+" : ""
+2022/11/25 19:39:05 autossh[2292]: not what I sent: "annie autossh 2292 1769982984 
+" : ""
+2022/11/25 19:39:05 autossh[2292]: tried connection 3 times and failed
+2022/11/25 19:39:05 autossh[2292]: port down, restarting ssh
+2022/11/25 19:39:05 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 19:39:05 autossh[2292]: starting ssh (count 121)
+2022/11/25 19:39:05 autossh[2292]: ssh child pid is 23763
+2022/11/25 19:39:05 autossh[2292]: check on child 23763
+2022/11/25 19:39:05 autossh[2292]: set alarm for 600 secs
+2022/11/25 19:39:05 autossh[23763]: execing /usr/bin/ssh
+2022/11/25 19:49:05 autossh[2292]: not what I sent: "annie autossh 2292 952739797 
+" : ""
+2022/11/25 19:49:05 autossh[2292]: not what I sent: "annie autossh 2292 952739797 
+" : ""
+2022/11/25 19:49:05 autossh[2292]: tried connection 3 times and failed
+2022/11/25 19:49:05 autossh[2292]: port down, restarting ssh
+2022/11/25 19:49:05 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 19:49:05 autossh[2292]: starting ssh (count 122)
+2022/11/25 19:49:05 autossh[2292]: ssh child pid is 24206
+2022/11/25 19:49:05 autossh[2292]: check on child 24206
+2022/11/25 19:49:05 autossh[2292]: set alarm for 600 secs
+2022/11/25 19:49:05 autossh[24206]: execing /usr/bin/ssh
+2022/11/25 19:59:05 autossh[2292]: not what I sent: "annie autossh 2292 1439452539 
+" : ""
+2022/11/25 19:59:05 autossh[2292]: not what I sent: "annie autossh 2292 1439452539 
+" : ""
+2022/11/25 19:59:05 autossh[2292]: tried connection 3 times and failed
+2022/11/25 19:59:05 autossh[2292]: port down, restarting ssh
+2022/11/25 19:59:05 autossh[2292]: checking for grace period, tries = 0
+2022/11/25 19:59:05 autossh[2292]: starting ssh (count 123)
+2022/11/25 19:59:05 autossh[2292]: ssh child pid is 24657
+2022/11/25 19:59:05 autossh[2292]: check on child 24657
+2022/11/25 19:59:05 autossh[2292]: set alarm for 600 secs
+2022/11/25 19:59:05 autossh[24657]: execing /usr/bin/ssh
