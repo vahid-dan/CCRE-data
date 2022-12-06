@@ -82032,3 +82032,14 @@ and the repository exists.
 
 Logs:
 
+[annie-logs a0f0d2f] 12/06/22 02:05:01 EST: Logs
+ 4 files changed, 176 insertions(+)
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+remote: This repository moved. Please use the new location:        
+remote:   git@github.com:FLARE-forecast/CCRE-data.git        
+To github.com:FLARE-forecast/CCRE.git
+   b60b38e..a0f0d2f  annie-logs -> annie-logs
