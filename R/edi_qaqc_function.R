@@ -1,6 +1,6 @@
 
 
-qaqc_ccr <- function(data_file, maintenance_file, output_file)
+qaqc_ccr <- function(data_file, maintenance_file, output_file, start_date, end_date)
 {
   
   CATPRES_COL_NAMES = c("DateTime", "RECORD", "CR3000Battery_V", "CR3000Panel_Temp_C", 
@@ -24,6 +24,33 @@ qaqc_ccr <- function(data_file, maintenance_file, output_file)
   ccrwater <- read_csv(data_file, skip = 1, col_names = CATPRES_COL_NAMES,
                        col_types = cols(.default = col_double(), DateTime = col_datetime()))
   
+  log_read <- read_csv(maintenance_file, col_types = cols(
+    .default = col_character(),
+    TIMESTAMP_start = col_datetime("%Y-%m-%d %H:%M:%S%*"),
+    TIMESTAMP_end = col_datetime("%Y-%m-%d %H:%M:%S%*"),
+    flag = col_integer()
+  ))
+  
+  log <- log_read
+  
+  ### identify the date subsetting for the data
+  if (!is.null(start_date)){
+    ccrwater <- ccrwater %>% 
+      filter(DateTime >= start_date)
+    log <- log %>% 
+      filter(TIMESTAMP_start >= start_date)
+  }
+  
+  if(!is.null(end_date)){
+    ccrwater <- ccrwater %>% 
+      filter(DateTime <= end_date)
+    log <- log %>% 
+      filter(TIMESTAMP_end <= end_date)
+  }
+  
+  if (nrow(log) == 0){
+    log <- log_read
+  }
   
   # Drop NAs 
   ccrwater<-ccrwater%>%drop_na(DateTime)
@@ -83,12 +110,12 @@ qaqc_ccr <- function(data_file, maintenance_file, output_file)
   ####### Take out values in Maintenance Log #########  
   #Read in the maintenance log 
   
-  log <- read_csv(maintenance_file, col_types = cols(
-    .default = col_character(),
-    TIMESTAMP_start = col_datetime("%Y-%m-%d %H:%M:%S%*"),
-    TIMESTAMP_end = col_datetime("%Y-%m-%d %H:%M:%S%*"),
-    flag = col_integer()
-  ))
+  # log <- read_csv(maintenance_file, col_types = cols(
+  #   .default = col_character(),
+  #   TIMESTAMP_start = col_datetime("%Y-%m-%d %H:%M:%S%*"),
+  #   TIMESTAMP_end = col_datetime("%Y-%m-%d %H:%M:%S%*"),
+  #   flag = col_integer()
+  # ))
   
   # modify ccrwater based on the information in the log
   for(i in 1:nrow(log))
