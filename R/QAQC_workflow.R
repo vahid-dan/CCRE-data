@@ -6,9 +6,8 @@ library(EDIutils)
 library(xml2)
 library(lubridate)
 
-#home_directory <- here::here()
-#setwd(home_directory)
-setwd('/home/rstudio/CCRE-data')
+home_directory <- here::here()
+setwd(home_directory)
 
 ### pull in QAQC function directly from EDI -- keep for now, but will need to update the function
 #source('https://portal-s.edirepository.org/nis/dataviewer?packageid=edi.157.25&entityid=0531eb02833855f84d0b3b54c41ec61e')
