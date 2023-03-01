@@ -31,3 +31,16 @@ CCRM, 2022-10-04 00:34:00 EST, 2022-10-04 00:34:00 EST, SR01Up_Avg, 13, 4, very 
 CCRM, 2022-10-04 00:34:00 EST, 2022-10-04 00:34:00 EST, SR01Dn_Avg, 14, 4, very high SR down value which could be related to power so eliminating for all sensors 
 CCRM, 2022-10-04 00:34:00 EST, 2022-10-04 00:34:00 EST, IR01DnCo_Avg, 16, 4, very high SR down value which could be related to power so eliminating for all sensors 
 CCRM, 2022-10-04 00:34:00 EST, 2022-10-04 00:34:00 EST, IR01UpCo_Avg, 15, 4, very high SR down value which could be related to power so eliminating for all sensors 
+CCRM, 2023-01-24 17:00:00 EST, 2023-01-24 17:00:00 EST, PAR_Tot_Tot, 6, 1, Reinstalling PAR sensor and wrong multiplier added for this observation
+CCRM, 2023-02-28 06:15:00 EST, 2023-02-28 12:11:00 EST, WindSpeed, 11, 1, Met station blew over so sensors out of position and eliminated observations
+CCRM, 2023-02-28 06:15:00 EST, 2023-02-28 12:11:00 EST, WindDir, 12, 1, Met station blew over so sensors out of position and eliminated observations
+CCRM, 2023-02-28 06:15:00 EST, 2023-02-28 12:11:00 EST, SR01Up_Avg, 13, 1, Met station blew over so sensors out of position and eliminated observations 
+CCRM, 2023-02-28 06:15:00 EST, 2023-02-28 12:11:00 EST, SR01Dn_Avg, 14, 1, Met station blew over so sensors out of position and eliminated observations 
+CCRM, 2023-02-28 06:15:00 EST, 2023-02-28 12:11:00 EST, IR01DnCo_Avg, 16, 1, Met station blew over so sensors out of position and eliminated observations 
+CCRM, 2023-02-28 06:15:00 EST, 2023-02-28 12:11:00 EST, IR01UpCo_Avg, 15, 1, Met station blew over so sensors out of position and eliminated observations
+CCRM, 2023-02-28 06:15:00 EST, 2023-02-28 12:11:00 EST, PAR_Den_Avg, 5, 1, Met station blew over so sensors out of position and eliminated observations
+CCRM, 2023-02-28 06:15:00 EST, 2023-02-28 12:11:00 EST, PAR_Tot_Tot, 6, 1, Met station blew over so sensors out of position and eliminated observations
+CCRM, 2023-02-28 06:15:00 EST, 2023-02-28 12:11:00 EST, Rain_mm_Tot, 10, 5, Met station blew over but sensors not affected 
+CCRM, 2023-02-28 06:15:00 EST, 2023-02-28 12:11:00 EST, AirTC_Avg, 8, 5, Met station blew over but sensors not affected 
+CCRM, 2023-02-28 06:15:00 EST, 2023-02-28 12:11:00 EST, RH, 9, 5, Met station blew over but sensors not affected 
+CCRM, 2023-02-28 06:15:00 EST, 2023-02-28 12:11:00 EST, BP, 7, 5, Met station blew over but sensors not affected
