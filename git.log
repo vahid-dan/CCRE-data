@@ -97596,3 +97596,28 @@ remote: This repository moved. Please use the new location:
 remote:   git@github.com:FLARE-forecast/CCRE-data.git        
 To github.com:FLARE-forecast/CCRE.git
    56089e7..0cc46d2  annie-logs -> annie-logs
+[annie-logs 45fc07b] 03/14/23 00:27:31 EST: Logs
+ 2 files changed, 14 insertions(+)
+Already up to date.
+remote: This repository moved. Please use the new location:        
+remote:   git@github.com:FLARE-forecast/CCRE-data.git        
+To github.com:FLARE-forecast/CCRE.git
+   0cc46d2..45fc07b  annie-logs -> annie-logs
+
+############################ annie - 03/14/23 02:05:01 EST ############################
+
+Data:
+
+[ccre-dam-data b10892c] 03/14/23 02:05:01 EST: Git Backup
+ 2 files changed, 100 insertions(+)
+From github.com:FLARE-forecast/CCRE-data
+   7a7f088..2bc0e2f  ccre-dam-data -> origin/ccre-dam-data
+Merge made by the 'recursive' strategy.
+ ccre-waterquality_L1.csv | 26 ++++++++++++++++++++++++++
+ 1 file changed, 26 insertions(+)
+packet_write_wait: Connection to 140.82.112.3 port 22: Broken pipe
+fatal: The remote end hung up unexpectedly
+fatal: The remote end hung up unexpectedly
+
+Logs:
+
