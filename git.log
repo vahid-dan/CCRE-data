@@ -100376,3 +100376,72 @@ fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights
 and the repository exists.
+[annie-logs afc0534] 03/25/23 14:05:01 EST: Logs
+ 1 file changed, 40 insertions(+)
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
+Someone could be eavesdropping on you right now (man-in-the-middle attack)!
+It is also possible that a host key has just been changed.
+The fingerprint for the RSA key sent by the remote host is
+SHA256:uNiVztksCsDhcc0u9e8BujQXVUpKZIDTMczCvj3tD2s.
+Please contact your system administrator.
+Add correct host key in /home/scc/.ssh/known_hosts to get rid of this message.
+Offending RSA key in /home/scc/.ssh/known_hosts:3
+  remove with:
+  ssh-keygen -f "/home/scc/.ssh/known_hosts" -R "github.com"
+RSA host key for github.com has changed and you have requested strict checking.
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
+Someone could be eavesdropping on you right now (man-in-the-middle attack)!
+It is also possible that a host key has just been changed.
+The fingerprint for the RSA key sent by the remote host is
+SHA256:uNiVztksCsDhcc0u9e8BujQXVUpKZIDTMczCvj3tD2s.
+Please contact your system administrator.
+Add correct host key in /home/scc/.ssh/known_hosts to get rid of this message.
+Offending RSA key in /home/scc/.ssh/known_hosts:3
+  remove with:
+  ssh-keygen -f "/home/scc/.ssh/known_hosts" -R "github.com"
+RSA host key for github.com has changed and you have requested strict checking.
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+############################ annie - 03/25/23 16:50:03 EST ############################
+
+Data:
+
+[ccre-dam-data d81c79c] 03/25/23 16:50:03 EST: Git Backup
+ 2 files changed, 186 insertions(+)
+From github.com:FLARE-forecast/CCRE-data
+   d058fc2..d0c2c9d  ccre-dam-data -> origin/ccre-dam-data
+Merge made by the 'recursive' strategy.
+ ccre-waterquality_L1.csv | 38 +++++++++++++++++++++++++++++++++++++-
+ 1 file changed, 37 insertions(+), 1 deletion(-)
+remote: warning: See http://git.io/iEPt8g for more information.        
+remote: warning: File ccre-met.csv is 76.29 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File ccre-met.csv is 76.11 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File ccre-met.csv is 76.39 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File ccre-met.csv is 76.37 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File ccre-met.csv is 76.24 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File ccre-met.csv is 76.20 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File ccre-met.csv is 76.16 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File ccre-met.csv is 76.10 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File ccre-met.csv is 76.33 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: File ccre-met.csv is 76.28 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To github.com:FLARE-forecast/CCRE-data.git
+   d0c2c9d..5a3e023  ccre-dam-data -> ccre-dam-data
+
+Logs:
+
