@@ -100727,3 +100727,32 @@ remote: This repository moved. Please use the new location:
 remote:   git@github.com:FLARE-forecast/CCRE-data.git        
 To github.com:FLARE-forecast/CCRE.git
    9f896fd..5c2d687  annie-logs -> annie-logs
+[annie-logs d07a747] 03/27/23 02:05:01 EST: Logs
+ 1 file changed, 7 insertions(+)
+Already up to date.
+remote: This repository moved. Please use the new location:        
+remote:   git@github.com:FLARE-forecast/CCRE-data.git        
+To github.com:FLARE-forecast/CCRE.git
+   5c2d687..d07a747  annie-logs -> annie-logs
+
+############################ annie - 03/27/23 08:05:01 EST ############################
+
+Data:
+
+[ccre-dam-data 9a2e6ea] 03/27/23 08:05:01 EST: Git Backup
+ 2 files changed, 396 insertions(+)
+From github.com:FLARE-forecast/CCRE-data
+   c41e10b..ece049f  ccre-dam-data -> origin/ccre-dam-data
+Merge made by the 'recursive' strategy.
+ ccre-waterquality_L1.csv | 10 ++++++++++
+ 1 file changed, 10 insertions(+)
+remote: warning: See http://git.io/iEPt8g for more information.        
+remote: warning: File ccre-met.csv is 76.68 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+remote: fatal error in commit_refs        
+To github.com:FLARE-forecast/CCRE-data.git
+ ! [remote rejected] ccre-dam-data -> ccre-dam-data (failure)
+error: failed to push some refs to 'git@github.com:FLARE-forecast/CCRE-data.git'
+
+Logs:
+
