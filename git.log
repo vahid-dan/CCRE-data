@@ -102052,3 +102052,30 @@ remote: This repository moved. Please use the new location:
 remote:   git@github.com:FLARE-forecast/CCRE-data.git        
 To github.com:FLARE-forecast/CCRE.git
    ce407e0..75de21d  annie-logs -> annie-logs
+[annie-logs a4d235e] 04/04/23 00:27:42 EST: Logs
+ 2 files changed, 50 insertions(+)
+Already up to date.
+remote: This repository moved. Please use the new location:        
+remote:   git@github.com:FLARE-forecast/CCRE-data.git        
+To github.com:FLARE-forecast/CCRE.git
+   75de21d..a4d235e  annie-logs -> annie-logs
+
+############################ annie - 04/04/23 02:05:01 EST ############################
+
+Data:
+
+[ccre-dam-data 4e041d2] 04/04/23 02:05:01 EST: Git Backup
+ 2 files changed, 100 insertions(+)
+From github.com:FLARE-forecast/CCRE-data
+   677a067..2c9ddb8  ccre-dam-data -> origin/ccre-dam-data
+Merge made by the 'recursive' strategy.
+ ccre-waterquality_L1.csv | 26 ++++++++++++++++++++++++++
+ 1 file changed, 26 insertions(+)
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File ccre-met.csv is 78.03 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To github.com:FLARE-forecast/CCRE-data.git
+   2c9ddb8..8519587  ccre-dam-data -> ccre-dam-data
+
+Logs:
+
