@@ -103324,3 +103324,32 @@ remote: This repository moved. Please use the new location:
 remote:   git@github.com:FLARE-forecast/CCRE-data.git        
 To github.com:FLARE-forecast/CCRE.git
    ce0e80a..c8e2de5  annie-logs -> annie-logs
+[annie-logs 2d4c4b8] 04/11/23 08:05:01 EST: Logs
+ 1 file changed, 8 insertions(+)
+Already up to date.
+remote: Resolving deltas:   0% (0/2)        remote: Resolving deltas:  50% (1/2)        remote: Resolving deltas: 100% (2/2)        remote: Resolving deltas: 100% (2/2), completed with 2 local objects.        
+remote: This repository moved. Please use the new location:        
+remote:   git@github.com:FLARE-forecast/CCRE-data.git        
+To github.com:FLARE-forecast/CCRE.git
+   c8e2de5..2d4c4b8  annie-logs -> annie-logs
+
+############################ annie - 04/11/23 14:05:01 EST ############################
+
+Data:
+
+[ccre-dam-data 16198b6] 04/11/23 14:05:01 EST: Git Backup
+ 2 files changed, 396 insertions(+)
+From github.com:FLARE-forecast/CCRE-data
+   ee6685e..4fd8e83  ccre-dam-data -> origin/ccre-dam-data
+Merge made by the 'recursive' strategy.
+ ccre-waterquality_L1.csv | 36 ++++++++++++++++++++++++++++++++++++
+ 1 file changed, 36 insertions(+)
+remote: Resolving deltas:   0% (0/4)        remote: Resolving deltas:  25% (1/4)        remote: Resolving deltas:  50% (2/4)        remote: Resolving deltas:  50% (2/4)        remote: Resolving deltas:  75% (3/4)        remote: Resolving deltas:  75% (3/4)        remote: Resolving deltas: 100% (4/4)        remote: Resolving deltas: 100% (4/4), completed with 3 local objects.        
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File ccre-met.csv is 79.34 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To github.com:FLARE-forecast/CCRE-data.git
+   4fd8e83..f60c245  ccre-dam-data -> ccre-dam-data
+
+Logs:
+
