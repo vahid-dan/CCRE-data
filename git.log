@@ -103398,3 +103398,32 @@ remote: This repository moved. Please use the new location:
 remote:   git@github.com:FLARE-forecast/CCRE-data.git        
 To github.com:FLARE-forecast/CCRE.git
    02e6f51..afe6204  annie-logs -> annie-logs
+[annie-logs 6eeadcc] 04/11/23 20:05:01 EST: Logs
+ 1 file changed, 8 insertions(+)
+Already up to date.
+remote: Resolving deltas:   0% (0/2)        remote: Resolving deltas:  50% (1/2)        remote: Resolving deltas: 100% (2/2)        remote: Resolving deltas: 100% (2/2), completed with 2 local objects.        
+remote: This repository moved. Please use the new location:        
+remote:   git@github.com:FLARE-forecast/CCRE-data.git        
+To github.com:FLARE-forecast/CCRE.git
+   afe6204..6eeadcc  annie-logs -> annie-logs
+
+############################ annie - 04/12/23 00:27:45 EST ############################
+
+Data:
+
+[ccre-dam-data 12fa28e] 04/12/23 00:27:45 EST: Git Backup
+ 2 files changed, 296 insertions(+)
+From github.com:FLARE-forecast/CCRE-data
+   7eadf63..dff1853  ccre-dam-data -> origin/ccre-dam-data
+Merge made by the 'recursive' strategy.
+ ccre-waterquality_L1.csv | 38 +++++++++++++++++++++++++++++++++++++-
+ 1 file changed, 37 insertions(+), 1 deletion(-)
+remote: Resolving deltas:   0% (0/4)        remote: Resolving deltas:  25% (1/4)        remote: Resolving deltas:  50% (2/4)        remote: Resolving deltas:  50% (2/4)        remote: Resolving deltas:  75% (3/4)        remote: Resolving deltas:  75% (3/4)        remote: Resolving deltas: 100% (4/4)        remote: Resolving deltas: 100% (4/4), completed with 3 local objects.        
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File ccre-met.csv is 79.42 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To github.com:FLARE-forecast/CCRE-data.git
+   dff1853..00f72c0  ccre-dam-data -> ccre-dam-data
+
+Logs:
+
