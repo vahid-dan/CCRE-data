@@ -6,7 +6,7 @@ library(EDIutils)
 library(xml2)
 library(lubridate)
 
-install.packages('suncalc')
+#install.packages('suncalc')
 library(suncalc)
 
 
