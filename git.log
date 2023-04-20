@@ -104919,3 +104919,33 @@ remote: This repository moved. Please use the new location:
 remote:   git@github.com:FLARE-forecast/CCRE-data.git        
 To github.com:FLARE-forecast/CCRE.git
    872b81b..0d8b473  annie-logs -> annie-logs
+[annie-logs d2a8a27] 04/19/23 20:05:01 EST: Logs
+ 1 file changed, 8 insertions(+)
+Already up to date.
+remote: Resolving deltas:   0% (0/2)        remote: Resolving deltas:  50% (1/2)        remote: Resolving deltas: 100% (2/2)        remote: Resolving deltas: 100% (2/2), completed with 2 local objects.        
+remote: This repository moved. Please use the new location:        
+remote:   git@github.com:FLARE-forecast/CCRE-data.git        
+To github.com:FLARE-forecast/CCRE.git
+   0d8b473..d2a8a27  annie-logs -> annie-logs
+
+############################ annie - 04/20/23 00:27:54 EST ############################
+
+Data:
+
+[ccre-dam-data 78469471] 04/20/23 00:27:54 EST: Git Backup
+ 2 files changed, 296 insertions(+)
+From github.com:FLARE-forecast/CCRE-data
+   4fc49679..45b3584e  ccre-dam-data -> origin/ccre-dam-data
+Merge made by the 'recursive' strategy.
+ ccre-waterquality_L1.csv |  36 +++++
+ ccre_met_L1.csv          | 360 +++++++++++++++++++++++++++++++++++++++++++++++
+ 2 files changed, 396 insertions(+)
+remote: Resolving deltas:   0% (0/4)        remote: Resolving deltas:  25% (1/4)        remote: Resolving deltas:  50% (2/4)        remote: Resolving deltas:  50% (2/4)        remote: Resolving deltas:  75% (3/4)        remote: Resolving deltas:  75% (3/4)        remote: Resolving deltas: 100% (4/4)        remote: Resolving deltas: 100% (4/4), completed with 3 local objects.        
+remote: warning: See https://gh.io/lfs for more information.        
+remote: warning: File ccre-met.csv is 80.81 MB; this is larger than GitHub's recommended maximum file size of 50.00 MB        
+remote: warning: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To github.com:FLARE-forecast/CCRE-data.git
+   45b3584e..e66a05ba  ccre-dam-data -> ccre-dam-data
+
+Logs:
+
