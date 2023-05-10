@@ -23,7 +23,9 @@ jobs:
            R -e 'install.packages(c("EDIutils","xml2","here","suncalc"))'
            Rscript $GITHUB_WORKSPACE/R/QAQC_workflow.R
            Rscript $GITHUB_WORKSPACE/R/QAQC_met_workflow.R
-
+       - name: Checkout to ccre-dam-data-qaqc branch
+         run: |
+           git checkout ccre-dam-data-qaqc || git checkout -b ccre-dam-data-qaqc
        - name: Commit files
          run: |
             git config --global --add safe.directory $GITHUB_WORKSPACE
@@ -32,4 +34,4 @@ jobs:
             git add ccre-waterquality_L1.csv
             git add ccre_met_L1.csv
             git commit -m "Updating QAQC files" || echo "No changes to commit"
-            git push || echo "No changes to commit"
+            git push origin ccre-dam-data-qaqc || echo "No changes to commit"
