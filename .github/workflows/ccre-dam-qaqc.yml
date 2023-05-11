@@ -40,3 +40,4 @@ jobs:
             git push https://${TOKEN}:x-oauth-basic@github.com/vahid-dan/CCRE-data.git ccre-dam-data-qaqc || echo "No changes to commit"
          env:
             TOKEN: ${{ secrets.GIT_HUB_TOKEN }}
+            
