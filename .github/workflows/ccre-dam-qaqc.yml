@@ -29,16 +29,12 @@ jobs:
             git config --global --add safe.directory /__w/CCRE-data/CCRE-data
             git config --local user.name "$GITHUB_ACTOR"
             git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
-       - name: Stash changes
-         run: |
-            git add ccre-waterquality_L1.csv
-            git add ccre_met_L1.csv
-            git stash
        - name: Checkout to ccre-dam-data-qaqc branch
          run: |
            git checkout ccre-dam-data-qaqc || git checkout -b ccre-dam-data-qaqc
-       - name: Apply stash and commit
+       - name: Commit files
          run: |
-            git stash pop
+            git add ccre-waterquality_L1.csv
+            git add ccre_met_L1.csv
             git commit -m "Updating QAQC files" || echo "No changes to commit"
             git push origin ccre-dam-data-qaqc || echo "No changes to commit"
