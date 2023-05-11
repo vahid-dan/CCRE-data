@@ -37,7 +37,7 @@ jobs:
             git add ccre-waterquality_L1.csv
             git add ccre_met_L1.csv
             git commit -m "Updating QAQC files" || echo "No changes to commit"
-            git push https://${GIT_HUB_TOKEN}:x-oauth-basic@github.com/vahid-dan/CCRE-data.git ccre-dam-data-qaqc || echo "No changes to commit"
+            git push https://${TOKEN}:x-oauth-basic@github.com/vahid-dan/CCRE-data.git ccre-dam-data-qaqc || echo "No changes to commit"
          env:
             TOKEN: ${{ secrets.GIT_HUB_TOKEN }}
             
