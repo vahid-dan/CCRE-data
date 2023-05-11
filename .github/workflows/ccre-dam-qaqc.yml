@@ -1,7 +1,7 @@
 name: QAQC dam data
 on:
   push:
-    branches: [ ccre-dam-data ]
+    branches: [ccre-dam-data]
   workflow_dispatch:
 
 jobs:
@@ -10,8 +10,9 @@ jobs:
     container:
       image: rocker/tidyverse:latest
     steps:
-      - name: Print GITHUB_ACTOR value
-        run: echo $GITHUB_ACTOR
+      - name: Configure Git Remote
+        run: |
+          git remote set-url origin https://$GITHUB_ACTOR:${{ secrets.GIT_HUB_TOKEN }}@github.com/vahid-dan/CCRE-data.git
       - name: Checkout repo
         uses: actions/checkout@v2
         with:
