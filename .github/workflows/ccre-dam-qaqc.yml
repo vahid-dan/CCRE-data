@@ -12,7 +12,7 @@ jobs:
     steps:
       - name: Configure Git Remote
         run: |
-          git remote set-url origin https://$GITHUB_ACTOR:${{ secrets.GIT_HUB_TOKEN }}@github.com/vahid-dan/CCRE-data.git
+          git remote set-url origin "https://$GITHUB_ACTOR:${{ secrets.GIT_HUB_TOKEN }}@github.com/vahid-dan/CCRE-data.git"
       - name: Checkout repo
         uses: actions/checkout@v2
         with:
