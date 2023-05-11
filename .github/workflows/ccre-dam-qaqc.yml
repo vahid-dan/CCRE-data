@@ -39,5 +39,5 @@ jobs:
             git commit -m "Updating QAQC files" || echo "No changes to commit"
             git push https://${TOKEN}:x-oauth-basic@github.com/vahid-dan/CCRE-data.git ccre-dam-data-qaqc || echo "No changes to commit"
          env:
-            TOKEN: ${{ secrets.GIT_HUB_TOKEN }}
+            TOKEN: ${{ secrets.GITHUB_TOKEN }}
             
