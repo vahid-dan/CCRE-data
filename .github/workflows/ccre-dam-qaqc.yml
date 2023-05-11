@@ -10,9 +10,21 @@ jobs:
     container:
       image: rocker/tidyverse:latest
     steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+        with:
+          ref: ccre-dam-data
+          token: ${{ secrets.GIT_HUB_TOKEN }}
+          persist-credentials: false
+          fetch-depth: 1
+
+      - name: Change working directory
+        run: cd $GITHUB_WORKSPACE
+
       - name: Configure Git Remote
         run: |
           git remote set-url origin "https://$GITHUB_ACTOR:${{ secrets.GIT_HUB_TOKEN }}@github.com/vahid-dan/CCRE-data.git"
+
       - name: Checkout repo
         uses: actions/checkout@v2
         with:
