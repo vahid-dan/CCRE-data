@@ -31,6 +31,8 @@ jobs:
 
       - name: Checkout branch
         run: |
+          git config --global user.email "v.daneshmand@gmail.com"
+          git config --global user.name "vahid-dan"
           git switch ccre-dam-data-qaqc
           git add ccre-dam-data-qaqc/ccre-waterquality.csv
           git add ccre-dam-data-qaqc/ccre-met.csv
