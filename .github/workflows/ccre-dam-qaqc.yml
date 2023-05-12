@@ -23,11 +23,11 @@ jobs:
       - name: Copy files to ccre-dam-data-qaqc branch
         run: |
           cp ccre-waterquality.csv $GITHUB_WORKSPACE/ccre-dam-data-qaqc/ccre-waterquality.csv
-          cp ccre-met.csv $GITHUB_WORKSPACE/ccre-dam-data-qaqc/ccre_met.csv
+          cp ccre-met.csv $GITHUB_WORKSPACE/ccre-dam-data-qaqc/ccre-met.csv
 
       - name: Checkout branch
         run: |
-          git config --global --add safe.directory $GITHUB_WORKSPACE
+          git config --global --add safe.directory -- $GITHUB_WORKSPACE
           git config --local user.name "$GITHUB_ACTOR"
           git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
           git checkout ccre-dam-data-qaqc
