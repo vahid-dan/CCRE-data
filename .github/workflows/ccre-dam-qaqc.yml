@@ -23,7 +23,7 @@ jobs:
       - name: Copy files to ccre-dam-data-qaqc branch
         run: |
           cp ccre-waterquality.csv $GITHUB_WORKSPACE/ccre-dam-data-qaqc/ccre-waterquality.csv
-          cp ccre_met.csv $GITHUB_WORKSPACE/ccre-dam-data-qaqc/ccre_met.csv
+          cp ccre-met.csv $GITHUB_WORKSPACE/ccre-dam-data-qaqc/ccre_met.csv
 
       - name: Checkout branch
         run: |
@@ -32,7 +32,7 @@ jobs:
           git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
           git checkout ccre-dam-data-qaqc
           git add ccre-dam-data-qaqc/ccre-waterquality.csv
-          git add ccre-dam-data-qaqc/ccre_met.csv
+          git add ccre-dam-data-qaqc/ccre-met.csv
           git commit -m "Updating QAQC files" || echo "No changes to commit"
 
       - name: Run QAQC script
@@ -44,6 +44,6 @@ jobs:
       - name: Commit files
         run: |
           git add ccre-waterquality_L1.csv
-          git add ccre_met_L1.csv
+          git add ccre-met_L1.csv
           git commit -m "Updating QAQC files" || echo "No changes to commit"
           git push || echo "No changes to commit"
