@@ -1,12 +1,10 @@
 name: QAQC dam data
 on:
    push:
-      branches: [ ccre-dam-data ]
+      #branches: [ ccre-dam-data ]
       #paths: 
       #- 'ccre-waterquality.csv'
    workflow_dispatch:
-
-
 jobs:
   qaqc_run:
      runs-on: ubuntu-latest
@@ -18,6 +16,19 @@ jobs:
          with:
            ref: ccre-dam-data
            fetch-depth: 1
+       - name: Copy files to ccre-dam-data-qaqc branch
+         run: |
+           cp ccre-waterquality.csv $GITHUB_WORKSPACE/ccre-dam-data-qaqc/ccre-waterquality.csv
+           cp ccre_met.csv $GITHUB_WORKSPACE/ccre-dam-data-qaqc/ccre_met.csv
+       - name: Checkout branch
+         run: |
+            git config --global --add safe.directory $GITHUB_WORKSPACE
+            git config --local user.name "$GITHUB_ACTOR"
+            git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
+            git checkout ccre-dam-data-qaqc
+            git add ccre-dam-data-qaqc/ccre-waterquality.csv
+            git add ccre-dam-data-qaqc/ccre_met.csv
+            git commit -m "Updating QAQC files" || echo "No changes to commit"
        - name: Run QAQC script
          run:  | 
            R -e 'install.packages(c("EDIutils","xml2","here","suncalc"))'
@@ -26,11 +37,8 @@ jobs:
 
        - name: Commit files
          run: |
-            git config --global --add safe.directory $GITHUB_WORKSPACE
-            git config --local user.name "$GITHUB_ACTOR"
-            git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
-            git checkout ccre-dam-data-qaqc
             git add ccre-waterquality_L1.csv
             git add ccre_met_L1.csv
             git commit -m "Updating QAQC files" || echo "No changes to commit"
             git push || echo "No changes to commit"
+
