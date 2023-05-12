@@ -27,13 +27,14 @@ jobs:
 
       - name: Checkout branch
         run: |
-          git config --global --add safe.directory -- $GITHUB_WORKSPACE
-          git config --local user.name "$GITHUB_ACTOR"
-          git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
           git checkout ccre-dam-data-qaqc
           git add ccre-dam-data-qaqc/ccre-waterquality.csv
           git add ccre-dam-data-qaqc/ccre-met.csv
           git commit -m "Updating QAQC files" || echo "No changes to commit"
+
+      - name: Set safe.directory
+        run: |
+          echo '/__w/CCRE-data/CCRE-data/ccre-dam-data-qaqc' > .github/safe.directory
 
       - name: Run QAQC script
         run: |
