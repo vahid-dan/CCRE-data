@@ -31,7 +31,7 @@ jobs:
 
       - name: Checkout branch
         run: |
-          git checkout ccre-dam-data-qaqc
+          git switch ccre-dam-data-qaqc
           git add ccre-dam-data-qaqc/ccre-waterquality.csv
           git add ccre-dam-data-qaqc/ccre-met.csv
           git commit -m "Updating QAQC files" || echo "No changes to commit"
