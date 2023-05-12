@@ -20,6 +20,11 @@ jobs:
       - name: Create ccre-dam-data-qaqc directory
         run: mkdir $GITHUB_WORKSPACE/ccre-dam-data-qaqc
 
+      - name: Remove existing files
+        run: |
+          rm -f $GITHUB_WORKSPACE/ccre-dam-data-qaqc/ccre-waterquality.csv
+          rm -f $GITHUB_WORKSPACE/ccre-dam-data-qaqc/ccre-met.csv
+
       - name: Copy files to ccre-dam-data-qaqc branch
         run: |
           ls -l
