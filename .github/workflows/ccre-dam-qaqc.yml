@@ -35,6 +35,10 @@ jobs:
         run: |
           git config --global --add safe.directory /__w/CCRE-data/CCRE-data
 
+      - name: Remove untracked files
+        run: |
+          git clean -dff
+
       - name: Checkout branch
         run: |
           git config --global user.email "v.daneshmand@gmail.com"
