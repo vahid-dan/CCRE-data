@@ -23,8 +23,8 @@ jobs:
       - name: Copy files to ccre-dam-data-qaqc branch
         run: |
           ls -l
-          cp ccre-waterquality.csv $GITHUB_WORKSPACE/ccre-dam-data-qaqc/ccre-waterquality.csv
-          cp ccre-met.csv $GITHUB_WORKSPACE/ccre-dam-data-qaqc/ccre-met.csv
+          cp ccre-waterquality.csv $GITHUB_WORKSPACE/ccre-waterquality.csv
+          cp ccre-met.csv $GITHUB_WORKSPACE/ccre-met.csv
 
       - name: Configure Git
         run: |
@@ -36,8 +36,8 @@ jobs:
           git config --global user.name "vahid-dan"
           git switch ccre-dam-data-qaqc
           ls -l
-          git add ccre-dam-data-qaqc/ccre-waterquality.csv
-          git add ccre-dam-data-qaqc/ccre-met.csv
+          git add ccre-waterquality.csv
+          git add ccre-met.csv
           git commit -m "Updating QAQC files" || echo "No changes to commit"
           git push || echo "No changes to commit"
 
