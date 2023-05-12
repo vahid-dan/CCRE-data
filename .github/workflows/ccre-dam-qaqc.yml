@@ -36,11 +36,8 @@ jobs:
           git config --global user.name "vahid-dan"
           git switch ccre-dam-data-qaqc
           ls -l
-          mv ccre-dam-data-qaqc/ccre-waterquality.csv ccre-waterquality.csv
-          mv ccre-dam-data-qaqc/ccre-waterquality.csv ccre-met.csv
-          rm ccre-dam-data-qaqc
-          git add ccre-waterquality.csv
-          git add ccre-met.csv
+          git add ccre-dam-data-qaqc/ccre-waterquality.csv
+          git add ccre-dam-data-qaqc/ccre-met.csv
           git commit -m "Updating QAQC files" || echo "No changes to commit"
           git push || echo "No changes to commit"
 
