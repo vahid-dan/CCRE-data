@@ -1,65 +1,39 @@
 name: QAQC dam data
 on:
-  push:
-    branches:
-      - ccre-dam-data
-  workflow_dispatch:
+   push:
+      branches: [ ccre-dam-data ]
+      #paths: 
+      #- 'ccre-waterquality.csv'
+   workflow_dispatch:
 
 jobs:
   qaqc_run:
-    runs-on: ubuntu-latest
-    container:
+     runs-on: ubuntu-latest
+     container:
       image: rocker/tidyverse:latest
-    steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
-        with:
-          ref: ccre-dam-data
-          fetch-depth: 1
-
-      - name: Create ccre-dam-data-qaqc directory
-        run: mkdir $GITHUB_WORKSPACE/ccre-dam-data-qaqc
-
-      - name: Remove existing files
-        run: |
-          rm -f $GITHUB_WORKSPACE/ccre-dam-data-qaqc/ccre-waterquality.csv
-          rm -f $GITHUB_WORKSPACE/ccre-dam-data-qaqc/ccre-met.csv
-
-      - name: Copy files to ccre-dam-data-qaqc branch
-        run: |
-          ls -l
-          cp ccre-waterquality.csv $GITHUB_WORKSPACE/ccre-dam-data-qaqc/ccre-waterquality.csv
-          cp ccre-met.csv $GITHUB_WORKSPACE/ccre-dam-data-qaqc/ccre-met.csv
-
-      - name: Configure Git
-        run: |
-          git config --global --add safe.directory /__w/CCRE-data/CCRE-data
-
-      - name: Remove untracked files
-        run: |
-          git clean -dff
-
-      - name: Checkout branch
-        run: |
-          git config --global user.email "v.daneshmand@gmail.com"
-          git config --global user.name "vahid-dan"
-          git switch ccre-dam-data-qaqc
-          ls -l
-          git add ccre-dam-data-qaqc/ccre-waterquality.csv
-          git add ccre-dam-data-qaqc/ccre-met.csv
-          git commit -m "Updating QAQC files" || echo "No changes to commit"
-          git push || echo "No changes to commit"
-
-      - name: Run QAQC script
-        run: |
-          R -e 'install.packages(c("EDIutils","xml2","here","suncalc"))'
-          Rscript $GITHUB_WORKSPACE/R/QAQC_workflow.R
-          Rscript $GITHUB_WORKSPACE/R/QAQC_met_workflow.R
-
-      - name: Commit files
-        run: |
-          ls -l
-          git add ccre-waterquality_L1.csv
-          git add ccre-met_L1.csv
-          git commit -m "Updating QAQC files" || echo "No changes to commit"
-          git push || echo "No changes to commit"
+     steps:
+       - name: Checkout repo
+         uses: actions/checkout@v3
+         with:
+           ref: ccre-dam-data-qaqc
+           fetch-depth: 1
+       - name: Download necessary files
+         run: |
+            wget https://raw.githubusercontent.com/FLARE-forecast/CCRE-data/ccre-dam-data/ccre-waterquality.csv
+            wget https://raw.githubusercontent.com/FLARE-forecast/CCRE-data/ccre-dam-data/ccre-met.csv
+       - name: Run QAQC script
+         run:  | 
+           R -e 'install.packages(c("EDIutils","xml2","here","suncalc"))'
+           Rscript $GITHUB_WORKSPACE/R/QAQC_workflow.R
+           Rscript $GITHUB_WORKSPACE/R/QAQC_met_workflow.R
+       - name: Configure Git
+         run: |
+            git config --global --add safe.directory /__w/CCRE-data/CCRE-data
+            git config --local user.name "$GITHUB_ACTOR"
+            git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
+       - name: Commit files
+         run: |
+            git add ccre-waterquality_L1.csv
+            git add ccre_met_L1.csv
+            git commit -m "Updating QAQC files" || echo "No changes to commit"
+            git push origin ccre-dam-data-qaqc || echo "No changes to commit"
