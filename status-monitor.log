@@ -1,0 +1,75 @@
+
+############################ diana - 06/20/23 15:00:30 EST ############################
+
+ 15:00:30 up 43 min,  1 user,  load average: 0.13, 0.06, 0.01
+
+
+reboot   system boot  5.15.0-75-generi Tue Jun 20 14:16   still running
+reboot   system boot  5.15.0-75-generi Tue Jun 20 10:01 - 14:15  (04:14)
+reboot   system boot  5.15.0-75-generi Fri Jun 16 15:47 - 16:04  (00:17)
+reboot   system boot  5.15.0-73-generi Thu Jun 15 13:04 - 15:46 (1+02:41)
+reboot   system boot  5.15.0-73-generi Thu Jun 15 12:37 - 12:57  (00:19)
+
+
+
+############################ diana - 06/20/23 15:01:55 EST ############################
+
+ 15:01:55 up 45 min,  1 user,  load average: 0.03, 0.04, 0.00
+
+
+reboot   system boot  5.15.0-75-generi Tue Jun 20 14:16   still running
+reboot   system boot  5.15.0-75-generi Tue Jun 20 10:01 - 14:15  (04:14)
+reboot   system boot  5.15.0-75-generi Fri Jun 16 15:47 - 16:04  (00:17)
+reboot   system boot  5.15.0-73-generi Thu Jun 15 13:04 - 15:46 (1+02:41)
+reboot   system boot  5.15.0-73-generi Thu Jun 15 12:37 - 12:57  (00:19)
+
+
+
+
+
+
+
+
+[  136.051917] audit: type=1400 audit(1687288733.935:14): apparmor="STATUS" operation="profile_load" profile="unconfined" name="docker-default" pid=852 comm="apparmor_parser"
+[  137.330540] bridge: filtering via arp/ip/ip6tables is no longer available by default. Update your scripts to load br_netfilter if you need this.
+[  137.335869] Bridge firewalling registered
+[  137.560778] Initializing XFRM netlink socket
+[  143.779384] loop2: detected capacity change from 0 to 109072
+[  147.848627] audit: type=1400 audit(1687288745.731:15): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/snapd/19457/usr/lib/snapd/snap-confine" pid=1136 comm="apparmor_parser"
+[  147.850521] audit: type=1400 audit(1687288745.731:16): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/snap/snapd/19457/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=1136 comm="apparmor_parser"
+[  150.259587] loop3: detected capacity change from 0 to 8
+[  150.449292] audit: type=1400 audit(1687288748.332:17): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/snap/snapd/19457/usr/lib/snapd/snap-confine" pid=1198 comm="apparmor_parser"
+[  150.487212] audit: type=1400 audit(1687288748.372:18): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/snap/snapd/19457/usr/lib/snapd/snap-confine//mount-namespace-capture-helper" pid=1198 comm="apparmor_parser"
+
+
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2                     2.0G  253M  1.6G  14% /boot
+/dev/mmcblk0p1                     1.1G  6.1M  1.1G   1% /boot/efi
+/dev/sda1                           58G  400K   55G   1% /data
+
+
+
+
+
+
+enp2s0:
+
+
+PING github.com (140.82.114.3) 56(84) bytes of data.
+64 bytes from lb-140-82-114-3-iad.github.com (140.82.114.3): icmp_seq=1 ttl=51 time=7.11 ms
+64 bytes from lb-140-82-114-3-iad.github.com (140.82.114.3): icmp_seq=2 ttl=51 time=8.47 ms
+64 bytes from lb-140-82-114-3-iad.github.com (140.82.114.3): icmp_seq=3 ttl=51 time=10.2 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+rtt min/avg/max/mdev = 7.111/8.593/10.203/1.265 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=60 time=9.18 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=60 time=6.57 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=60 time=8.71 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+rtt min/avg/max/mdev = 6.573/8.152/9.175/1.133 ms

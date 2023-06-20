@@ -1,0 +1,11 @@
+
+############## diana - 06/20/23 15:11:59 EST -0500 ##############
+
+xargs: warning: options --max-args and --replace/-I/-i are mutually exclusive, ignoring previous --max-args value
+2023-06-20 15:11:59 PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+2023-06-20 15:11:59 64 bytes from 8.8.8.8: icmp_seq=1 ttl=60 time=5.13 ms
+2023-06-20 15:12:00 64 bytes from 8.8.8.8: icmp_seq=2 ttl=60 time=6.78 ms
+2023-06-20 15:12:01 64 bytes from 8.8.8.8: icmp_seq=3 ttl=60 time=8.45 ms
+2023-06-20 15:12:01 --- 8.8.8.8 ping statistics ---
+2023-06-20 15:12:01 3 packets transmitted, 3 received, 0% packet loss, time 2002ms
+2023-06-20 15:12:01 rtt min/avg/max/mdev = 5.132/6.786/8.452/1.355 ms
