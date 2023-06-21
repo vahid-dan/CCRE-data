@@ -108,3 +108,23 @@
 2023/06/21 10:43:36 autossh[1272]: clear alarm timer (0 secs left)
 2023/06/21 10:43:36 autossh[1272]: set alarm for 600 secs
 2023/06/21 10:43:36 autossh[1273]: child of 1272 execing /usr/bin/ssh
+2023/06/21 10:51:47 autossh[1272]: check on child 1273
+2023/06/21 10:51:47 autossh[1272]: clear alarm timer (109 secs left)
+2023/06/21 10:51:47 autossh[1272]: set alarm for 109 secs
+2023/06/21 10:51:47 autossh[1272]: signalled to exit
+2023/06/21 10:51:47 autossh[1272]: check on child 1273
+2023/06/21 10:51:47 autossh[1272]: clear alarm timer (109 secs left)
+2023/06/21 10:51:47 autossh[1272]: set alarm for 109 secs
+2023/06/21 10:51:47 autossh[1272]: signalled to exit
+2023/06/21 10:51:47 autossh[1272]: waitpid() not successful: No child processes
+2023/06/21 10:51:47 autossh[1272]: clear alarm timer (109 secs left)
+
+############################ diana - 06/21/23 10:53:44 EST ############################
+
+2023/06/21 10:53:44 autossh[1230]: checking for grace period, tries = 0
+2023/06/21 10:53:44 autossh[1230]: starting ssh (count 1)
+2023/06/21 10:53:44 autossh[1230]: ssh child pid is 1231
+2023/06/21 10:53:44 autossh[1230]: check on child 1231
+2023/06/21 10:53:44 autossh[1230]: clear alarm timer (0 secs left)
+2023/06/21 10:53:44 autossh[1230]: set alarm for 600 secs
+2023/06/21 10:53:44 autossh[1231]: child of 1230 execing /usr/bin/ssh

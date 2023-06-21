@@ -20,3 +20,14 @@ xargs: warning: options --max-args and --replace/-I/-i are mutually exclusive, i
 2023-06-20 22:55:52 --- 8.8.8.8 ping statistics ---
 2023-06-20 22:55:52 3 packets transmitted, 3 received, 0% packet loss, time 2003ms
 2023-06-20 22:55:52 rtt min/avg/max/mdev = 9.516/10.277/11.291/0.746 ms
+
+############## diana - 06/21/23 10:48:30 EST -0500 ##############
+
+xargs: warning: options --max-args and --replace/-I/-i are mutually exclusive, ignoring previous --max-args value
+2023-06-21 10:48:30 PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+2023-06-21 10:48:30 64 bytes from 8.8.8.8: icmp_seq=1 ttl=60 time=8.94 ms
+2023-06-21 10:48:31 64 bytes from 8.8.8.8: icmp_seq=2 ttl=60 time=5.99 ms
+2023-06-21 10:48:32 64 bytes from 8.8.8.8: icmp_seq=3 ttl=60 time=8.23 ms
+2023-06-21 10:48:32 --- 8.8.8.8 ping statistics ---
+2023-06-21 10:48:32 3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+2023-06-21 10:48:32 rtt min/avg/max/mdev = 5.985/7.718/8.939/1.259 ms
