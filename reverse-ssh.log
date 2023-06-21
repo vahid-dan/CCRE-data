@@ -8,3 +8,34 @@
 2023/06/21 09:39:02 autossh[1228]: clear alarm timer (0 secs left)
 2023/06/21 09:39:02 autossh[1228]: set alarm for 600 secs
 2023/06/21 09:39:02 autossh[1229]: child of 1228 execing /usr/bin/ssh
+2023/06/21 09:49:02 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/21 09:49:17 autossh[1228]: timeout polling to accept read connection
+2023/06/21 09:49:17 autossh[1228]: port down, restarting ssh
+2023/06/21 09:49:17 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/21 09:49:17 autossh[1228]: checking for grace period, tries = 0
+2023/06/21 09:49:17 autossh[1228]: starting ssh (count 2)
+2023/06/21 09:49:17 autossh[1228]: ssh child pid is 1588
+2023/06/21 09:49:17 autossh[1228]: check on child 1588
+2023/06/21 09:49:17 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/21 09:49:17 autossh[1228]: set alarm for 600 secs
+2023/06/21 09:49:17 autossh[1588]: child of 1228 execing /usr/bin/ssh
+2023/06/21 09:56:28 autossh[1228]: check on child 1588
+2023/06/21 09:56:28 autossh[1228]: clear alarm timer (169 secs left)
+2023/06/21 09:56:28 autossh[1228]: set alarm for 169 secs
+2023/06/21 09:56:28 autossh[1228]: signalled to exit
+2023/06/21 09:56:28 autossh[1228]: check on child 1588
+2023/06/21 09:56:28 autossh[1228]: clear alarm timer (169 secs left)
+2023/06/21 09:56:28 autossh[1228]: set alarm for 169 secs
+2023/06/21 09:56:28 autossh[1228]: signalled to exit
+2023/06/21 09:56:28 autossh[1228]: waitpid() not successful: No child processes
+2023/06/21 09:56:28 autossh[1228]: clear alarm timer (169 secs left)
+
+############################ diana - 06/21/23 10:00:24 EST ############################
+
+2023/06/21 10:00:24 autossh[1226]: checking for grace period, tries = 0
+2023/06/21 10:00:24 autossh[1226]: starting ssh (count 1)
+2023/06/21 10:00:24 autossh[1226]: ssh child pid is 1227
+2023/06/21 10:00:24 autossh[1226]: check on child 1227
+2023/06/21 10:00:24 autossh[1226]: clear alarm timer (0 secs left)
+2023/06/21 10:00:24 autossh[1226]: set alarm for 600 secs
+2023/06/21 10:00:24 autossh[1227]: child of 1226 execing /usr/bin/ssh
