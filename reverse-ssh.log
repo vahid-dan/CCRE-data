@@ -81,3 +81,30 @@
 2023/06/21 10:28:30 autossh[1297]: clear alarm timer (0 secs left)
 2023/06/21 10:28:30 autossh[1297]: set alarm for 600 secs
 2023/06/21 10:28:30 autossh[1299]: child of 1297 execing /usr/bin/ssh
+
+############################ diana - 06/21/23 10:38:14 EST ############################
+
+2023/06/21 10:38:14 autossh[1951]: bind on 127.0.0.1:61001: Address already in use
+2023/06/21 10:38:30 autossh[1297]: received SIGALRM (end-of-life 0)
+2023/06/21 10:38:45 autossh[1297]: timeout polling to accept read connection
+2023/06/21 10:38:45 autossh[1297]: port down, restarting ssh
+2023/06/21 10:38:45 autossh[1297]: clear alarm timer (0 secs left)
+2023/06/21 10:38:45 autossh[1297]: checking for grace period, tries = 0
+2023/06/21 10:38:45 autossh[1297]: starting ssh (count 2)
+2023/06/21 10:38:45 autossh[1297]: ssh child pid is 1954
+2023/06/21 10:38:45 autossh[1297]: check on child 1954
+2023/06/21 10:38:45 autossh[1297]: clear alarm timer (0 secs left)
+2023/06/21 10:38:45 autossh[1297]: set alarm for 600 secs
+2023/06/21 10:38:45 autossh[1954]: child of 1297 execing /usr/bin/ssh
+2023/06/21 10:39:40 autossh[1297]: received signal to exit (15)
+2023/06/21 10:39:40 autossh[1297]: clear alarm timer (546 secs left)
+
+############################ diana - 06/21/23 10:43:36 EST ############################
+
+2023/06/21 10:43:36 autossh[1272]: checking for grace period, tries = 0
+2023/06/21 10:43:36 autossh[1272]: starting ssh (count 1)
+2023/06/21 10:43:36 autossh[1272]: ssh child pid is 1273
+2023/06/21 10:43:36 autossh[1272]: check on child 1273
+2023/06/21 10:43:36 autossh[1272]: clear alarm timer (0 secs left)
+2023/06/21 10:43:36 autossh[1272]: set alarm for 600 secs
+2023/06/21 10:43:36 autossh[1273]: child of 1272 execing /usr/bin/ssh
