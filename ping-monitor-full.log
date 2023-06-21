@@ -31,3 +31,25 @@ xargs: warning: options --max-args and --replace/-I/-i are mutually exclusive, i
 2023-06-21 10:48:32 --- 8.8.8.8 ping statistics ---
 2023-06-21 10:48:32 3 packets transmitted, 3 received, 0% packet loss, time 2003ms
 2023-06-21 10:48:32 rtt min/avg/max/mdev = 5.985/7.718/8.939/1.259 ms
+
+############## diana - 06/21/23 11:47:21 EST -0500 ##############
+
+xargs: warning: options --max-args and --replace/-I/-i are mutually exclusive, ignoring previous --max-args value
+2023-06-21 11:47:21 PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+2023-06-21 11:47:21 64 bytes from 8.8.8.8: icmp_seq=1 ttl=60 time=6.01 ms
+2023-06-21 11:47:22 64 bytes from 8.8.8.8: icmp_seq=2 ttl=60 time=8.17 ms
+2023-06-21 11:47:23 64 bytes from 8.8.8.8: icmp_seq=3 ttl=60 time=4.79 ms
+2023-06-21 11:47:23 --- 8.8.8.8 ping statistics ---
+2023-06-21 11:47:23 3 packets transmitted, 3 received, 0% packet loss, time 2003ms
+2023-06-21 11:47:23 rtt min/avg/max/mdev = 4.785/6.322/8.172/1.400 ms
+
+############################ diana - 06/21/23 11:51:20 EST -0500 ############################
+
+xargs: warning: options --max-args and --replace/-I/-i are mutually exclusive, ignoring previous --max-args value
+2023-06-21 11:51:20 PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+2023-06-21 11:51:20 64 bytes from 8.8.8.8: icmp_seq=1 ttl=60 time=8.18 ms
+2023-06-21 11:51:21 64 bytes from 8.8.8.8: icmp_seq=2 ttl=60 time=5.54 ms
+2023-06-21 11:51:22 64 bytes from 8.8.8.8: icmp_seq=3 ttl=60 time=8.85 ms
+2023-06-21 11:51:22 --- 8.8.8.8 ping statistics ---
+2023-06-21 11:51:22 3 packets transmitted, 3 received, 0% packet loss, time 2004ms
+2023-06-21 11:51:22 rtt min/avg/max/mdev = 5.543/7.525/8.850/1.427 ms
