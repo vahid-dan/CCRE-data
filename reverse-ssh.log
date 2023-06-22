@@ -1813,3 +1813,15 @@
 2023/06/22 13:24:26 autossh[1232]: clear alarm timer (0 secs left)
 2023/06/22 13:24:26 autossh[1232]: set alarm for 600 secs
 2023/06/22 13:24:26 autossh[1233]: child of 1232 execing /usr/bin/ssh
+2023/06/22 13:28:30 autossh[1232]: received signal to exit (15)
+2023/06/22 13:28:30 autossh[1232]: clear alarm timer (356 secs left)
+
+############################ diana - 06/22/23 13:45:24 EST -0500 ############################
+
+2023/06/22 13:45:24 autossh[1260]: checking for grace period, tries = 0
+2023/06/22 13:45:24 autossh[1260]: starting ssh (count 1)
+2023/06/22 13:45:24 autossh[1260]: ssh child pid is 1262
+2023/06/22 13:45:24 autossh[1260]: check on child 1262
+2023/06/22 13:45:24 autossh[1260]: clear alarm timer (0 secs left)
+2023/06/22 13:45:24 autossh[1260]: set alarm for 600 secs
+2023/06/22 13:45:24 autossh[1262]: child of 1260 execing /usr/bin/ssh
