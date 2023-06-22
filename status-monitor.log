@@ -693,3 +693,65 @@ PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
 --- 8.8.8.8 ping statistics ---
 3 packets transmitted, 3 received, 0% packet loss, time 2001ms
 rtt min/avg/max/mdev = 6.103/7.575/10.089/1.786 ms
+
+############################ diana - 06/22/23 13:16:06 EST -0500 ############################
+
+ 13:16:06 up 1 min,  0 users,  load average: 0.27, 0.12, 0.04
+
+
+reboot   system boot  5.15.0-75-generi Thu Jun 22 13:14   still running
+reboot   system boot  5.15.0-75-generi Thu Jun 22 13:03 - 13:08  (00:05)
+reboot   system boot  5.15.0-75-generi Wed Jun 21 11:13 - 13:02 (1+01:49)
+reboot   system boot  5.15.0-75-generi Wed Jun 21 11:06 - 11:12  (00:06)
+reboot   system boot  5.15.0-75-generi Wed Jun 21 10:59 - 11:05  (00:05)
+
+
+
+
+
+
+
+
+[   10.033261] audit: type=1400 audit(1687457703.031:10): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=657 comm="apparmor_parser"
+[   10.033267] audit: type=1400 audit(1687457703.031:11): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/{,usr/}sbin/dhclient" pid=657 comm="apparmor_parser"
+[   13.987049] igb 0000:03:00.0 eno1: igb: eno1 NIC Link is Up 1000 Mbps Full Duplex, Flow Control: RX
+[   13.987384] IPv6: ADDRCONF(NETDEV_CHANGE): eno1: link becomes ready
+[   15.447996] loop3: detected capacity change from 0 to 8
+[   16.446664] kauditd_printk_skb: 4 callbacks suppressed
+[   16.446671] audit: type=1400 audit(1687457709.447:16): apparmor="STATUS" operation="profile_load" profile="unconfined" name="docker-default" pid=897 comm="apparmor_parser"
+[   18.534225] bridge: filtering via arp/ip/ip6tables is no longer available by default. Update your scripts to load br_netfilter if you need this.
+[   18.538343] Bridge firewalling registered
+[   18.767248] Initializing XFRM netlink socket
+
+
+Filesystem                         Size  Used Avail Use% Mounted on
+/dev/mmcblk0p2                     2.0G  253M  1.6G  14% /boot
+/dev/mmcblk0p1                     1.1G  6.1M  1.1G   1% /boot/efi
+/dev/sda1                           58G  836K   55G   1% /data
+
+
+
+
+
+
+enp2s0:
+
+
+PING github.com (140.82.112.4) 56(84) bytes of data.
+64 bytes from lb-140-82-112-4-iad.github.com (140.82.112.4): icmp_seq=1 ttl=51 time=11.0 ms
+64 bytes from lb-140-82-112-4-iad.github.com (140.82.112.4): icmp_seq=2 ttl=51 time=10.6 ms
+64 bytes from lb-140-82-112-4-iad.github.com (140.82.112.4): icmp_seq=3 ttl=51 time=11.7 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2005ms
+rtt min/avg/max/mdev = 10.577/11.097/11.676/0.450 ms
+
+
+PING 8.8.8.8 (8.8.8.8) 56(84) bytes of data.
+64 bytes from 8.8.8.8: icmp_seq=1 ttl=60 time=9.29 ms
+64 bytes from 8.8.8.8: icmp_seq=2 ttl=60 time=9.75 ms
+64 bytes from 8.8.8.8: icmp_seq=3 ttl=60 time=9.58 ms
+
+--- 8.8.8.8 ping statistics ---
+3 packets transmitted, 3 received, 0% packet loss, time 2005ms
+rtt min/avg/max/mdev = 9.287/9.540/9.749/0.191 ms
