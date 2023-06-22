@@ -1247,3 +1247,535 @@
 2023/06/22 00:19:38 autossh[1228]: check on child 11239
 2023/06/22 00:19:38 autossh[1228]: clear alarm timer (0 secs left)
 2023/06/22 00:19:38 autossh[1228]: set alarm for 600 secs
+2023/06/22 00:29:38 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 00:29:38 autossh[1228]: not what I sent: "diana autossh 1228 272592010 
+" : ""
+2023/06/22 00:29:39 autossh[1228]: connection ok
+2023/06/22 00:29:39 autossh[1228]: check on child 11239
+2023/06/22 00:29:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 00:29:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 00:39:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 00:39:39 autossh[1228]: not what I sent: "diana autossh 1228 2106303082 
+" : ""
+2023/06/22 00:39:39 autossh[1228]: not what I sent: "diana autossh 1228 2106303082 
+" : ""
+2023/06/22 00:39:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 00:39:39 autossh[1228]: port down, restarting ssh
+2023/06/22 00:39:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 00:39:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 00:39:39 autossh[1228]: starting ssh (count 78)
+2023/06/22 00:39:39 autossh[1228]: ssh child pid is 11705
+2023/06/22 00:39:39 autossh[1228]: check on child 11705
+2023/06/22 00:39:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 00:39:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 00:39:39 autossh[11705]: child of 1228 execing /usr/bin/ssh
+2023/06/22 00:49:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 00:49:39 autossh[1228]: not what I sent: "diana autossh 1228 1046282939 
+" : ""
+2023/06/22 00:49:39 autossh[1228]: not what I sent: "diana autossh 1228 1046282939 
+" : ""
+2023/06/22 00:49:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 00:49:39 autossh[1228]: port down, restarting ssh
+2023/06/22 00:49:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 00:49:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 00:49:39 autossh[1228]: starting ssh (count 79)
+2023/06/22 00:49:39 autossh[1228]: ssh child pid is 11817
+2023/06/22 00:49:39 autossh[1228]: check on child 11817
+2023/06/22 00:49:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 00:49:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 00:49:39 autossh[11817]: child of 1228 execing /usr/bin/ssh
+2023/06/22 00:59:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 00:59:39 autossh[1228]: not what I sent: "diana autossh 1228 331701331 
+" : ""
+2023/06/22 00:59:39 autossh[1228]: not what I sent: "diana autossh 1228 331701331 
+" : ""
+2023/06/22 00:59:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 00:59:39 autossh[1228]: port down, restarting ssh
+2023/06/22 00:59:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 00:59:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 00:59:39 autossh[1228]: starting ssh (count 80)
+2023/06/22 00:59:39 autossh[1228]: ssh child pid is 11931
+2023/06/22 00:59:39 autossh[1228]: check on child 11931
+2023/06/22 00:59:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 00:59:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 00:59:39 autossh[11931]: child of 1228 execing /usr/bin/ssh
+2023/06/22 01:09:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 01:09:39 autossh[1228]: not what I sent: "diana autossh 1228 1869538432 
+" : ""
+2023/06/22 01:09:39 autossh[1228]: not what I sent: "diana autossh 1228 1869538432 
+" : ""
+2023/06/22 01:09:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 01:09:39 autossh[1228]: port down, restarting ssh
+2023/06/22 01:09:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 01:09:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 01:09:39 autossh[1228]: starting ssh (count 81)
+2023/06/22 01:09:39 autossh[1228]: ssh child pid is 12041
+2023/06/22 01:09:39 autossh[1228]: check on child 12041
+2023/06/22 01:09:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 01:09:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 01:09:39 autossh[12041]: child of 1228 execing /usr/bin/ssh
+2023/06/22 01:19:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 01:19:39 autossh[1228]: not what I sent: "diana autossh 1228 500737089 
+" : ""
+2023/06/22 01:19:39 autossh[1228]: not what I sent: "diana autossh 1228 500737089 
+" : ""
+2023/06/22 01:19:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 01:19:39 autossh[1228]: port down, restarting ssh
+2023/06/22 01:19:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 01:19:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 01:19:39 autossh[1228]: starting ssh (count 82)
+2023/06/22 01:19:39 autossh[1228]: ssh child pid is 12156
+2023/06/22 01:19:39 autossh[1228]: check on child 12156
+2023/06/22 01:19:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 01:19:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 01:19:39 autossh[12156]: child of 1228 execing /usr/bin/ssh
+2023/06/22 01:29:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 01:29:39 autossh[1228]: not what I sent: "diana autossh 1228 1891335746 
+" : ""
+2023/06/22 01:29:39 autossh[1228]: not what I sent: "diana autossh 1228 1891335746 
+" : ""
+2023/06/22 01:29:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 01:29:39 autossh[1228]: port down, restarting ssh
+2023/06/22 01:29:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 01:29:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 01:29:39 autossh[1228]: starting ssh (count 83)
+2023/06/22 01:29:39 autossh[1228]: ssh child pid is 12267
+2023/06/22 01:29:39 autossh[1228]: check on child 12267
+2023/06/22 01:29:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 01:29:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 01:29:39 autossh[12267]: child of 1228 execing /usr/bin/ssh
+2023/06/22 01:39:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 01:39:39 autossh[1228]: not what I sent: "diana autossh 1228 63081429 
+" : ""
+2023/06/22 01:39:39 autossh[1228]: not what I sent: "diana autossh 1228 63081429 
+" : ""
+2023/06/22 01:39:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 01:39:39 autossh[1228]: port down, restarting ssh
+2023/06/22 01:39:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 01:39:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 01:39:39 autossh[1228]: starting ssh (count 84)
+2023/06/22 01:39:39 autossh[1228]: ssh child pid is 12376
+2023/06/22 01:39:39 autossh[1228]: check on child 12376
+2023/06/22 01:39:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 01:39:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 01:39:39 autossh[12376]: child of 1228 execing /usr/bin/ssh
+2023/06/22 01:49:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 01:49:39 autossh[1228]: not what I sent: "diana autossh 1228 233296954 
+" : ""
+2023/06/22 01:49:39 autossh[1228]: not what I sent: "diana autossh 1228 233296954 
+" : ""
+2023/06/22 01:49:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 01:49:39 autossh[1228]: port down, restarting ssh
+2023/06/22 01:49:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 01:49:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 01:49:39 autossh[1228]: starting ssh (count 85)
+2023/06/22 01:49:39 autossh[1228]: ssh child pid is 12486
+2023/06/22 01:49:39 autossh[1228]: check on child 12486
+2023/06/22 01:49:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 01:49:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 01:49:39 autossh[12486]: child of 1228 execing /usr/bin/ssh
+2023/06/22 01:59:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 01:59:39 autossh[1228]: not what I sent: "diana autossh 1228 1786924484 
+" : ""
+2023/06/22 01:59:39 autossh[1228]: not what I sent: "diana autossh 1228 1786924484 
+" : ""
+2023/06/22 01:59:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 01:59:39 autossh[1228]: port down, restarting ssh
+2023/06/22 01:59:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 01:59:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 01:59:39 autossh[1228]: starting ssh (count 86)
+2023/06/22 01:59:39 autossh[1228]: ssh child pid is 12595
+2023/06/22 01:59:39 autossh[1228]: check on child 12595
+2023/06/22 01:59:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 01:59:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 01:59:39 autossh[12595]: child of 1228 execing /usr/bin/ssh
+2023/06/22 02:09:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 02:09:39 autossh[1228]: not what I sent: "diana autossh 1228 1298805701 
+" : ""
+2023/06/22 02:09:39 autossh[1228]: not what I sent: "diana autossh 1228 1298805701 
+" : ""
+2023/06/22 02:09:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 02:09:39 autossh[1228]: port down, restarting ssh
+2023/06/22 02:09:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 02:09:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 02:09:39 autossh[1228]: starting ssh (count 87)
+2023/06/22 02:09:39 autossh[1228]: ssh child pid is 12704
+2023/06/22 02:09:39 autossh[1228]: check on child 12704
+2023/06/22 02:09:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 02:09:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 02:09:39 autossh[12704]: child of 1228 execing /usr/bin/ssh
+2023/06/22 02:19:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 02:19:39 autossh[1228]: not what I sent: "diana autossh 1228 1397465261 
+" : ""
+2023/06/22 02:19:39 autossh[1228]: not what I sent: "diana autossh 1228 1397465261 
+" : ""
+2023/06/22 02:19:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 02:19:39 autossh[1228]: port down, restarting ssh
+2023/06/22 02:19:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 02:19:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 02:19:39 autossh[1228]: starting ssh (count 88)
+2023/06/22 02:19:39 autossh[1228]: ssh child pid is 12817
+2023/06/22 02:19:39 autossh[1228]: check on child 12817
+2023/06/22 02:19:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 02:19:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 02:19:39 autossh[12817]: child of 1228 execing /usr/bin/ssh
+2023/06/22 02:29:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 02:29:39 autossh[1228]: not what I sent: "diana autossh 1228 1051502111 
+" : ""
+2023/06/22 02:29:39 autossh[1228]: not what I sent: "diana autossh 1228 1051502111 
+" : ""
+2023/06/22 02:29:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 02:29:39 autossh[1228]: port down, restarting ssh
+2023/06/22 02:29:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 02:29:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 02:29:39 autossh[1228]: starting ssh (count 89)
+2023/06/22 02:29:39 autossh[1228]: ssh child pid is 12978
+2023/06/22 02:29:39 autossh[1228]: check on child 12978
+2023/06/22 02:29:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 02:29:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 02:29:39 autossh[12978]: child of 1228 execing /usr/bin/ssh
+2023/06/22 02:39:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 02:39:39 autossh[1228]: not what I sent: "diana autossh 1228 488971123 
+" : ""
+2023/06/22 02:39:39 autossh[1228]: not what I sent: "diana autossh 1228 488971123 
+" : ""
+2023/06/22 02:39:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 02:39:39 autossh[1228]: port down, restarting ssh
+2023/06/22 02:39:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 02:39:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 02:39:39 autossh[1228]: starting ssh (count 90)
+2023/06/22 02:39:39 autossh[1228]: ssh child pid is 13089
+2023/06/22 02:39:39 autossh[1228]: check on child 13089
+2023/06/22 02:39:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 02:39:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 02:39:39 autossh[13089]: child of 1228 execing /usr/bin/ssh
+2023/06/22 02:49:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 02:49:39 autossh[1228]: not what I sent: "diana autossh 1228 1453728070 
+" : ""
+2023/06/22 02:49:39 autossh[1228]: not what I sent: "diana autossh 1228 1453728070 
+" : ""
+2023/06/22 02:49:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 02:49:39 autossh[1228]: port down, restarting ssh
+2023/06/22 02:49:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 02:49:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 02:49:39 autossh[1228]: starting ssh (count 91)
+2023/06/22 02:49:39 autossh[1228]: ssh child pid is 13200
+2023/06/22 02:49:39 autossh[1228]: check on child 13200
+2023/06/22 02:49:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 02:49:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 02:49:39 autossh[13200]: child of 1228 execing /usr/bin/ssh
+2023/06/22 02:59:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 02:59:39 autossh[1228]: not what I sent: "diana autossh 1228 1525617352 
+" : ""
+2023/06/22 02:59:39 autossh[1228]: not what I sent: "diana autossh 1228 1525617352 
+" : ""
+2023/06/22 02:59:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 02:59:39 autossh[1228]: port down, restarting ssh
+2023/06/22 02:59:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 02:59:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 02:59:39 autossh[1228]: starting ssh (count 92)
+2023/06/22 02:59:39 autossh[1228]: ssh child pid is 13311
+2023/06/22 02:59:39 autossh[1228]: check on child 13311
+2023/06/22 02:59:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 02:59:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 02:59:39 autossh[13311]: child of 1228 execing /usr/bin/ssh
+2023/06/22 03:09:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 03:09:39 autossh[1228]: not what I sent: "diana autossh 1228 1452023637 
+" : ""
+2023/06/22 03:09:39 autossh[1228]: not what I sent: "diana autossh 1228 1452023637 
+" : ""
+2023/06/22 03:09:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 03:09:39 autossh[1228]: port down, restarting ssh
+2023/06/22 03:09:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 03:09:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 03:09:39 autossh[1228]: starting ssh (count 93)
+2023/06/22 03:09:39 autossh[1228]: ssh child pid is 13422
+2023/06/22 03:09:39 autossh[1228]: check on child 13422
+2023/06/22 03:09:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 03:09:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 03:09:39 autossh[13422]: child of 1228 execing /usr/bin/ssh
+2023/06/22 03:19:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 03:19:39 autossh[1228]: not what I sent: "diana autossh 1228 1667884209 
+" : ""
+2023/06/22 03:19:39 autossh[1228]: not what I sent: "diana autossh 1228 1667884209 
+" : ""
+2023/06/22 03:19:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 03:19:39 autossh[1228]: port down, restarting ssh
+2023/06/22 03:19:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 03:19:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 03:19:39 autossh[1228]: starting ssh (count 94)
+2023/06/22 03:19:39 autossh[1228]: ssh child pid is 13537
+2023/06/22 03:19:39 autossh[1228]: check on child 13537
+2023/06/22 03:19:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 03:19:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 03:19:39 autossh[13537]: child of 1228 execing /usr/bin/ssh
+2023/06/22 03:29:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 03:29:39 autossh[1228]: not what I sent: "diana autossh 1228 95477877 
+" : ""
+2023/06/22 03:29:39 autossh[1228]: not what I sent: "diana autossh 1228 95477877 
+" : ""
+2023/06/22 03:29:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 03:29:39 autossh[1228]: port down, restarting ssh
+2023/06/22 03:29:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 03:29:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 03:29:39 autossh[1228]: starting ssh (count 95)
+2023/06/22 03:29:39 autossh[1228]: ssh child pid is 13645
+2023/06/22 03:29:39 autossh[1228]: check on child 13645
+2023/06/22 03:29:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 03:29:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 03:29:39 autossh[13645]: child of 1228 execing /usr/bin/ssh
+2023/06/22 03:39:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 03:39:39 autossh[1228]: not what I sent: "diana autossh 1228 958051165 
+" : ""
+2023/06/22 03:39:39 autossh[1228]: not what I sent: "diana autossh 1228 958051165 
+" : ""
+2023/06/22 03:39:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 03:39:39 autossh[1228]: port down, restarting ssh
+2023/06/22 03:39:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 03:39:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 03:39:39 autossh[1228]: starting ssh (count 96)
+2023/06/22 03:39:39 autossh[1228]: ssh child pid is 13755
+2023/06/22 03:39:39 autossh[1228]: check on child 13755
+2023/06/22 03:39:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 03:39:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 03:39:39 autossh[13755]: child of 1228 execing /usr/bin/ssh
+2023/06/22 03:49:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 03:49:39 autossh[1228]: not what I sent: "diana autossh 1228 483821874 
+" : ""
+2023/06/22 03:49:39 autossh[1228]: not what I sent: "diana autossh 1228 483821874 
+" : ""
+2023/06/22 03:49:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 03:49:39 autossh[1228]: port down, restarting ssh
+2023/06/22 03:49:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 03:49:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 03:49:39 autossh[1228]: starting ssh (count 97)
+2023/06/22 03:49:39 autossh[1228]: ssh child pid is 13865
+2023/06/22 03:49:39 autossh[1228]: check on child 13865
+2023/06/22 03:49:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 03:49:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 03:49:39 autossh[13865]: child of 1228 execing /usr/bin/ssh
+2023/06/22 03:59:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 03:59:39 autossh[1228]: not what I sent: "diana autossh 1228 1013471213 
+" : ""
+2023/06/22 03:59:39 autossh[1228]: not what I sent: "diana autossh 1228 1013471213 
+" : ""
+2023/06/22 03:59:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 03:59:39 autossh[1228]: port down, restarting ssh
+2023/06/22 03:59:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 03:59:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 03:59:39 autossh[1228]: starting ssh (count 98)
+2023/06/22 03:59:39 autossh[1228]: ssh child pid is 13976
+2023/06/22 03:59:39 autossh[1228]: check on child 13976
+2023/06/22 03:59:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 03:59:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 03:59:39 autossh[13976]: child of 1228 execing /usr/bin/ssh
+2023/06/22 04:09:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 04:09:39 autossh[1228]: not what I sent: "diana autossh 1228 1636175862 
+" : ""
+2023/06/22 04:09:39 autossh[1228]: not what I sent: "diana autossh 1228 1636175862 
+" : ""
+2023/06/22 04:09:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 04:09:39 autossh[1228]: port down, restarting ssh
+2023/06/22 04:09:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 04:09:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 04:09:39 autossh[1228]: starting ssh (count 99)
+2023/06/22 04:09:39 autossh[1228]: ssh child pid is 14085
+2023/06/22 04:09:39 autossh[1228]: check on child 14085
+2023/06/22 04:09:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 04:09:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 04:09:39 autossh[14085]: child of 1228 execing /usr/bin/ssh
+2023/06/22 04:19:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 04:19:39 autossh[1228]: not what I sent: "diana autossh 1228 454782042 
+" : ""
+2023/06/22 04:19:39 autossh[1228]: not what I sent: "diana autossh 1228 454782042 
+" : ""
+2023/06/22 04:19:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 04:19:39 autossh[1228]: port down, restarting ssh
+2023/06/22 04:19:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 04:19:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 04:19:39 autossh[1228]: starting ssh (count 100)
+2023/06/22 04:19:39 autossh[1228]: ssh child pid is 14199
+2023/06/22 04:19:39 autossh[1228]: check on child 14199
+2023/06/22 04:19:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 04:19:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 04:19:39 autossh[14199]: child of 1228 execing /usr/bin/ssh
+2023/06/22 04:29:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 04:29:39 autossh[1228]: not what I sent: "diana autossh 1228 1714608372 
+" : ""
+2023/06/22 04:29:39 autossh[1228]: not what I sent: "diana autossh 1228 1714608372 
+" : ""
+2023/06/22 04:29:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 04:29:39 autossh[1228]: port down, restarting ssh
+2023/06/22 04:29:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 04:29:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 04:29:39 autossh[1228]: starting ssh (count 101)
+2023/06/22 04:29:39 autossh[1228]: ssh child pid is 14309
+2023/06/22 04:29:39 autossh[1228]: check on child 14309
+2023/06/22 04:29:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 04:29:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 04:29:39 autossh[14309]: child of 1228 execing /usr/bin/ssh
+2023/06/22 04:39:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 04:39:39 autossh[1228]: not what I sent: "diana autossh 1228 293464106 
+" : ""
+2023/06/22 04:39:39 autossh[1228]: not what I sent: "diana autossh 1228 293464106 
+" : ""
+2023/06/22 04:39:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 04:39:39 autossh[1228]: port down, restarting ssh
+2023/06/22 04:39:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 04:39:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 04:39:39 autossh[1228]: starting ssh (count 102)
+2023/06/22 04:39:39 autossh[1228]: ssh child pid is 14419
+2023/06/22 04:39:39 autossh[1228]: check on child 14419
+2023/06/22 04:39:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 04:39:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 04:39:39 autossh[14419]: child of 1228 execing /usr/bin/ssh
+2023/06/22 04:49:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 04:49:39 autossh[1228]: not what I sent: "diana autossh 1228 1890254193 
+" : ""
+2023/06/22 04:49:39 autossh[1228]: not what I sent: "diana autossh 1228 1890254193 
+" : ""
+2023/06/22 04:49:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 04:49:39 autossh[1228]: port down, restarting ssh
+2023/06/22 04:49:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 04:49:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 04:49:39 autossh[1228]: starting ssh (count 103)
+2023/06/22 04:49:39 autossh[1228]: ssh child pid is 14531
+2023/06/22 04:49:39 autossh[1228]: check on child 14531
+2023/06/22 04:49:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 04:49:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 04:49:39 autossh[14531]: child of 1228 execing /usr/bin/ssh
+2023/06/22 04:59:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 04:59:39 autossh[1228]: not what I sent: "diana autossh 1228 1871263878 
+" : ""
+2023/06/22 04:59:39 autossh[1228]: not what I sent: "diana autossh 1228 1871263878 
+" : ""
+2023/06/22 04:59:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 04:59:39 autossh[1228]: port down, restarting ssh
+2023/06/22 04:59:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 04:59:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 04:59:39 autossh[1228]: starting ssh (count 104)
+2023/06/22 04:59:39 autossh[1228]: ssh child pid is 14640
+2023/06/22 04:59:39 autossh[1228]: check on child 14640
+2023/06/22 04:59:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 04:59:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 04:59:39 autossh[14640]: child of 1228 execing /usr/bin/ssh
+2023/06/22 05:09:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 05:09:39 autossh[1228]: not what I sent: "diana autossh 1228 1664233905 
+" : ""
+2023/06/22 05:09:39 autossh[1228]: not what I sent: "diana autossh 1228 1664233905 
+" : ""
+2023/06/22 05:09:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 05:09:39 autossh[1228]: port down, restarting ssh
+2023/06/22 05:09:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 05:09:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 05:09:39 autossh[1228]: starting ssh (count 105)
+2023/06/22 05:09:39 autossh[1228]: ssh child pid is 14750
+2023/06/22 05:09:39 autossh[1228]: check on child 14750
+2023/06/22 05:09:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 05:09:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 05:09:39 autossh[14750]: child of 1228 execing /usr/bin/ssh
+2023/06/22 05:19:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 05:19:39 autossh[1228]: not what I sent: "diana autossh 1228 2029983552 
+" : ""
+2023/06/22 05:19:39 autossh[1228]: not what I sent: "diana autossh 1228 2029983552 
+" : ""
+2023/06/22 05:19:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 05:19:39 autossh[1228]: port down, restarting ssh
+2023/06/22 05:19:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 05:19:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 05:19:39 autossh[1228]: starting ssh (count 106)
+2023/06/22 05:19:39 autossh[1228]: ssh child pid is 14868
+2023/06/22 05:19:39 autossh[1228]: check on child 14868
+2023/06/22 05:19:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 05:19:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 05:19:39 autossh[14868]: child of 1228 execing /usr/bin/ssh
+2023/06/22 05:29:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 05:29:39 autossh[1228]: not what I sent: "diana autossh 1228 1724403969 
+" : ""
+2023/06/22 05:29:39 autossh[1228]: not what I sent: "diana autossh 1228 1724403969 
+" : ""
+2023/06/22 05:29:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 05:29:39 autossh[1228]: port down, restarting ssh
+2023/06/22 05:29:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 05:29:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 05:29:39 autossh[1228]: starting ssh (count 107)
+2023/06/22 05:29:39 autossh[1228]: ssh child pid is 14977
+2023/06/22 05:29:39 autossh[1228]: check on child 14977
+2023/06/22 05:29:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 05:29:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 05:29:39 autossh[14977]: child of 1228 execing /usr/bin/ssh
+2023/06/22 05:39:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 05:39:39 autossh[1228]: not what I sent: "diana autossh 1228 1936825916 
+" : ""
+2023/06/22 05:39:39 autossh[1228]: not what I sent: "diana autossh 1228 1936825916 
+" : ""
+2023/06/22 05:39:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 05:39:39 autossh[1228]: port down, restarting ssh
+2023/06/22 05:39:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 05:39:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 05:39:39 autossh[1228]: starting ssh (count 108)
+2023/06/22 05:39:39 autossh[1228]: ssh child pid is 15087
+2023/06/22 05:39:39 autossh[1228]: check on child 15087
+2023/06/22 05:39:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 05:39:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 05:39:39 autossh[15087]: child of 1228 execing /usr/bin/ssh
+2023/06/22 05:49:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 05:49:39 autossh[1228]: not what I sent: "diana autossh 1228 1988802986 
+" : ""
+2023/06/22 05:49:39 autossh[1228]: not what I sent: "diana autossh 1228 1988802986 
+" : ""
+2023/06/22 05:49:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 05:49:39 autossh[1228]: port down, restarting ssh
+2023/06/22 05:49:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 05:49:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 05:49:39 autossh[1228]: starting ssh (count 109)
+2023/06/22 05:49:39 autossh[1228]: ssh child pid is 15198
+2023/06/22 05:49:39 autossh[1228]: check on child 15198
+2023/06/22 05:49:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 05:49:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 05:49:39 autossh[15198]: child of 1228 execing /usr/bin/ssh
+2023/06/22 05:59:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 05:59:39 autossh[1228]: not what I sent: "diana autossh 1228 623203260 
+" : ""
+2023/06/22 05:59:39 autossh[1228]: not what I sent: "diana autossh 1228 623203260 
+" : ""
+2023/06/22 05:59:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 05:59:39 autossh[1228]: port down, restarting ssh
+2023/06/22 05:59:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 05:59:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 05:59:39 autossh[1228]: starting ssh (count 110)
+2023/06/22 05:59:39 autossh[1228]: ssh child pid is 15307
+2023/06/22 05:59:39 autossh[1228]: check on child 15307
+2023/06/22 05:59:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 05:59:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 05:59:39 autossh[15307]: child of 1228 execing /usr/bin/ssh
+2023/06/22 06:09:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 06:09:39 autossh[1228]: not what I sent: "diana autossh 1228 121043599 
+" : ""
+2023/06/22 06:09:39 autossh[1228]: not what I sent: "diana autossh 1228 121043599 
+" : ""
+2023/06/22 06:09:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 06:09:39 autossh[1228]: port down, restarting ssh
+2023/06/22 06:09:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 06:09:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 06:09:39 autossh[1228]: starting ssh (count 111)
+2023/06/22 06:09:39 autossh[1228]: ssh child pid is 15418
+2023/06/22 06:09:39 autossh[1228]: check on child 15418
+2023/06/22 06:09:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 06:09:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 06:09:39 autossh[15418]: child of 1228 execing /usr/bin/ssh
+2023/06/22 06:19:39 autossh[1228]: received SIGALRM (end-of-life 0)
+2023/06/22 06:19:39 autossh[1228]: not what I sent: "diana autossh 1228 1710857770 
+" : ""
+2023/06/22 06:19:39 autossh[1228]: not what I sent: "diana autossh 1228 1710857770 
+" : ""
+2023/06/22 06:19:39 autossh[1228]: tried connection 3 times and failed
+2023/06/22 06:19:39 autossh[1228]: port down, restarting ssh
+2023/06/22 06:19:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 06:19:39 autossh[1228]: checking for grace period, tries = 0
+2023/06/22 06:19:39 autossh[1228]: starting ssh (count 112)
+2023/06/22 06:19:39 autossh[1228]: ssh child pid is 15532
+2023/06/22 06:19:39 autossh[1228]: check on child 15532
+2023/06/22 06:19:39 autossh[1228]: clear alarm timer (0 secs left)
+2023/06/22 06:19:39 autossh[1228]: set alarm for 600 secs
+2023/06/22 06:19:39 autossh[15532]: child of 1228 execing /usr/bin/ssh
