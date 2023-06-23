@@ -188,3 +188,12 @@ To add an exception for this directory, call:
 Working on: /data/diana-logs
 Disk Usage After Git Garbage Collector:
 /dev/sda1                           58G  932K   55G   1% /data
+
+############################ diana - 06/23/23 11:16:20 EST -0500 ############################
+
+Disk Usage Before Git Garbage Collector:
+/dev/sda1                           58G  800K   55G   1% /data
+Working on: /data/ccre-test-data
+Working on: /data/diana-logs
+Disk Usage After Git Garbage Collector:
+/dev/sda1                           58G  692K   55G   1% /data
