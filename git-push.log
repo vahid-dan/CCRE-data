@@ -906,3 +906,28 @@ Everything up-to-date
 
 Logs:
 
+[diana-logs 1f1d78a] 06/25/23 09:44:00 EST -0500: Logs
+ 2 files changed, 38 insertions(+)
+To github.com:vahid-dan/CCRE-data.git
+   704dc79..1f1d78a  diana-logs -> diana-logs
+
+Completed at 06/25/23 09:44:01 EST
+
+
+############################ diana - 06/25/23 09:53:06 EST -0500 ############################
+
+Data:
+
+[ccre-test-data 7d7507c] 06/25/23 09:53:06 EST -0500: Git Backup
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 05152023-head.tar.gz
+remote: error: Trace: e60fdc977bf1185669d456ad27dd2d367fb571101149274edd64978108f81267        
+remote: error: See https://gh.io/lfs for more information.        
+remote: error: File 05152023-head.tar.gz is 843.07 MB; this exceeds GitHub's file size limit of 100.00 MB        
+remote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        
+To github.com:vahid-dan/CCRE-data.git
+ ! [remote rejected] ccre-test-data -> ccre-test-data (pre-receive hook declined)
+error: failed to push some refs to 'github.com:vahid-dan/CCRE-data.git'
+
+Logs:
+
